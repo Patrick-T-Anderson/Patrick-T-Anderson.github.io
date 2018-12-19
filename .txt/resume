@@ -1,3 +1,6 @@
+Related: Patrick-T-Anderson.github.io/resume.docx
+
+
                              Patrick T Anderson
                     Software Engineer & FinTech Architect
                       LinkedIn.com/in/patricktanderson
@@ -12,12 +15,12 @@ Define CityCoin supply chain constraints using Ricardian Contract language.
 Senior Software Engineer:  SlingTV.com  May/2016 - Mar/2018
 Repair, redesign and rewrite the core of in-house C++/lua video player.
 Triage and resolve issues with threading, resource locking, scheduling.
-Build, pack, test Android, Roku, iOS, tvOS with BASH, Jenkins, Python.
+Build, pack, test Android, Roku, iOS, tvOS with BASH, git, Jenkins, Python.
 
 
 Senior Software Engineer:  RackWareInc.com  Dec/2013 - Nov/2015
 Simplify and extend their file-based imaging suite using C++, BASH, Batch.
-Build, package, test, verify and report using BASH, Python, git, Jenkins.
+Build, package, test, verify and report using BASH, git, Jenkins, Python.
 Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
 
 
