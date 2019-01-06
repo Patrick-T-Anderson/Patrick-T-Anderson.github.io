@@ -1,0 +1,6 @@
+Solidity is a smart contract language sometimes used to create coins.
+
+pkg.install npm
+
+npm install -t truffle
+
