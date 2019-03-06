@@ -1,0 +1,32 @@
+2019-03-05: blog.P2PFoundation.net/beyond-bitcoin-and-ethereum%e2%80%8a-%e2%80%8aa-fairer-and-more-just-post-monetary-sociopolitical-economy/2019/02/16
+
+2019-03-05: Trying to get the DecentraLand.org Scene Builder to run.
+
+2019-03-05: Working on github.com/daostack/DAOstack-Hackers-Kit
+
+$ npm run launch-local
+
+npm ERR! code EEXIST
+npm ERR! Refusing to delete /usr/share/man/man1/npx.1: ../../../lib/node_modules/npm/man/man1/npx.1 symlink target is not controlled by npm /usr/share/man/man1
+npm ERR! File exists: /usr/share/man/man1/npx.1
+npm ERR! Move it away, and try again.
+
+$ sudo rm /usr/share/man/man1/npx.1 # had another version in the way
+$ sudo npm -g install npx
+
+$ npm run launch-local
+
+
+2019-03-05: EcoVillage.org >>Global Ecovillage Network    Catalyzing Communities for a Regenerative World    The Global Ecovillage Network envisions a world of empowered citizens and communities, designing and implementing pathways to a regenerative future, while building bridges of hope and international solidarity.
+
+2019-03-05: Laid-off 6 weeks into a 6 month contract of BrightScript programming for DirectTV/AT&T in El Segundo.
+
+2019-03-04: https://cdn.discordapp.com/attachments/495887999922470916/505717540509581352/How_to_DAO_2_recording.jpg
+
+2019-02-25: "'Livery of seisin (/ˈseɪzɪn/) is an archaic legal conveyancing ceremony, formerly practised in feudal England and in other countries following English common law, used to convey holdings in property.'" -- Wikipedia.org/wiki/Livery_of_seisin
+
+2019-02-25: Must review new "Cryptographic Autonomy License":  https://medium.com/holochain/understanding-the-cryptographic-autonomy-license-172ac920966d
+
+2019-02-21: More private cities are being built.
+
+2019-02-21: Working on Earth Change with Henry.

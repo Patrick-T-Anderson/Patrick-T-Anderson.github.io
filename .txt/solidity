@@ -1,6 +1,3 @@
-Solidity is a smart contract language sometimes used to create coins.
+Solidity is a smart contract language running on the Ethereum Virtual Machine (EVM).
 
-pkg.install npm
-
-npm install -t truffle
-
+It is used to define the internal rules coins and organizations.
