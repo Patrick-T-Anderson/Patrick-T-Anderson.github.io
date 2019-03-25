@@ -7,10 +7,7 @@ Related: Patrick-T-Anderson.github.io/resume.docx
                         Patrick.T.Anderson@gmail.com
 
 
-
-
-
-Founder:  Product Futures Foundation  Apr/2018 - Present
+Founder:  Product-Futures-Foundation.github.io  Apr/2018 - Present
 Design "For Product" business model to capture the value of shared assets.
 Define CityCoin supply chain constraints using Ricardian Contract language.
 
@@ -29,7 +26,7 @@ Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
 
 Software Engineer IV:  StorageCraft.com  Oct/2008 - Oct/2013
 Extend block-based imaging suite using cross-platform OO-C and C++.
-Write plugins to read/write VHD and VHDX  for Windows, Linux, macOS.
+Write plugins to read/write VHD and VHDX for Windows, Linux, macOS.
 Integrate VMware VDDK libraries for VMDK and ESXi targets over REST.
 Automate build system to compile, sign, package, verify and report.
 Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.

@@ -23,12 +23,12 @@ set -e #exit on error<br/>
 <br/>
 <a href="pkg.htm">pkg</a> add curl nodejs zeromq-devel<br/>
 <br/>
-<small>[<small>[ -x rustc ]</small>]</small> || curl <a class="ext" href="https://sh.rustup.rs">https://sh.rustup.rs</a> -sSf | sh -s -- --default-toolchain nightly<br/>
+<small>[<small>[ -x rustc ]</small>]</small> || curl <a class="ext" href="https://sh.rustup.rs">https://sh.rustup.rs</a> -sSf | sh -s -- --default-<a href="tool.htm">tool</a>chain nightly<br/>
 <br/>
-#use nightly toolchain<br/>
-rustup toolchain install nightly<br/>
+#use nightly <a href="tool.htm">tool</a>chain<br/>
+rustup <a href="tool.htm">tool</a>chain install nightly<br/>
 rustup default nightly<br/>
-rustup target add wasm32-unknown-unknown --toolchain nightly<br/>
+rustup target add wasm32-unknown-unknown --<a href="tool.htm">tool</a>chain nightly<br/>
 <br/>
 <small>[<small>[ -d holochain-cmd ]</small>]</small> || git clone <a class="ext" href="https://github.com/holochain/holochain-cmd">https://github.com/holochain/holochain-cmd</a><br/>
 <br/>

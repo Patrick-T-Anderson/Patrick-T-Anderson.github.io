@@ -1,28 +1,29 @@
-I wondered how ants organized their societies.  Each colony was so productive and peaceful.  How did they plan their lives and homes?  Did they have religion and government?
+As a child, I wondered how ants organized society.
 
-Meanwhile I saw most people work so hard for so little while others gained too much with almost no effort.
+Every ant in each colony had enough food and shelter
+while so many humans went without these basic needs.
 
-Later I found Richard Stallman's tricky Copyright license requires every user gain access to the Sources of the Products they use.  Sources are akin to the Means of Production in the virtual realm.
+How were the ants able to do what we could not?
 
-It seemed like such an odd requirement.  Few users want to operate the Sources, so what was the point?
+As I grew older, I worried about this problem more.
+I saw many farmers lose their property to debt.
 
-It turns out this arrangement allows the worker to access the Means of Production with nearly zero barrier-to-entry.
+...
 
+Later I noticed the GNU GPL enforces a very strange trade agreement.
+It requires every user gain access to the Sources of that Product.
+Sources are essentially the Means of Production in the virtual realm.
+But few users will ever try to operate the Sources, so what is the point?
 
-== Projects
-Product Futures Foundation
-Future Products Foundation
-CityCoin
-The For Product business model
-Earth Change
+I finally realized this reduces barriers-to-entry to nearly zero.
+
+Product-Futures-Foundation.github.io is an attempt to map this into the material realm.
 
 
 == Software
-resume
 Operating System ideas: GNUnix, pkg, BestOS
 Emacs Adventures: lens, NoteMacs, ewb
 Roku Like a Pro: github.com/AGNUcius/GNUnix/blob/master/bin/roku
-
 
 == Inventions
 CarBox
@@ -30,9 +31,8 @@ DishBot
 RoboJoe
 RoboChef
 
-
 == Writings
-Patrick-T-Anderson.github.io	   # This site
+Patrick-T-Anderson.github.io       # This site
 Peepeth.com/PatrickTAnderson       # Like Tweeter on Ethereum
 Twitter.com/Patrick_T_Ander        # Silly Twitter length limit
 LinkedIn.com/in/patricktanderson
@@ -40,16 +40,15 @@ Facebook.com/PatrickToddAnderson   # Patrick.T.Anderson was already taken
 Instagram.com/patrick.t.anderson
 Medium.com/@Patrick.T.Anderson
 Tumblr.com/blog/patrick-t-anderson
-git.GNU.io/Patrick-T-Anderson	   # GitLab pages not working here
+git.GNU.io/Patrick-T-Anderson      # GitLab pages not working here
 Reddit.com/user/Patrick-T-Anderson
 CrossCrowdPredictiveProduction.github.io
 CrossCrowdPredictiveProduction.BlogSpot.com
 ImputedProduction.BlogSpot.com
 SocialSufficiencyCoalition.BlogSpot.com
 SourceFreedom.BlogSpot.com
+Angel.co/patrick-t-anderson
 
-
-== Older
 Facebook.com/agnucius
 Facebook.com/LordAGNUcius
 github.com/AGNUcius
@@ -59,18 +58,9 @@ Medium.com/@AGNUcius
 GlobalVillages.info/wiki?Agnucius
 MemeFest.org/en/profile/AGNUcius
 Flickr.com/photos/96315358@N04
-P2PFoundation.Ning.com/profile/AGNUcius  # I was here when Satoshi Nakamoto announce BitCoin
+P2PFoundation.Ning.com/profile/AGNUcius  # Satoshi Nakamoto announced BitCoin here.
+
 Forum.FractalFuture.net/t/mapping-the-patterns-of-the-gnu-gpl-into-the-physical-realm
 Blog.P2PFoundation.net/one-loaf-per-child/2007/06/14
 
-
-==Other names
-Free Farm
-Lunch Money
-City of Plenty
-Crowd Control, LandCoin, BreadLandia
-Vertically Integrated Permaculture Mosaic (VIPM)
-Intra Owner Trade Agreement (IOTA)
-PropertyLeft -- Mapping patterns of the GNU GPL into the physical realm
-EcoComics -- The Comical Ecology of Political Economy
-
+resume
