@@ -1,12 +1,66 @@
-2019-03-25: Earth Change ᛯ rough draft is now on KickStarter.
+2019-04-06:
+Earth Change storyboard:
+
+1. Past failures: A better way to share property, swap skills, an issue currency.
+2. Overproduction: The Crisis of Capitalism, The Origin of Profit, The Purpose of Property, The Grapes of Wrath, Artificial Scarcity.
+3. Permaculture creates local, circular and almost free food, shelter, medicine, textiles.
+4. Property Ownership: Stallman vs. Marx and the For Product investment model.
+5. As promises are completed, workers receive the property they need to avoid debt.
+6. The Hippy-Monster DAO issues and sells tokens to build and maintain this Free as in Freedom physical production.
+
+
+2019-04-06: Econ I/O: Tokens flow because we buy goods and services late-in-time.
+
+We can own goods early-in-time by owning the physical Sources of that production.
+
+We can own services early-in-time by accepting work Promises for that production.
+
+Those who own property For Product also own the future goods and services even before they are actually produced.  In fact they own all *potential* production created on their portion of those Sources.
+
+
+2019-04-05: github.com/Robbepop/pdsl
+
+/// Simple smart contract in Rust.
+contract! {
+    /// Flips its state between `true` and `false`.
+    struct Flipper {
+        /// The current state of our flag.
+        value: storage::Value<bool>,
+    }
+
+    impl Deploy for Flipper {
+        /// Initializes our state to `false` upon deploying our smart contract.
+        fn deploy(&mut self) {
+            self.value.set(false)
+        }
+    }
+
+    impl Flipper {
+        /// Flips the current state of our smart contract.
+        pub(external) fn flip(&mut self) {
+            if *self.value {
+                *self.value = false
+            } else {
+                *self.value = true
+            }
+        }
+
+        /// Returns the current state.
+        pub(external) fn get(&self) -> bool {
+            *self.value
+        }
+    }
+}
+
+2019-04-02: Ledger-Open-Call.FundingBox.com "'The Venture Builder for Human Centric Solutions'"
+
+2019-03-25: Earth Change ᛯ in planning at Kickstarter.com/projects/712902160/76969456
 
 2019-03-24: Launched Product-Futures-Foundation.github.io
 
 2019-03-24: Square Foot Title: Each 'token' is a deed of ownership over 1 sq_ft of real estate.
 
 2019-03-24: "'“Community control of land” sounds straightforward, but in practice it can be limited, fleeting, or difficult to achieve due to high property costs and the social, legal, and financial challenges of collectivizing property ownership.'" -- Medium.com/@ecovillagers_alliance/community-land-without-grants-and-debt-689538d53dbd
-
-2019-03-23: Our World -- Owning our future production.
 
 2019-03-22:
 "'
