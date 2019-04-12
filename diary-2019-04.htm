@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>diary-2019-04</title>
+  <link href=".src/preferred.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<p class='header'>
+ <a href="-home.htm">Home</a> | <a href="-diary.htm">Diary</a> | <a href="-todo.htm">Todo</a> | <a href="-index.htm">Index</a> | <a href="-about.htm">About</a> |</p>
+<p class='main'><hr/><span class="date">2019-04-11:</span> <a class="ext" href="http://kadena.io">kadena.io</a> <span class="quot2">>>Pact is the first truly human readable smart contract language. It lets anyone write clearly, directly and safely onto a blockchain—a true advance for secure, automated contracts. Pact supports entirely new business models and on-chain services.</span><br/>
+<br/>
+<hr/><span class="date">2019-04-06:</span><br/>
+<a href="earth change.htm">Earth Change</a> storyboard:<br/>
+<br/>
+1. Past failures: A better way to share <a href="property.htm">property</a>, swap skills and issue currency.<br/>
+2. Over<a href="produc.htm">produc</a>tion: The Crisis of Capitalism, The Origin of Profit, The Purpose of <a href="property.htm">Property</a>, The Grapes of Wrath, Artificial Scarcity.<br/>
+3. Permaculture creates local, circular and almost free food, shelter, medicine, textiles.<br/>
+4. <a href="property.htm">Property</a> <a href="own.htm">Own</a>ership: Stallman vs. Marx and the <a href="for product.htm">For Product</a> investment model.<br/>
+5. As <a href="promis.htm">promis</a>es are completed, <a href="work.htm">work</a>ers receive the <a href="property.htm">property</a> they need to avoid debt.<br/>
+6. Hippy-Monster DAO issues and sells tokens to build and maintain Free as in Freedom <a href="produc.htm">produc</a>tion.<br/>
+<br/>
+<br/>
+<hr/><span class="date">2019-04-06:</span> We commit <a href="property.htm">property</a> and <a href="promis.htm">promis</a>es early-in-time to secure all *potential* <a href="future.htm">future</a> goods and services even before they are actually <a href="produc.htm">produc</a>ed.<br/>
+<br/>
+<hr/><span class="date">2019-04-05:</span> <a class="ext" href="http://github.com/Robbepop/pdsl">github.com/Robbepop/pdsl</a><br/>
+<br/>
+/// Simple smart contract in Rust.<br/>
+contract! <small>{<br/>
+&nbsp;&nbsp;&nbsp; /// Flips its state between `true` and `false`.<br/>
+&nbsp;&nbsp;&nbsp; struct Flipper <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /// The current state of our flag.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; value: storage::Value&lt;bool>,<br/>
+&nbsp;&nbsp;&nbsp; }</small><br/>
+<br/>
+&nbsp;&nbsp;&nbsp; impl Deploy for Flipper <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /// Initializes our state to `false` upon deploying our smart contract.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fn deploy<small>(&amp;mut self)</small> <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="http://self.value.set(false">self.value.set(false</a>)</small><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</small><br/>
+&nbsp;&nbsp;&nbsp; }</small><br/>
+<br/>
+&nbsp;&nbsp;&nbsp; impl Flipper <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /// Flips the current state of our smart contract.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pub<small>(external)</small> fn flip<small>(&amp;mut self)</small> <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if *<a class="ext" href="http://self.value">self.value</a> <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<a class="ext" href="http://self.value">self.value</a> = false<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</small> else <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<a class="ext" href="http://self.value">self.value</a> = true<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</small><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</small><br/>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /// Returns the current state.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pub<small>(external)</small> fn get<small>(&amp;self)</small> -> bool <small>{<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<a class="ext" href="http://self.value">self.value</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</small><br/>
+&nbsp;&nbsp;&nbsp; }</small><br/>
+}</small><br/>
+<br/>
+<hr/><span class="date">2019-04-02:</span> <a class="ext" href="http://Ledger-Open-Call.FundingBox.com">Ledger-Open-Call.FundingBox.com</a> <span class="quot2">"'The Venture Builder for Human Centric Solutions'"</span><br/>
+</p>
+<p class='footer'>
+ Page generated from <a href=".txt/diary-2019-04">diary-2019-04</a> by <a href=".src/lens.el">lens.el</a>.</p>
+</body>
+</html>

@@ -1,0 +1,50 @@
+2019-04-11: kadena.io >>Pact is the first truly human readable smart contract language. It lets anyone write clearly, directly and safely onto a blockchain—a true advance for secure, automated contracts. Pact supports entirely new business models and on-chain services.
+
+2019-04-06:
+Earth Change storyboard:
+
+1. Past failures: A better way to share property, swap skills and issue currency.
+2. Overproduction: The Crisis of Capitalism, The Origin of Profit, The Purpose of Property, The Grapes of Wrath, Artificial Scarcity.
+3. Permaculture creates local, circular and almost free food, shelter, medicine, textiles.
+4. Property Ownership: Stallman vs. Marx and the For Product investment model.
+5. As promises are completed, workers receive the property they need to avoid debt.
+6. Hippy-Monster DAO issues and sells tokens to build and maintain Free as in Freedom production.
+
+
+2019-04-06: We commit property and promises early-in-time to secure all *potential* future goods and services even before they are actually produced.
+
+2019-04-05: github.com/Robbepop/pdsl
+
+/// Simple smart contract in Rust.
+contract! {
+    /// Flips its state between `true` and `false`.
+    struct Flipper {
+        /// The current state of our flag.
+        value: storage::Value<bool>,
+    }
+
+    impl Deploy for Flipper {
+        /// Initializes our state to `false` upon deploying our smart contract.
+        fn deploy(&mut self) {
+            self.value.set(false)
+        }
+    }
+
+    impl Flipper {
+        /// Flips the current state of our smart contract.
+        pub(external) fn flip(&mut self) {
+            if *self.value {
+                *self.value = false
+            } else {
+                *self.value = true
+            }
+        }
+
+        /// Returns the current state.
+        pub(external) fn get(&self) -> bool {
+            *self.value
+        }
+    }
+}
+
+2019-04-02: Ledger-Open-Call.FundingBox.com "'The Venture Builder for Human Centric Solutions'"
