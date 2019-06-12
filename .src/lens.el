@@ -52,15 +52,16 @@
 
 
 ;;; Limitations
-;; Filenames must be all lowercase and
-;; will match case variations in text.
+;; Filenames should be all lowercase but
+;; will match any case variation in text.
 
 
 ;;;  Main entry points
 ;; `lens', `lens-mode', `lens-make-page'
 ;;  `lens-dired-make-marked-pages' and `lens-clean'
 
-;;  In `lens-mode': RET or `mouse-2' at beginning of term visits that file.
+;;  In `lens-mode': RET or `mouse-2' at
+;;  beginning of term visits that file.
 
 ;; `lens-mode' keys:
 ;; f5       `lens-mode-rebuild-mode'
@@ -74,55 +75,40 @@
 ;; .01 new
 ;; .02 cleanup
 ;; .03 do not link to self
+;; .04 external links (j/k)
 
 ;;; Customizations:
-(defcustom lens-global-page-title nil "Title of _all_ generated pages.  If set to `nil' the title is the name of the input file.")
+(defcustom lens-external nil "List of links to external sites.")
+(defcustom lens-global-page-title nil "Title of each generated page.
+If set to `nil' the title is the name of the input file.")
 (defcustom lens-output-dir ".." "where to write the output")
 (defcustom lens-img-dir ".img" "where <img> content is located")
 (defcustom lens-css ".src/preferred.css" "stylesheet")
-(defcustom lens-host-mail "AGNUcius@Gmail.com" "mail address to send edits")
+(defcustom lens-host-mail "Patrick.T.Anderson@gmail.com" "mail address to send edits")
 (defcustom lens-shortest-inner
-  ;; 3 ;too many inner matches
-  4 ;not enough prefix coverage
+  3 ;;too many inner matches
+  ;; 4 ;;not enough prefix coverage
   "Shortest term to match _within_ other terms.
 All terms less than this match only at the beginning of words (using `\\b')")
 
 (defcustom lens-encoding "UTF-8" "XML encoding attribute") ;"ISO-8859-1"
-
-(defcustom lens-pure nil "do not add header and footer")
+(defcustom lens-pure nil "do not add header or footer")
 
 ;;; CODE:
 (require 'time-date)
 (require 'interpreter-minor)
-
 (require 'package)
 (add-to-list 'package-archives
              '("melpa-stable" . "https://stable.melpa.org/packages/"))
 
-;; ;; The following effect only `font-lock'
-;; ;; see `lens-build-mapping' for HTML regexps
-;; (defconst lens-explicit-URL
-;;   "\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
-;;   "This allows illegal domain names and
-;; includes chars 'banned' from implicit-HTTP.")
-
-;; (defconst lens-implicit-HTTP
-;;   ;;"\\(\\([a-zA-Z0-9-]\\)+\\.\\)+\\([a-zA-Z][a-zA-Z]\\)[^])}>:,; \t\n]*"
-;;   "\\(\\([a-zA-Z0-9-]\\)+\\.\\)+[^])}>:,; \t\n]*"
-;;   ;;maybe use `regexp-opt' here?
-;;   "This only allows legal domain names.
-;; I don't know what the  [a-zA-Z][a-zA-Z]  part does.
-;; Characters  ])}>:,; \\t\\\n  end implicit URL.
-;; ")
-
 (defconst lens-implicit-HTTP
-  "\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\([a-zA-Z][a-zA-Z]\\)[^])}>:,; \t\n]*"
+  "\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\([a-zA-Z][a-zA-Z]\\)[^])}>,; \t\n]*"
   ;;maybe use `regexp-opt' here?
-  "Characters ])}>:,; \\t\\\n end the implicit HTTP URL.")
+  "Characters ])}>,; \\t\\\n end the URL.")
 
 (defconst lens-explicit-URL
   "\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
-  "This is to include chars banned from implicit-HTTP.")
+  "This is to include chars banned from lens-implicit-HTTP.")
 
 (defvar lens-mapping nil)
 (defvar lens-input-dirs '("."))
@@ -458,6 +444,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
   ;;encase and terminate
   (setq lens-font-lock
         (concat "\\(\\)\\("
+;				lens-external "\\|"
 				lens-explicit-URL "\\|"
 				lens-implicit-HTTP "\\|"
 				lens-font-lock "zzzzzzzz\\)")))
