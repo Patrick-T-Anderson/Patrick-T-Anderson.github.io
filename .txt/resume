@@ -7,16 +7,21 @@ Related: Patrick-T-Anderson.github.io/resume.pdf
                        Patrick-T-Anderson.github.io
 
 
+Build cross-platform, multi-threaded C/C++ applications and services.
+Diagnose, troubleshoot, debug, distill and modularize legacy code.
+Design pass-through, symmetric, orthogonal interfaces.
+
+
 President:  Product Futures Foundation  Apr/2018 - Present
 Develop the For Product business model to regain the reigns.
-Write LENS, the user friendly, less smart contract language.
+Write LENS, the user friendly, less-smart contract language.
 Architect DAO to pre-allocate product and reduce token flow.
 
 
 Senior Software Engineer:  SlingTV.com  May/2016 - Mar/2018
 Repair, redesign and rewrite the core of in-house C++/lua video player.
 Triage and resolve issues with threading, resource locking, scheduling.
-Build, pack, test Android, Roku, iOS, tvOS with BASH, Python, git, Jenkins.
+Build, pack, test Android, Roku, iOS, with BASH, Python, git, Jenkins.
 
 
 Senior Software Engineer:  RackWareInc.com  Dec/2013 - Nov/2015
