@@ -3,77 +3,40 @@ Related: Patrick-T-Anderson.github.io/resume.pdf
 
                              Patrick T Anderson
                          Senior Software Engineer
-                       Patrick.T.Anderson@gmail.com
-                       Patrick-T-Anderson.github.io
+                       Patrick-T-Anderson@gmail.com
 
 
-Build cross-platform, multi-threaded C/C++ applications and services.
-Diagnose, troubleshoot, debug, distill and modularize legacy code.
-Design pass-through, symmetric, orthogonal interfaces.
+Education:
+Bachelor of Science in Computer Science @ Brigham Young University
+
+
+Skills:
+  Write low-level system code, device drivers and file systems.
+  Architect cross-platform, multi-threaded applications and services.
+  Wield C, C++ and forensic tools to debug, distill and clean old code.
 
 
 President:  Product Futures Foundation  Apr/2018 - Present
-Develop the For Product business model to regain the reigns.
-Write LENS, the user friendly, less-smart contract language.
-Architect DAO to pre-allocate product and reduce token flow.
+  Create For Product business model to evoke Open Source supply chains.
+  Rework smart contract concept as Language Enabling Natural Systems.
+  Define DAO interface to buy and sell future goods and services.
 
 
 Senior Software Engineer:  SlingTV.com  May/2016 - Mar/2018
-Repair, redesign and rewrite the core of in-house C++/lua video player.
-Triage and resolve issues with threading, resource locking, scheduling.
-Build, pack, test Android, Roku, iOS, with BASH, Python, git, Jenkins.
+  Repair, redesign and rewrite the core of in-house C++/lua video player.
+  Triage and resolve issues with threading, resource locking, scheduling.
+  Build, pack, test Android, Roku, iOS, with BASH, Python, git, Jenkins.
 
 
 Senior Software Engineer:  RackWareInc.com  Dec/2013 - Nov/2015
-Simplify and extend their file-based imaging suite using C++, BASH, Batch.
-Build, package, test, verify and report using BASH, Python, git, Jenkins.
-Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
+  Simplify and extend their file-based imaging suite using C++, BASH, Batch.
+  Build, package, test, verify and report using BASH, Python, git, Jenkins.
+  Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
 
 
 Software Engineer IV:  StorageCraft.com  Oct/2008 - Oct/2013
-Extend block-based imaging suite using cross-platform OO-C and C++.
-Write plugins to read/write VHD and VHDX for Windows, Linux, macOS.
-Integrate VMware VDDK libraries for VMDK and ESXi targets over REST.
-Automate build system to compile, sign, package, verify and report.
-Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.
-
-
-Founder:  SocialSufficiencyCoalition.BlogSpot.com  Aug/2005 - Oct/2008
-Start GNUnix as a GNU+Linux distro and begin basic Linux programming.
-Write autolink static website generator with Emacs Lisp, XHTML and CSS.
-Write Intra Owner Trade Agreement as property contract for social goals.
-
-
-Software Engineer III:  Altiris.com  Aug/2000 - Aug/2005
-Write thin C++ library to automate resource management and simplify the API.
-Write Win32 Service to allow remote administration of any Windows client.
-Debug, repair and extend Windows drivers to read and write hardware settings.
-Write dynamic virtual file system for incremental backup to removable media.
-
-
-Software Engineer II:  NovaRad.net  Aug/1999 - Aug/2000
-Integrate DICOM transport & JPEG2k compression into C++ medical imaging client.
-Design predictive caching SCSI robotic tape archiver and begin C implementation.
-
-
-Software Engineer:  NetSchools.in  Jul/1997 - Aug/1999
-Develop UDP/IP packet generator and simple sniffer for IR network.
-Develop Windows logon provider in C using SSPI and Blowfish encryption.
-Help develop write-protection for Windows 9x filesystem and registry.
-Extend RAM paging driver and keyboard filter driver using MS WDK.
-
-
-Software Engineer:  BioVision Motion Capture  Jun/1996 - Jun/1997
-Develop parsers and C++ glue code to import motion capture data.
-Develop other tools to simplify and automate motion data transforms.
-Use matrix mathematics and spline approximations to smooth sparse data.
-
-
-Software Tester:  IBM Eduquest  IBM.com  Feb/1996 - Jul/1996
-Track and fix application bugs in C++ educational software.
-Help write code to translate between Postscript, PCL, PDDP.
-
-
-Bachelor of Science in Computer Science:  Brigham Young University  BYU.edu  Jan/1995 - Dec/1998
-Teacher's Aid:  "Discrete Structures and Combinatorial Mathematics" I and II
-Independent tutor: C and C++
+  Extend block-based imaging suite using cross-platform OO-C and C++.
+  Write plugins to read/write VHD and VHDX for Windows, Linux, macOS.
+  Integrate VMware VDDK libraries for VMDK and ESXi targets over REST.
+  Automate build system to compile, sign, package, verify and report.
+  Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.
