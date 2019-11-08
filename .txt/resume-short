@@ -1,0 +1,43 @@
+Related: Patrick-T-Anderson.github.io/resume.pdf
+
+
+                             Patrick T Anderson
+                         Senior Software Engineer
+                       Patrick-T-Anderson@gmail.com
+                     LinkedIn.com/in/patricktanderson
+
+
+Education:
+Bachelor of Science in Computer Science @ Brigham Young University
+
+
+Skills:
+  Write low-level system code, device drivers and file systems.
+  Architect cross-platform, multi-threaded applications and services.
+  Wield C, C++ and forensic tools to debug, distill and clean old code.
+
+
+President:  Product Futures Foundation  Apr/2018 - Present
+  Create For Product business model to evoke Open Source supply chains.
+  Rework smart contract concept as Language Enabling Natural Systems.
+  Define DAO interface to buy and sell future goods and services.
+
+
+Senior Software Engineer:  SlingTV.com  May/2016 - Mar/2018
+  Repair, redesign and rewrite the core of in-house C++/lua video player.
+  Triage and resolve issues with threading, resource locking, scheduling.
+  Build, pack, test Android, Roku, iOS, with BASH, Python, git, Jenkins.
+
+
+Senior Software Engineer:  RackWareInc.com  Dec/2013 - Nov/2015
+  Simplify and extend their file-based imaging suite using C++, BASH, Batch.
+  Build, package, test, verify and report using BASH, Python, git, Jenkins.
+  Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
+
+
+Software Engineer IV:  StorageCraft.com  Oct/2008 - Oct/2013
+  Extend block-based imaging suite using cross-platform OO-C and C++.
+  Write plugins to read/write VHD and VHDX for Windows, Linux, macOS.
+  Integrate VMware VDDK libraries for VMDK and ESXi targets over REST.
+  Automate build system to compile, sign, package, verify and report.
+  Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.
