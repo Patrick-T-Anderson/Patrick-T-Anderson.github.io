@@ -1,66 +1,44 @@
 see: resume
 
-I confirm the Salary of 140k/Annum + (Company Benefits) for Development Team Lead at Menlo, CA for EPAM.
+Years of experience:
+C and C++: 15+  Built tools, services, device drivers (kernel level).  Reworked, simplified, minimized old code.  A little more than half of this was on Windows, the rest on Linux and macOS.
 
-Full Name: Patrick Todd Anderson
-Contact Number: 801 815 3819
-Email: patrick.t.anderson@gmail.com
-Skype ID: patrick.t.anderson@gmail.com
-Current Location: Soquel, CA
-Work Authorization: US Citizen
-Last 4 digit of SSN: 3064
-Preferred Time to Call and Interview (with Time zone): 10am PST
-Linked In ID: LinkedIn.com/in/patricktanderson
-Expected Time-lines to join(in weeks or Days): 1 week
-Highest Education and Pass out Year: Bachelor of Science in Computer Science @ Brigham Young University 1998
-Any confirmation in pipeline: No
+Linux Use: 15+  Used Linux on many of my own computers since middle 90s.  Also used NetBSD booting over bootp for a few years to compare.  Used CentOS extensively at Rackware and currently run Fedora on my development laptop.
 
-C/C++ Coding: 15+ years.  Most of my career has been focused on these two languages.
+Linux Admin: 5+  Been administering Linux (install/maintain) on my own computers since 90s.  Created and maintain a GNU/Linux distro (overlay of scripts) called GNUnix.
 
-As A Lead (if any): 2-7 years.  I have mentored junior programmers and and acted as lead in many of my roles without that title.  I started two companies (Product Futures Foundation and Social Sufficiency Coalition).  While at BYU I was a Teacher's Aid and also taught C++ as an independent tutor.
+CI/CD: 5+  Initiated automation of build/deploy/test cycle at StorageCraft using Windows Batch files to address product quality issues. Similarly at Rackware with BASH and Jenkins to deploy and test on various cloud providers (spinup/teardown).  At SlingTV I used BASH and Jenkins and a little Python to automate builds/deploy/test for several device types.
 
-CentOS 5/7: 5-10 years.  I have been running Linux and NetBSD on most of my personal PCs since the 90's.  I used and supported CentOS extensively at Rackware
-I created and maintain a GNU/Linux distro called GNUnix.
-I am currently run Fedora 29 on my primary development laptop.
+VM/Cloud: 5+  Used KVM, VMware and VirtualBox at StorageCraft while writing tools to convert between virtual disk types.  Used AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox at Rackware for testing and data migration.
 
-SOAP: 0, but worked extensively with Google Protocol Buffers over REST at Rackware.
+Shell: 5+  Used BASH extensively at Rackware because they had so much already built in that language.  Also use it for the GNUnix 'pkg' utils designed to hide differences between package managers.
 
-CI/CD: 3-5 years.  I took it upon myself to automate the build/deploy/test cycle at StorageCraft using Windows .cmd files - to address some of the quality issues they faced.  At Rackware I did similarly with BASH and Jenkins to deploy and test on various cloud providers.  At SlingTV I used BASH and Jenkins and some Python to automate builds/deploy/test for several device types.
+Lead: 5+  While never given a supervisor title, I have mentored junior programmers and acted as lead in many of my roles.  Started two organizations to explore new economic concepts (Product Futures Foundation and Social Sufficiency Coalition).  At BYU I was a Teacher's Aid for two classes and also taught C++ as an independent tutor.
 
-Shell Scripting: 5-10 years. I used BASH extensively at Rackware because they had so much already built in that language.  I also use it for the GNUnix 'pkg' utilities designed to hide differences between package managers.
+Filesystems: 5+  Altiris, StorageCraft, Rackware: Develop cross-platform tools to manage disks and filesystems and convert between different formats.
+
+Cluster Filesystems: 2+  Deploy cluster filesystem such as CEPH, GlusterFS, Lustre. Co-Design innovative, nearly 'motionless' cluster filesystem based on implicit addressing.
 
 
-Years:
-Linux Administration: 15
-15: Use C and C++ to build new services and tools and rework old code.
-10: Administer Linux
-5: Develop cross-platform tools to manage filesystems and disks.
-3: Automate the build, bundle, deploy, test cycles.
-1: Deploy cluster filesystem such as CEPH, GlusterFS, Lustre.
-1: Co-Design nearly-motionless cluster-filesystem
+Software Tools Engineer
+Google LLC  1600 Amphitheatre Pkwy, Mountain View, CA 94043  (Googleplex)
+  Contractor: NTT Data, Inc.  NTTData.com
+  7950 Legacy Dr., Suite 900, Plano, TX 75024  (800) 745 3263
 
-Job: Product-Futures-Foundation.github.io
-  Grace (Rebecca) Rachmany: github.com/gracerachmany  LinkedIn.com/in/rebeccarachmany  Twitter.com/rebeccarachmany  YouTube.com/user/RebeccaRachmany  HackerNoon.com/@GraceR  Facebook.com/rebecca.rachmany  IWriteICOWhitePapers.com  DAOLeadership.com
 
-Job: DirecTV.com / AT&T
+DirecTV.com / AT&T  Contractor: Pinnacle Group Workforce Solutions  Pinnacle1.com
+  5501 Lyndon B Johnson Freeway  Dallas, TX 75240  (214) 740-2424
 
-Pinnacle Group Workforce Solutions  Jan/07/2019 - Feb/22/2019
-Pinnacle1.com
-(214) 740-2424
-5501 Lyndon B Johnson Freeway  Dallas, TX 75240
-Gross:	$14,000.00
-Taxes $4,121.34
-Net Pay $9,878.66
-
-Job: Dish Network / SlingTV.com 800 333 3474  796 East Utah Valley Drive American Fork, UT 84003
+Job: Dish Network / SlingTV.com
+796 East Utah Valley Drive American Fork, UT 84003  (800) 333 3474
   Director: Dane Bendixen  LinkedIn.com/in/danebendixen
   Supervisor: Drake Backman  LinkedIn.com/in/drake-backman-1885202
   SCRUM Master: Steve Giles  LinkedIn.com/in/steve-giles-9194511
   Team Lead: Sumit Agarwal  LinkedIn.com/in/sumit-agarwal-658b1511
   Co-Worker: Paul Hunt  LinkedIn.com/in/paul-hunt-18b83b8
 
-Job: RackWareInc.com  408 430 5821
+Job: RackWareInc.com
+Milpitas, CA  (408) 430 5821
   Supervisor: Steven Olson  LinkedIn.com/in/pigbear
   Co-Worker: Dan Moulding  LinkedIn.com/in/dan-moulding-68898a
   Co-Worker: Sonboleh M  LinkedIn.com/in/sonboleh-m-58b5b93
-
