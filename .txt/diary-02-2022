@@ -1,0 +1,527 @@
+2022-02-24:
+https://bugzilla.redhat.com/show_bug.cgi?id=1436636
+
+edit /etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="i8042.dritek=1"
+
+# did not fix it
+
+sudo update-grub
+
+2022-02-18:
+
+Funding, is a *threshold* issue.
+
+Any org with Big Money could help others avoid debt.
+
+For example, larger corporations could buy raw land without mortgage
+and then vest ownership to the workers who build an ecovillage there.
+
+By gaining real property ownership, every owner-occupant pays 0 rent!
+
+And if we trade Work Bonds, we can ensure any Future Production.
+
+2022-02-18:
+systemctl stop ua-timer.timer
+systemctl stop ua-license-check.path
+systemctl disable ua-license-check.path
+systemctl disable ua-timer.timer
+
+2022-02-18: Tokenomics Shootout
+CCsehttps://ecorise.gitbook.io/docs/basic/faq
+https://docs.google.com/document/d/11040FOvIJIsjXl0gvkBLRegOIWdYM_04OnXsXzHliTU
+https://docs.google.com/presentation/d/1YhS62BjTgfj3LKMKqPK0PKirkXykIrGhg7-0Ksw3N9Y
+https://nomicon.io/Economics
+
+2022-02-12:
+
+                Metaopoly - A game to make games to find new ways.
+
+Each player receives an identical copy of a Grid depicting a parcel of Land in it's current state.
+
+A Path around the Grid depicts the passage of Time, and the different states of the Grid.
+
+Players place Tiles on the Grid to vote on the future state of that land.
+
+
+For example:
++--------------+
+|GO|        |  |
+|--+--------+--|
+|  |RRRRTTTT|  |
+|  |TTTTTTTT|  |
+|  |TTTTTTTT|  |
+|  |TTTTTTTT|  |
+|  |TTTTTTTT|  |
+|  |TTTTTTTT|  |
+|  |TTTTMMMM|  |
+|  |TTTMWWWW|  |
+|--+--------+--|
+|  |        |  |
++--------------+
+R=Rock
+T=Tree
+M=Mushroom
+W=Water
+
+Before gameplay begins, a RULESET is chosen or created
+to define how COMPONENTS interact within that economy.
+
+COMPONENTS:
+Player: A person.
+Group: A set of Players holding Sources to secure Future Production.
+Bank: A Group with authority to create Money, and transfer Titles.
+Sources: Land and water-rights and all other truly finite things.
+
+Future Production: A specific good or service at a *projected* quantity and quality.
+Source Title: A Bank document representing property ownership of Sources.   https://en.wikipedia.org/wiki/Monopoly_(game)#Deeds
+Work Agreement: A Player or Group commitment to achieve Future Production.
+Money: A set of numerically-denominated (numismatic) Bank documents.
+
+
+Each RULESET is an opportunity for Token Engineers to set internal policy.
+
+RULESET choices:
+. How is Money issued?
+1. In IRL, Federal Reserve Notes are Created as interest-bearing debt, not as Fiat, causing The Bank to eventually own most Source Titles.
+2. In Monopoly, money is a debtless, true Fiat with unlimited supply (the rules even say "The Bank" may create new money on any paper if needed).
+3. The earthChange Fungible Token is issued without debt, but is not Fiat because it is strictly limited in supply by the number of square-meters of land on Earth.
+
+. Who receives the newly minted money?
+1. In IRL the Federal Reserve Banks receive M0 money, and then trickles down through the other Banks. 
+2. In Monopoly it is *handed out* like UBI, every time you pass GO.
+3. earthChange is *sold* to buy Sources.
+
+. How are Sources acquired?
+1. In IRL, Banks usually loan (rent) Money to Players and Groups.
+2. In Monopoly, if you can buy Sources from the UBI, you can charge rent.
+3. In the For Product model, you gain Source Titles as you complete Work Agreements.
+
+. How is Future Production organized?
+1. In IRL and Metaopoly_default it is mostly organized by those who sell to Players For Profit.
+2. In the For Product model it is organized by the Players who want those results.
+
+. How do you gain Land ownership?
+1. In IRL, Banks offer interest-bearing debt as loans or Mortgages.
+2. In Monopoly, the Bank transfers Source Titles in return for 'cash' Money (no loans).
+3. For Product: Bank transfers Source Titles in return for completed Work Agreements.
+
+. What do workers receive?
+1. IRL and Metaopoly_default: Money
+2. For Product: Source Titles
+
+. How can a Player fix a pothole?
+1. IRL and Metaopoly_default: Pay Money (taxes) and vote for a representative.
+2. For Product: Sign Work Agreements to "cross-pay" for that Future Production.
+
+
+2022-02-09: WWOOF-USA About Me
+
+I grew up on a 640 acre farm in the Idaho desert.  We grew Alfalfa and raised just enough Chickens, Cattle and Bees to have Eggs, Meat and Honey.
+
+After the farm I worked construction, some of it overseas with DomeTechnoloy.com
+
+I love working with my hands and usually able to solve almost any problem.
+
+I have repaired hundreds of small engines such as motorcycles and lawn mowers, etc.
+
+I was drawn to computer programming (Software Engineering) because of the control it seemed to give me.
+
+But as began to realize we do not control our food systems, I have refocused my goals to be directly involved in permaculture.
+
+2022-02-09: flow chart
+
+2022-02-09: 213620
+
+2022-02-09:
+
+WWOOF-USA Membership Terms of Use
+ 
+
+PLEASE READ THESE TERMS OF USE CAREFULLY. BY CLICKING “JOIN” OR BY ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF USE AND ALL TERMS INCLUDED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE THE SERVICES.
+
+ 
+
+These Terms of Use may be changed at any time by WWOOF-USA without notice. Your continued access and use of this website will mean that you agree to be bound by the most current version of the Terms of Use. Please check these terms and conditions periodically for any changes.
+
+ 
+
+The intention of these conditions is that both parties have a full and mutual understanding between them for an enjoyable and fulfilling WWOOF experience.
+
+ 
+
+Membership Terms & Conditions
+
+ 
+
+WWOOF-USA's function is limited to providing the current host and WWOOFer directory to members. WWOOF-USA cannot accept responsibility for injury, loss, or damage. By joining, you agree to release, indemnify, assume the defense of (if requested), and hold harmless WWOOF-USA and its directors, officers, employees and agents from and against any and all liability, loss, wage claims, workers compensation claims, damages, costs or expense (including travel expenses or attorney's fees).  You are aware of local, state and federal labor laws, which apply to you, and will be in compliance with them. You agree to produce suitable identification for membership verification upon request. 
+
+WWOOFers: By joining WWOOF-USA, you  agree to the following: You will contact each host you would like to visit in advance, and to leave immediately if requested to do so. In addition, you understand that you are solely responsible for all of your transportation to and from the host, regardless of the circumstances.  Please read section 5 for additional WWOOFer terms.
+
+Hosts: By joining WWOOF-USA, you agree to the following: You will follow the WWOOF host guidelines (section 4.1).  You recognize that WWOOFing is a cultural and educational exchange, and not a labor source. You understand that it is your responsibility to investigate farmer, homeowner, and other insurance options to find the best fit for your needs. Please read section 4 for additional host terms.
+
+By joining, all members further agree to follow WWOOF’s membership guidelines: WWOOFers spend about half of each day helping out on a host farm, learn about organic farming and sustainable agriculture, and receive room and board during their visit – with no money exchanged between hosts and WWOOFers.
+
+ 
+
+General Terms & Conditions
+
+ 
+
+Privacy Policy: We do not store credit card details nor do we share customer details with any 3rd parties.
+
+We’ve updated our Privacy Policy to take into account the requirements of the General Data Protection Regulation (GDPR).
+
+Transparency: We’ve provided additional details about the information we collect and how we use that information. We’ve also explained your choices and the control you have over your information.
+
+Functionality: We may provide you with the ability to access and request correction or deletion of your personal information. This Policy applies to our use of any and all data collected by us in relation to your use of Our Site. Please read the Privacy Policy carefully and ensure that you understand it.
+
+Delivery Policy: Host memberships are reviewed and activated within 1-5 business days; WWOOFer memberships are activated immediately upon receiving payment. Once activated, both memberships provide access to create a profile and view the full online member directory, allowing hosts and WWOOFers to connect for opportunities to learn about sustainable agriculture in USA.
+
+Refund Policy: A refund may be available up to 30 days from purchase date based on a case-by-case review upon request. If any membership policies have been violated within these 30 days then you void your right to a refund.
+
+Pricing: WWOOFer membership price is $40 (single) or $65 (couple) providing display of your profile on the WWOOFer directory and access to the online host directory for 1 year from date of purchase. Host membership price is $20-50 (sliding scale) providing display of your profile on the host directory and access to online WWOOFer directory for 1 year.
+
+Responsibility: The responsibility of WWOOF-USA is limited to providing a means of contact between hosts and WWOOFers. Any arrangements made are entirely the members’ own responsibility.
+
+Full organization name: Worldwide Opportunities on Organic Farms, USA (WWOOF-USA)
+
+ 
+
+1. Eligibility, Registration, and Profiles
+
+1.1 You must be at least 18 years old to access or use the Services. By registering to use our Services, you represent that you are over 18.
+ 
+
+1.2 In order to become a member of WWOOF-USA, you will need to register for an account and create a profile. You agree to (a) provide accurate, truthful, current and complete information when creating your profile; (b) maintain and promptly update your profile information; (c) maintain the security of your profile by protecting your password and restricting access to your profile; (d) promptly notify WWOOF-USA if you discover or otherwise suspect any security breaches related to the Services; and (e) take responsibility for all activities that occur on your profile and accept all risks of any authorized or unauthorized access.  
+
+1.3 Safety and Security.  For the safety and security of all members, WWOOF-USA does not allow sex offenders or convicted felons to participate in the WWOOF program, unless they apply to us prior to application during the Safety and Security stage of registration. If we receive notification that you, your WWOOFing partner, or anyone in your household (for hosts), are in violation of this policy, we reserve the right to revoke your membership immediately. If a potential member feels that their circumstances warrant further consideration, we request you provide a written explanation to:  info@wwoofusa.org
+
+ This information will be reviewed by a committee with regard to the safety of our members. Failure to provide further explanation, falsification, or omission of data will result in denial of or revocation of membership.
+
+1.4 WWOOF profiles are not transferable. You may only share a profile if you register for a couple account. Each individual WWOOFer must use their legal name when registering for identification purposes. Names on the accounts cannot be changed. The only other allowance of a shared account is when minors wish to WWOOF with their parent or legal guardian. Not properly registering everyone in your party is cause for membership revocation. In order to preserve member accountability, no member may have more than one account. If an account expires and a member wishes to renew, they must renew their previous account. Members should notify WWOOF-USA of account theft or of unauthorized use.
+
+1.5 Visas and Immigration. If you are traveling to the USA as a foreign national, please be aware that WWOOF-USA cannot help you obtain a visa and you are responsible for understanding the laws when you enter the country. WWOOF-USA is not responsible for any problems you may experience with immigration. For more information, please see our FAQs.
+
+1.6 Insurance. WWOOFers are encouraged to have travel, medical, or other adequate insurance, and hosts may ask WWOOFers if they have any coverage before they arrive. Additionally, most hosts have some types of coverage in their homeowner’s policy, however WWOOF is not an expert on insurance, so can’t give advice. You acknowledge that you assume responsibility for any risks.
+
+1.7 You agree to respect members' privacy, gender, and personal and human rights and freedoms at all times.
+
+ 
+
+2. Interaction with Other Members
+
+2.1 You Have Sole Responsibility When Interacting with Other Members. WWOOF’s function is limited to supplying the current directory so that members can learn about one another, communicate and arrange visits. You are solely responsible for your interactions with other members of our Services. We do not monitor interactions between you and other members as a matter of course and have no obligation to do so.  We do however reserve the right to do so if we wish.
+
+2.2 Identity Verification. We cannot and do not confirm each member’s identity. You are solely responsible for determining the identity and suitability of others with whom you may interact through our Services. WWOOF-USA does not represent or warrant that our tools are sufficient to determine whether it is appropriate for you to interact with another member. Further, we do not endorse any persons who use or register for our Services. We do not investigate or verify any member’s reputation, conduct, morality, criminal background, or any information members may submit to the Services. We encourage you to take precautions when interacting with other members, particularly when meeting a stranger in person for the first time. Furthermore, you agree to produce suitable identification if requested by a host or WWOOFer for membership verification.
+
+2.3 Release.  WWOOF-USA’s function is limited to providing members with access to current directory of members and that WWOOF-USA cannot accept responsibility for injury, loss, or damage. You agree to release, indemnify, assume the defense of (if requested), and hold harmless WWOOF-USA and its directors, officers, employees and agents from and against any and all liability, loss, wage claims, workers compensation claims, damages, costs or expense (including travel expenses or attorney’s fees).
+
+ 
+
+3. Member Content and Conduct
+
+3.1 Member Content. The WWOOF-USA website includes interactive areas such as your profile and the forums where you or other members can create, post or store content, messages, materials, photos, or other items or materials on the Services (collectively, “Member Content”). You are solely responsible for your use of such interactive areas and agree that your use of these areas is at your own risk.
+
+3.2 Member Content Restrictions. You are solely responsible for any Member Content that you submit, post or transmit via our Services. WWOOF-USA does not permit content to be posted that contains personal attacks or insults, profanity, inappropriate, illegal, lewd, or unrelated content, hate speech, sexual references, intentionally inflammatory rhetoric, or defamation (including libel).  Additionally, we do not permit content to be posted that:
+
+contains personal contact information such as name, phone number, websites, etc in profile descriptions since these are visible to the public;
+contains unsolicited promotions, political campaigning, advertising or solicitations, without our prior written consent;
+contains private or personal information about another person, unless such person has agreed to the disclosure of this information;
+contains viruses, corrupted data or other harmful, disruptive or destructive files viruses, cancel bots, Trojan horses, harmful code, flood pings, denial-of-service attacks, packet or IP spoofing, forged routing or electronic mail address information or similar methods or technology;
+may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. By posting Member Content, you represent and warrant that you have the lawful right to distribute and reproduce such Member Content; or any third party.
+We do not monitor Member Content as a matter of course.  If you become aware of Member Content that violates these Terms, you may contact us directly to report. We may, in our sole discretion, edit, remove or delete any Member Content without notice but are not obliged to do so.
+
+3.3 Member Conduct. By accessing or using the Services, you agree to act responsibly, exercise good judgment and you agree not to:
+
+use the Services in violation of any applicable law or regulation, including promoting, participating in, or encouraging any illegal activity;
+infringe the rights of any third party, including without limitation, intellectual property, privacy, publicity or contractual rights;
+use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other members from fully enjoying the Services or that could damage, disable, overburden or impair the functioning of the Services in any manner;
+use our Services in connection with the distribution of spam (which we define as sending the same message to 10 or more members, unsolicited bulk e-mail or any other unsolicited messages of a commercial, religious, romantic or political or other nature not within the intended purposes of the Services);
+stalk, intimidate, threaten or otherwise harass or cause discomfort to any other member of our Services or WWOOF-USA employee;
+collect or store any information about any other member other than as permitted on our Services;
+publish or publicize the personal information of other WWOOF-USA members (including name, address, or other private details) without the prior permission of that member;
+use our Services for any commercial purpose whatsoever, unless with prior written consent from WWOOF USA;
+impersonate any person or entity, or falsify or otherwise misrepresent yourself or your affiliation with any person or entity, whether by providing or omitting to provide information;
+circumvent or attempt to defeat any security or verification measure relating to use of the Services;
+assist any third party in doing any of the foregoing.
+3.4 Respect. You further agree to be respectful to hosts, WWOOFers, the host family and their property, and WWOOF-USA employees.
+
+3.5 Respond. In an effort to encourage good communication between members of the Service, you agree to respond to all reasonable messages from other members.  You also acknowledge that your response to messages will be displayed on your profile page as your response rate and time. You further agree to respond to any direct communication from WWOOF administration in a timely manner.
+
+ 
+
+4. Host Terms
+
+4.1 As a WWOOF-USA host, you further agree to support and practice the WWOOF Hosting Guidelines:
+
+Practice organic or sustainable growing methods.
+Provide an educational experience and share knowledge with WWOOFers.
+Provide adequate food for three meals per day.
+Provide suitable and sanitary living accommodations.
+Ask WWOOFers to help for no more than half a day (between 4-6 hours), 5.5 days per week.
+Keep your profile up-to-date with accurate and detailed information about WWOOFer activities.
+4.2 In addition to practicing organic or sustainable growing methods, you agree to the humane treatment of any animals on your property and understand that reports of animal neglect may be cause for membership cancellation. 
+
+4.3 You further agree to disclose on your profile and in communication with WWOOFers if your host farm is also a religious or spiritual organization. You will also disclose if any religious practices, events or behaviors are required of visitors to the farm.
+
+4.4 As a host, you are responsible for WWOOFer safety while they are visiting your farm. If a WWOOFer becomes injured or ill while visiting, you are responsible for helping them seek medical attention and contacting our office for support if needed. A WWOOFer should receive support in recovering from illness/injury by remaining at your farm until able to safely leave, within reason.
+
+ 
+
+5. WWOOFER Terms
+
+As a WWOOFer, you additionally confirm the following:  
+
+5.1 You are solely responsible for all of your transportation to and from the host’s location and any other expenses, regardless of the circumstances.
+
+5.2 You agree to contact each host you would like to visit in advance to arrange a stay, and to leave immediately if requested to do so.
+
+5.3 You agree to notifiy hosts well in advance if due to unforseen circumstances you cannon honor your committment to visit them. If you are a ‘no-show’, hosts may leave negative reviews and ratings on your profile page and in the forums.  Additionally, you understand that WWOOF may cancel your membership if we receive reports of 3 no-shows.
+
+5.4. You agree to respect each host's property and follow all farm rules while visiting.
+
+ 
+
+6. Termination
+
+We may, at our sole discretion and with or without a refund, with or without cause (any such cause may include your breach of the WWOOF-USA Terms and Conditions), and with or without prior notice: (1) Cancel your access to our services, (b) Block or remove your membership and profile and all related information and files.
+
+ 
+
+7. Reporting Misconduct
+
+If you interact with anyone through our Services who you feel is acting or has acted inappropriately, including but not limited to offensive, violent or sexually inappropriate behavior, who steals from you or engages in any other disturbing conduct, we strongly encourage you to immediately report such person to the appropriate authorities and to us by contacting us on feedback@wwoofusa.org. Please note that although we encourage you to report misconduct, we are not responsible or liable for our members’ actions and we are not obligated to take any action.
+
+Close
+
+
+2022-02-04:
+The For Product model conflicts with the usual approach of "financial returns", yet it is provably *just as effective for each shareholder* in a strange, sort of **inverted** manner as you own shares to **avoid** paying the profit you would otherwise pay when buying that product from the regular market.
+
+It is a fundamentally different *reason* to co-own land and farms and factories and all the infrastructure we already pay for as consumers.
+
+We can own these productive assets **because we need the results** to finally regain control of that production and receive those products at the true cost of that production.
+
+By the way, we, as consumers, already pay all the costs of production (and even more when we pay profit), so it is easy to see we could afford to be the owners.
+
+It is common to assume such ownership would require those consumers to be the workers, but I don't understand this stance since we own shares "for profit" without being the workers, so why can we not own shares "for product" without being the workers?
+
+This is actually just one part of a more comprehensive approach that protects the workers in a profoundly deep way by first recognizing every worker is a *consumer* of many different goods and services, then, using that information, we insure each worker gains real property ownership in the land required to produce the goods and services they need to *consume*.
+
+So in the For Product model, workers become owners **as consumers**, both to avoid paying profit, and also to have the ultimate say in how those things are produced.
+
+Every worker gains real land ownership in the land and water-rights and tools, etc. required to produce all of the things they need to consume.
+
+This causes profit, rent and interest to safely approach zero even while all of these special consumer+shareholders are satisfied as property ownership is used to **protect** them from paying more than the real costs of production.
+
+
+But even more profoundly, this approach finally eliminates the usual 'need' for market scarcity since the product itself is never sold (except surplus), because each consumer+shareholder of "beehives" accepts the "honey" itself as the natural return-on-investment.
+
+This allows us to ignore market price and removes the usual temptation to use artificial scarcity to increase prices.
+
+"'They stand still and watch the potatoes float by, listen to the screaming pigs being killed in a ditch and covered with quick-lime, watch the mountains of oranges slop down to a putrefying ooze; and in the eyes of the people there is the failure; and in the eyes of the hungry there is a growing wrath. In the souls of the people the grapes of wrath are filling and growing heavy, growing heavy for the vintage.'" -- The Grapes of Wrath
+
+
+If we do not address this issue, we will never be able to achieve the true abundance we seek because profit actually **requires** scarcity.
+
+Throughout history, governments have made many laws (for example https://Wikipedia.org/wiki/Corn_Laws ) to prop-up prices to 'protect' the owners who intend to sell the product (such as bread) for more than the real costs of production.
+
+We are so accustomed to this approach that it is hard to imagine any other reason to own.
+
+But imagine a bizarre corporation that is wholly owned by the consumers of the product that will be created **and** these strange consumer+shareholders do not *buy* the product from the collective others, but instead simply accept the product itself as the natural ROI.
+
+This approach **only** works for goods and services we can *predict* we will need, but the fortunate thing there is that most 'essential' goods and services are easily predicted.
+
+This is a generalization of https://Wikipedia.org/wiki/Imputed_rent - eliminating Rent from housing and also eliminating Profit from any 'predictable' good or service.
+
+
+2022-02-02: From "'SEEDS Guide V 0.8.5 (SEEDS Community Edit)'"  https://docs.google.com/document/d/1C4w9Ol8VGabCIcQDVPDrwcTRoJXBqhrb7VjslwQbUGU/edit#
+
+1.1 Individual Accounts: Becoming a Visitor, Resident and Citizen
+1.2 Contribution Scores (CS) Defined
+1.3 Contribution Scores - Individual
+1.4 Reputation - Building trust in our new civilization
+1.5 Organisational Accounts: Creating an organisation account and gaining status
+1.6 Contribution Scores - Organisational
+1.7 Regional Accounts: Boundaries by emergence
+1.8 Regional Contribution Scores [2.0 Feature]
+1.9 Badges - Identifying rights and responsibilities [2.0 Feature]
+Section 2: Regenerative Governance - How We Evolve and Decide Together
+2.1 Citizen Governance
+2.2 Trust Tokens Distribution and Design
+2.3 Voting Cycle & Trust Depreciation
+2.4 Voting Rewards
+2.5 Quorum and Unity Thresholds for Referendums Table
+2.6 Staking Seeds for Proposals
+2.7 Referendums
+2.8 Campaign, Alliance and Funding Proposals
+2.9 Distrusting and Needs Improvement
+2.10 Proposal Lifecycles
+2.11 Decentralized Arbitration [2.0 Feature]
+2.12 Intrinsic and extrinsic incentives over punishments
+2.13 Constitutional Guardians (Previously Stewards) [1.1 Feature]
+2.14 Evolution of Decentralized Governance
+2.15 Member Activated Hard Fork
+Section 3: Regenerative Finance - How We Thrive, Coordinate and Distribute Value
+3.1 The Economics of SEEDS
+3.2 Harvest Distribution
+3.3 Calculating an Accounts Share of the Harvest
+3.4 The Gratitude Token - Expanding Tools for Value Distribution and Coordination
+3.5 Escrowed Seeds Release Schedule
+3.6 Burning Seeds (SEEDS 2.O)
+3.7 Seed Bank [2.0 Feature]
+Section 4: Regenerative Economics - How We Create Future Possibilities
+4.1 Using Inflation to Acquire Networks (SEEDS 2.O)
+4.2 Better-Than-Free | The People’s Economy
+4.3 Circular and Regional Economies
+4.4 New Economic Possibilities (Global)
+4.5 New Economic Possibilities (Regional)
+4.6 Retirement Plan / Safety Switch
+
+
+CS (Contribution Scores) are the SEEDS economic alternative to “Proof of Work” (employed in blockchains like Bitcoin, etc) and “Proof of Stake” (Ethereum. etc V2) as a protocol to track and reward contributions to the SEEDS ecosystem and network. While the former tracks but a single metric (“work” or “stake”) SEEDS Contribution Scores track a myriad (and continually expanding) set of metrics and contributions as detailed throughout this section.
+
+The CS of an account determines the Trust Tokens (voice) received for governance decisions (for Citizens) and the share of the Harvest (new Seeds) received (for Residents and Citizens).
+
+Proof of Stake of 1-token=1-vote/reward.
+
+In Proof of Stake networks if an account has staked 50% of the tokens, they’d get 50% of the rewards.
+
+
+“staking” tokens in other blockchain protocols;
+A "transaction" is any blockchain action (not just sending Seeds), like giving ratings, vouching, forum votes, casting Trust Tokens, etc... 
+Participating in decision making via casting or delegating Trust Tokens in SEEDS Governance.
+Members may earn Reputation for participating in decision making (voting and delegating Trust). See Section 2 on governance for more details on Trust tokens, delegation and voting.
+Cast/Delegate your Trust Tokens, Pass Proposals, Earn Reputation Points
+Cast Your Trust Tokens
+Members earn [N] Reputation Points for casting any Trust Tokens during a cycle.
+Cast Your Trust Tokens
+Members earn [N]% of the Reputation Points that the Citizen they delegated their Trust Tokens to received in a cycle.
+Members earn [N]% of the reputation from every account that has delegated their Trust (governance token) to them and they participate in governance that cycle.
+Reputation disproportionately (versus the other metrics) affects the total Seeds and Trust Tokens (governance token) an account earns.
+Regardless of how wealthy (economic volume and planted Seeds) an account is, if they have a negative or 0 reputation score they would earn no rewards (Harvest) and gain no Trust Tokens (governance tokens). This gives the Citizens a tool to defend the economy from a variety of attack vectors.
+Ratings Tokens System [2.0 Feature]
+Provide “Ratings Tokens” that Members need to spend to give a rating. This introduces an opportunity to more deeply consider a rating as it comes with an opportunity cost and may result in more accurate and thoughtful ratings.
+Rating tokens are provided at the start of each cycle equal to the Members Contribution Scores. 
+If a Member gives +7 they would send 7 of their rating tokens; if they give a -4 they send 4 ratings tokens to the organisations. 
+Badges are special tokens and contracts within SEEDS that confer specific rights upon the bearer.
+This is a badge that is issued to an organisation when 3 organisations who hold this badge vouch for another organisation to be a “Rating Org”. Organisations holding this token (badge) are able to rate other organisations. At any time Citizens are able to remove these organisations’ badges through utilizing the “Flag” feature. 
+2.2 Trust Tokens Distribution and Design
+2.2 Trust Tokens Distribution and Design
+Trust Token Distribution Table
+Global Trust Token Distribution
+Trust Tokens are distributed equal to the Contribution Score of the Citizen. 
+E.g. a score of 95 will provide 95 Trust Tokens to that Citizen.
+Regional Trust Token Distribution
+Trust Tokens are distributed equal to the Contribution Score of the Citizen. 
+E.g. a score of 95 will provide 95 Trust Tokens to that Citizen.
+Each Citizen may obtain voting rights through receiving Trust Tokens relative to their Contribution Scores. These Trust Tokens are distributed once per cycle.
+Each Citizen earns Trust Tokens for each category of governance operations in the SEEDS Global and the Region in which they are Members. 
+ [%] of Trust Tokens cast delegatee = [%] of Trust Tokens cast of delegator
+If a delegate casts 1/10 of their Trust Tokens on a proposal it triggers a matching vote of 1/10 of the Trust Tokens of the delegator.
+A citizen can choose their top 2 favourite permaculture practitioners to delegate to and give each one of them 50% of their Trust Tokens (or 60/40… 70/30… 33/33/34… etc).
+Distributing Trust Tokens in a percentile distribution pattern is designed to move beyond Plutocratic or “Mob Rule” approaches to democracy. SEEDS provides a foundation to a more equitable distribution of voice to Citizens by tracking a wider diversity of participation (Contribution Scores) beyond token holdings alone, or 1-Citizen-1-vote. 
+Trust (governance tokens) cannot be obtained with wealth alone (owning Seeds tokens or purchasing Trust tokens). This is a departure from most crypto governance designs that have a governance token that can be bought and sold, creating pure plutocracies (governance by the wealthy). 
+Citizens have until [N] in the voting cycle in order to cast their Trust Tokens without Trust depreciation.. 
+[N]% of total Trust Tokens are removed every 24 hours following the [Trust Depreciation Start] mark
+If Trust Tokens have not been cast by the ‘trust depreciation start” time, then a linear deterioration starts until they reset by the start of the next voting cycle. Trust tokens will be restored for the next voting cycle.
+If Mary has 80 Trust Tokens at the start of the cycle when the deterioration starts she will have 40 Trust Tokens half way through the deterioration and just a few Trust Tokens by the last day before the next cycle. 
+A Member immediately receives Trust Tokens upon evolution to a Citizen to use during that cycle. The depreciation of Trust tokens is applied retroactively. 
+Jane evolved to a Citizen during the second half of a cycle; she'll get a depreciated amount of tokens relative to the point in the cycle and her Contribution Score.
+# of Trust Tokens cast in favour (Trusted) ÷ Trust Tokens casted on proposal
+# of Trust Tokens cast in favour (Trusted) 
+Total Trust Tokens cast in favour on all proposals in the same category and cycle
+[N]% Proportion of Trust Tokens in Favour vs Against
+# of Trust Tokens cast in favour (Trusted) 
+Total Trust Tokens cast on proposal 
+In the event more funding proposals passed than the budget can afford then proposals will be paid out prioritised by the number of Trust Tokens received. 
+Citizens can have their stake returned and close their proposal. Alternatively, Citizens can opt to have their proposal repeated next month. This will reset all Trust Tokens gained.  If the proposal fails to get funding in the second cycle, the proposal will be considered failed, and the Citizen will lose their proposal fee. 
+Citizens are given Trust Tokens unique for each proposal (to vote for or against). 
+However, this doesn’t come without cost. The tokens, accounts, badges, Seeds and other blockchain data would be different from the main SEEDS blockchain (think Bitcoin versus Bitcoin Cash) and the new one. So, this new fork would require applications, exchanges and other tools accessing the network to adopt this new Blockchain for it to have any meaning.  
+IMPORTANT NOTE: THE FOLLOWING PROTOCOLS DON’T TAKE EFFECT UNTIL AFTER “GO LIVE” HAS BEEN TRIGGERED BY THE CITIZENS. BEFORE THAT EVENT, SEEDS IS A FIXED SUPPLY CURRENCY AND BEHAVE AS DETAILED IN THE TOKEN ALLOCATION AND ECONOMICS PAPER
+3.4.1 Gratitude Token
+3.4.2 Abundance Token
+Adding the tokens taken out of circulation and subtracting the tokens brought into circulation from the Gross Harvest suggestion creates the “Net Harvest”. Seeds are created [each hour] and sent directly to accounts following the Harvest distribution.
+These funds are reserved for maintaining the Seed Bank and purchasing the underlying blockchain tokens (TLOS) to reserve adequate bandwidth to maintain SEEDS network bandwidth. 
+3.4.1 Gratitude Token
+This token means nothing if kept (as next cycle it will reset) and only means something once it's given away (a compliment is only valuable when shared). Gratitude is allocated by means of an “acknowledgement” action, that will not specify the exact amount of tokens being shared, being limited to ~[N] of the total gratitude that the account has. To better use all tokens, Members are recommended to acknowledge at least N times per cycle (configured on [gratz.acks] setting), and the exact token value transferred is calculated just at the end of the cycle, based on the number of acknowledgements (acks) each Member made.
+At the end of the cycle, the Seeds amount allocated on the Gratitude contract will be split to all Gratitude Members based on their proportional shares, just before resetting all Gratitude tokens.
+Gratitude Token Table
+Each Resident gets [N] Gratitude tokens as a base distribution at the start of each cycle. 
+Each Citizen gets [N] Gratitude tokens as a base distribution at the start of each cycle. 
+All Seeds in this account will be equally distributed amongst gratitude token (Gratz) holders.
+3.4.2 Abundance Token [2.0 Feature]
+The escrowed Seeds release schedule is designed to reduce sale pressure as escrowed Seeds come into circulation to meet new demand as the SEEDS economy grows. This encourages a more stable value for Seeds and benefits all participants by removing the often-experienced mass “sell off” of tokens in various crypto economic experiments. This mutually beneficial game-dynamic encourages a more stable value for Seeds as they’re released. 
+The Seed Bank is also a powerful tool Citizens can leverage to build alliances with other ecosystems. The assets the Citizens choose to store in the Seed Bank are benefited by being held and locked out of circulation by the Bank. This benefits tokens designed to appreciate in value. 
+For example a regenerative token backing mangrove reforestation that’s designed to appreciate in value as carbon credits are paid to the holders and more forests are regrown. This token would be an ideal candidate for the Seed Bank.
+The Regen DEX is a tool for Members to exchange value directly (without a middleman) amongst each other with a variety of tokens and decentralised (on-chain) currencies and assets. Members can create organisation, village, team or other types of tokens and swap value with people across the globe.
+For example members may swap Seeds with Hypha (Hypha Value Token) or HUSD (a USD Stable token) and a variety of other tokens that Members chose to support using this tool.
+Tokens
+Tokens help Members create new methods of tracking, exchanging, and distributing information and value. 
+There are 3 main types of tokens within SEEDS:
+Trust Tokens
+Trust tokens give Members a tool to more accurately and equitably distribute voice amongst each-other. 
+Since each Member contributes and is committed to SEEDS at varying degrees (and thus variably affected by the outcomes of decisions made within SEEDS) Trust Tokens are a tool to more equitably track and distribute voice based on levels of contribution.
+Value Exchange and Coordination Tokens
+Members gain access to a variety of “tokens” within SEEDS to track, exchange and coordinate value flows. 
+Seeds Tokens
+Gratitude Tokens
+Abundance Tokens [2.0 Feature]
+Abundance is another tool and exploration into radically redesigning how value is distributed. Abundance tokens can be earned through a multitude of Citizen chosen actions. Such as paying more than the average price when using the Gift Economy API.
+More Tokens To Be Co-Created…
+The Gift Economy API gives Members a tool to create hybrid markets. Members are able to buy and sell resources using a ‘sliding scale’ that can go from 0 to any value (either getting it cheaper if they need, or paying excess to earn other benefits like Abundance tokens). 
+For those that pay more than the average price, they earn an equal amount of “abundance tokens” for those that pay less, the seller earns these tokens.
+It provides Members an ability to hold their appreciating crypto-assets while still gaining access to an optimal medium-of-exchange (Seeds) to make their regular purchases with (e.g. you could get a low interest Seeds loan by collateralising your organisations asset tokens).
+An action of entrusting another account with directing your Trust Tokens.
+One who receives the delegation of Trust Tokens from another Citizen.
+One who delegates their Trust Tokens to another Citizen. 
+Name of the currency used by the SEEDS Ecosystem. Divisible to four decimal points. Use interchangeably with ‘token’.
+Tokens
+Trust Token
+SEEDS decouples equity tokens and Trust (voice) tokens. In today’s dominant paradigm “money talks” and simply by virtue of having money, one could buy up a majority voice in any organisation. This is true of many crypto-projects as well. If we’re to build a system that can’t be co-opted or corrupted by our dominant paradigm, we cannot allow legacy value to buy governance in SEEDS. For this reason, Seeds are not what is counted when weighing voice, but rather the number of Trust Tokens an account has earned. Trust is earned through participation and contribution, where money committed is but one metric and not the whole story.
+SEEDS uses nomenclature and models found in our legacy nation-states to ease the transition into SEEDS - further, many functions of our societies today play important roles that can be remodelled to serve us better. One of those functions is the process by which a person can join a new society (or nation-state). The barrier to become a Visitor is extremely low, allowing you to come and experience what SEEDS can offer. When you become a Resident, you begin earning a Harvest and increase your allocated transaction volume based on how many Seeds you have planted. After you gain your citizenship, you unlock further abilities to increase your Harvest and begin earning Trust Tokens to participate in governance. 
+token.seeds
+Main Token Contract for all Seeds
+Hypha’s token selling contract, used to convert EOS, BTC, TLOS and potentially other cryptocurrencies into Seeds
+Contract for the Gratitude Token
+
+
+
+2022-02-01: On the impossibility of sharing the material Sources of Production - User Freedom in the Physical Realm?
+
+It has been said: TANSTAAFL
+
+But lunch could be "Free as in Freedom" if every User could gain fractal* property ownership in all the physical Sources, throughout the entire supply-chain, required for that production.
+
+Just as the solitary owner of a single tree owns that fruit before it blossoms,
+the co-owners of a food forest could each own tiny amounts in each of those physical Sources
+as required to make all the goods and services they each need.
+
+
+(*) Fractal property ownership is a "fractional assets" management strategy designed to:
+
+1. Eliminate the conflict between Users and Shareholders by making them one-and-the-same.
+
+2. Create 
+
+Use Property Rights to enforce Property Left through a strict
+Terms of Operation requiring Users 
+
+
+Users 
+to receive **the actual good or service**
+
+prioritize local production through a
+
+if 🤖s could replace all 'essential' workers,
+because
+don't own the land and water required to grow and ship and cook that food.
+
+
+required to produce all the goods and services they know they will need,
+they could *own* those goods and services **even before they are produced**.
+
+
+But the 🤖s are not here
+

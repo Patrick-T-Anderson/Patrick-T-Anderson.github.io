@@ -1,0 +1,131 @@
+2022-01-31:
+Khttps://youtu.be/LZRh-ByRyPs?t=1869
+
+
+2022-01-31:
+Wow, so after all of that effort to install Chromium without `snap` package manager, Google has disabled "Account Sync" on Chromium, so all passwords are missing.
+
+cd Downloads
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+
+
+2022-01-30:
+
+https://www.youtube.com/watch?v=LZRh-ByRyPs&t=1825s
+
+2022-01-30:
+Bridge the bankers 
+Bridge the bankers How to design that bridge to bring value in.
+asset backed
+land backed tokens
+village model
+day stay
+circular economy
+
+2022-01-29:
+sudo apt remove chromium-browser chromium-browser-l10n chromium-codecs-ffmpeg-extra
+
+Add Debian "buster" repository. Create a file /etc/apt/sources.list.d/debian.list with the following content:
+
+deb http://deb.debian.org/debian buster main
+deb http://deb.debian.org/debian buster-updates main
+deb http://deb.debian.org/debian-security buster/updates main
+
+Add the Debian signing keys:
+
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AA8E81B4331F7F50
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A
+
+Configure apt pinning. Create a file /etc/apt/preferences.d/chromium.pref with the following content:
+
+# Note: 2 blank lines are required between entries
+Package: *
+Pin: release a=eoan
+Pin-Priority: 500
+
+Package: *
+Pin: origin "deb.debian.org"
+Pin-Priority: 300
+
+# Pattern includes 'chromium', 'chromium-browser' and similarly
+# named dependencies:
+Package: chromium*
+Pin: origin "deb.debian.org"
+Pin-Priority: 700
+
+Install Chromium again
+
+sudo apt update
+sudo apt install chromium
+
+2022-01-29:
+git clone https://github.com/beakerbrowser/beaker.git
+cd beaker/scripts
+npm install # don't worry about v8 api errors building native modules - rebuild will fix
+npm run rebuild # needed after each install. see https://github.com/electron/electron/issues/5851
+npm start
+
+2022-01-29:
+sudo add-apt-repository ppa:chromium-daily/stable
+sudo apt-get update
+sudo apt install chromium-browser
+
+2022-01-28:
+$ systemd-analyze blame
+
+2022-01-28:
+sudo apt autoremove --purge snapd gnome-software-plugin-snap
+
+rm -fr ~/snap
+
+mount
+df -h
+cat /proc/partitions
+
+sudo apt-mark hold snapd
+
+
+2022-01-28:
+Meeting with 
+
+2022-01-28:
+/etc/X11/xorg.conf.d/90-touchpad.conf
+
+2022-01-24:
+https://wallet.near.org/profile/earthchange.tkn.near
+
+2022-01-17:
+https://m.mirror.xyz/6UxMOPMAnCZr8XSkhIM2Xx47bZ7X5rColwpnwIDbx5s
+>>> Myco makes money by charging a 10% royalty on all profits which the Co's distribute to their points-holders.
+
+Hmm, but if Profit is the price each User pays,
+above the real costs the Owners have paid,
+When Users are the Owners, Profit is 0!
+
+But production requires both Land and Work.
+
+So if we can Own Land to Own Products,
+then Trade Work to make it all happen,
+we can ensure the production we need.
+
+
+2022-01-16:
+
+2022-01-07:
+# Make testnet account at https://wallet.testnet.near.org
+# or run
+# near create-account INPUT(account-name)
+
+near login --account_id $account-name --contractName bob33
+near call bob33 getRecentComments --account_id $account-name
+
+2022-01-07:
+git clone https://github.com/oceanByte/near-academy-museum-frontend
+
+2022-01-03: 
+~/private
+~/work
+

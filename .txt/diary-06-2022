@@ -1,0 +1,260 @@
+2022-07-23: E/Mimic
+
+2022-07-23: ???? Game-show + talk-show where every audience member is a potential speaker, and behind a soundproof barrier.  Those who are not speaking may:
+1. Set the volume level of any speaker.
+2. Set flags or pixels to vote
+
+2022-07-17:
+Seal old car tires in Mylar sheeting (hopefully from repurposed balloons), then partially 'deflate' for concave reflective surface to focus the sun to melt sand and 'print' ruggedized 'cellular' glass homes from onsite materials.
+
+So each 'cell' has a space which can be evacuated for vacuum insulation or to store water or aquariums and terarriums haha.
+
+2022-07-16:
+Hey all,
+
+I fell in love with distributed storage while working at StorageCraft.
+
+I have reviewed many of the current competitors but most of them do not achieve true peer to peer data persistence for all devices.
+
+Part of what we need is:
+
+Every node must be allowed to participate as a storage provider at any quality of service level.  Consider IOT devices sharing kilobytes.
+
+Nodes must be allowed to reciprocate (pay) for data persistence by offering some of their own storage (often from another device on the same account).
+
+Increased data persistence through multiple physically separated copies which are automatically 'reseeded' as nodes fail.
+
+
+https://www.linkedin.com/in/patricktanderson/
+https://github.com/Patrick-T-Anderson
+
+I want to address the limitations of current incentive models, such as (Filecoin, Arweave, etc.) through a truly reciprocal and fully Peer to Peer compensation plan.
+
+
+
+
+2022-07-12: https://gov.near.org/t/proposal-the-kin-dao-i-for-product-model-animated-video/24597/2
+Hi all, just wanted to give some context and help explain the purpose of the For Product model.
+
+In 1999, as a young father, I suddenly realized I had no control of the food we need.
+
+After struggling alone in a garden, I stepped back and wondered "Why can't we organize in groups for our own benefit?".
+
+A regular business organizes groups of shareholders and workers, but if you "hold shares" in a restaurant, you are not a real owner, and so the price you pay is the same as any other customer, which is generally more than if you had prepared the meal in isolation.  Many workers do not "have enough money" to be shareholders, and also rarely could afford to eat where they work.
+
+So I began a quest to discover the origin and purpose of price, and found there are many theories , but no proof https://en.wikipedia.org/wiki/Theory_of_value_(economics)
+
+After some time I realized there are two, very different 'economies'.
+1. Business as Usual: When you own the Means of Production (such as an Apple tree) *to sell the results*, you may be concerned if there is an abundance of Apples, because the scarcity of a product (generally) increases the price, and so abundance can be 'dangerous'.
+
+> By the way, many blamed [overproduction](https://en.wikipedia.org/wiki/Overproduction) for 1930's "Great Depression" in the US.
+
+2. Home Economics: When you own the Means of Production (such as an Apple tree) *to consume the results*, you do not buy the product (Apples) from yourself, because they are yours *already*, and so the price you pay as a consumer is exactly the costs you paid as an owner, and profit simply does not exist, because the final transaction (of purchasing the Apple) has been eliminated.
+
+Most business (even non-profits) are structured to sell the product after production, and so cannot ignore price, and generally *fear* abundance because they may not even be able to "recover the costs of production".
+
+Most home gardens are owned by the few people who will use those results, so those owners can *ignore* the price of those products and laugh at abundance since it cannot harm them.
+
+The For Product model applies the structure of Home Economics to **groups of groups** to build Minimum Viable Villages, each under the direct control of those occupant-owners.
+
+To do this, we must change how we fund, work, own, and govern real property.
+
+1. We separate funding from ownership by selling a Fungible Token (coin) to those with deep pockets (you might say whales).  Like bitcoin, this coin represents no utility, no governance and no ownership, so we can safely sell it to the highest bidder without concern.
+
+2. We re-connect 'buying' with 'working' by trading "future production" (called Product Tickets) for "future work" (called Work Contracts).  This means you can be poor (and even in debt) and still join by simply* committing to work in the future.
+
+3. We re-connect working with owning by vesting real property ownership to those who complete Work Contracts. You receive the results of the Product Tickets you selected and also (slowly) receive the land ownership and water rights and other Means of Production used to deliver those goods and services.  Also, and especially during the "BOOT" stage, each occupant must receive a "Basic Outcome" of essential goods and services until the onsite production is fully operational.  Those costs are included when setting the minimum_bid of the coin for that parcel.
+
+4. We change *why* you are a "shareholder" (but actually a real owner).  You own land and water rights and productive assets to *avoid* paying profit or rent to other owners.  This causes profit and rent to safely approach zero for predictable goods and services.
+
+5. We re-connect governance with ownership by enabling occupants to directly control the Means of Production using a map-like interface where you may 'vote' for changes you would like to see on land that you own (personal) or co-own (in a group, or in groups of groups, or groups of groups of groups, etc.).
+
+6. As an owner, when selling surplus, you may charge any price, but, some profit must be invested *for the consumer who paid it*.  This causes all users to eventually gain the ownership required to also regain control of that production.  This is similar to the GNU GPL Copyright license's requirement that every user gain access to the "Sources" of the products they use.
+
+The primary document describing the tokenomics and other details is at:
+https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU/
+
+2022-07-11: 
+https://www.santacruz-homes.com/details.php?mls=40&mlsid=ML81899642
+$788000
+6578 sq ft =  611.1162 sq meters (note: always round-up to next sq meter)
+coin_minimum_bid for this site is: (/ (* 788000 3) 612) = $3,862
+
+2022-07-10: https://en.wikipedia.org/wiki/Post-scarcity_economy
+
+2022-07-10: We will sell surplus to 'outsiders' on the growth edge. Some profit must be invested for the payer so they also gain ownership in the Sources required for the future production they need.
+
+2022-07-10: Robot Prison Guard - Dimorphix
+Part of the terror in "The Terminator" is the ultra-alpha indestructability faced on the playground by all who are not part of the bully's crew.
+
+The Terminator, as a true Lone Wolf, is sold as being even more of a success than a squadron.  This could be interpreted as an obvious block by the Borg which must not have us organize, lest we break our bonds.
+
+Of course The Borg is partly fictional, but also not *entirely* fictional.
+
+It appears in many stylized forms as it coaxes us into a state of acceptance to fulfill the fate it has crafted for us.
+
+And so we see the glorification of the solitary solutionist: MacGyver, et al, but also the many forms of the "gun hero", not only the obvious "Dirty Harry" and so many other 'cop' movies, but also a long history of Westerns.
+
+So even with a partner (often as an insultingly inferior 'sidekick') there was much dismay.  Consider the Batman/Robin *SLAP*, or the excruciating relationship between the Lone Ranger and Tonto.
+
+In many 'cop' movies, the Hero reports to "The Chief" (ancient power title...) in a way that often showed insubordination to reify the power of the solitary solutionist.
+
+This vision of "violence as a solution" is sold as a pathway to achieve 
+
+2022-07-06:
+Saint IGNUcius on problems with "locked closed" and the conundrum of the everlasting sandwich at https://www.gnu.org/philosophy/stallman-kth.en.html
+
+2022-06-29: Source Wars - The Quest for Profit
+
+Sources + Skills = Production
+Property + Promises = Goods and Services
+
+We can own the Sources of the Products we need,
+then trade Skills early to Produce
+
+Production become Free as in Freedom.
+abundance lowers profit
+
+Work to Own then Own for Good to
+member benefits
+value proposition
+compensation policy
+
+2022-06-28: YouTube.com/watch?v=2ZzzUrza7Zs
+"' value railroads
+platform for human potential
+extractive
+9 to 5 or other mental models
+embed our values into the monetary system
+nature-backed currency so they grow with the economy
+tokenomics to create incentives for better decisions
+cooperation + competition '"
+
+2022-06-27:
+YouTube.com/watch?v=VWNrHBDfXvA
+
+2022-06-26:
+XRP Nodes
+Stock: Citizen
+Validator: Representative
+Hub: News, Listing?
+
+
+2022-06-24: 
+
+2022-06-24: MediaGoblin.org >>MediaGoblin is a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc.  Part of the GNU project and devoted to user freedom.
+Similar in purpose to PeerTube
+
+2022-06-23:
+We mint one coin for each M limited by land, then sell that coin to buy that land.
+We trade future production🎫 for future work✍.
+You gain land ownership🗂 as you work.
+You own land to own future production🎫.
+
+2022-06-22:
+Compensation: Workers receive:
+  Product_Tickets🎫 (Future Production)
+  Every Product_Ticket holder must receive:
+    Source_Titles🗂 (The Means of Production: land, water, tools,)
+    Work_Contracts✍ (The Future Work required for that production)
+
+Governance: Private property ownership (Source_Titles🗂) empower each occupant with full authority over their own, personal space, and some % of authority 
+
+2022-06-22: sutl.co >>Own Together.  Live Where You Want.
+
+2022-06-22: DeSo.org
+
+2022-06-22: https://cosmos.network
+
+2022-06-21: At https://learn-near.github.io/NCD.L1.sample--nearly-neighbors/ 
+
+2022-06-20: https://www.sociocracyforall.org/solawi
+
+2022-06-20: Product_Ticket
+
+2022-06-19:
+https://www.gartencoop.org/tunsel/
+
+2022-06-17:
+I love that Braintrust is user owned!
+
+My goal is to build user owned private cities so we may regain local control of our supply chains through onsite production of all essential goods and services using a unique (though likely ancient) approach of trading "future work" (Work_Contracts) in exchange for "future production" (Product_Tickets) to thereby avoid the usual "Coincidence of Wants" problem of typical 'late' barter.
+
+A rough implementation is at https://github.com/TheKinDAO
+
+2022-06-17:
+"Means of Production"?
+Work: Pay for future work with future product (food and wine).
+Govern: Vest land ownership as work is completed.
+Fund: Separate land ownership from the 
+Need
+
+
+URL/IRL
+economic models/tokenomics: Better outcomes.
+
+
+2022-06-16: On the Impossibility of Sharing Hardware
+
+Sharing land is a very old and unresolved problem.
+
+When we share (own shares of) land for profit,
+the abundance of others may reduce our returns.
+
+So we accidentally seek scarcity to keep price above cost...
+
+But we can own for product to hold price exactly at cost.
+
+basic needs: Safe and clean food and shelter.
+abundance: Can your business model withstand overflowing abundance and permanent solutions?
+government: Could we own land and trade work to achieve public goods within private groups?
+
+2022-06-15:
+https://jobs.lever.co/deso/b7b5b1b9-ebb1-4743-a0c6-199b792641f3/apply
+
+2022-06-15: Amazon Interview:
+
+Why do they want me.
+goals: pass-through, loose, modular, orthoganal, zero-copy
+non: object oriented
+
+Most innovative thing done?
+What big impact did you make?
+What did you do?
+
+Used function pointers at Altiris to build a pass-through REST API.
+This tool allowed us to control client from the server and also
+enabled very easy way to test most functionality.
+
+Similarly, used `inspect.getmembers()` python to create cli.py at Google
+
+International: At StorageCraft
+
+
+Detail: No high level
+
+What is the Role
+Role Expectations
+What kind of traits
+
+Situation: Problem
+Task: Goal
+Action: I, not we
+Result: Solution
+
+
+
+2022-06-13: Mikorizal.org
+"'We are developing software for transitioning to the next economy.
+                Not this economy, the next economy.
+The next economy must be driven by human and ecological needs rather than profit. And it will be networked.'"
+
+
+2022-06-09: Van Life DAO
+https://mirror.xyz/favian.eth/CzccyQTvAGsNQXG-N0_A86ZtkKjoV5c72zNrgFR0e2k
+
+2022-06-09: https://blog.liquid.com/city-dao
+
+2022-06-09: ChangeMaker
+
+2022-06-08: http://multitudeproject.blogspot.com/2012/06/how-to-play-open-game-in-present-and.html

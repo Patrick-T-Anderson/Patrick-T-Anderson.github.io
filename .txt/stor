@@ -1,0 +1,37 @@
+See: chat, cloud, P2P, storage
+
+Green.FileCoin.io
+
+BeakerBrowser.com >>An experimental peer-to-peer Web browser.
+
+SolidProject.org
+
+FileCoin.com uses for IPFS.org
+
+A pure P2P chat system can be tricky.
+
+For example, imagine node 'A' chats to 'B', but 'B' is offline, then 'A' goes offline before 'B' is back online...
+
+One solution is to store data on node 'C' "in return for" 'C' being allowed to store data on node 'A' and 'B'.
+
+This reciprocal compensation model allows us to "pay" each other at any quality-of-service level without passing tokens (without using any form of 'money').
+
+
+Video needs more storage and faster networks, so a pure P2P system may struggle to deliver when all Nodes are small.
+
+To overcome this, each Node could initially contact a central Registry server (DNS name or IP address could be "hard coded" into each client) to report their availability, and to find other Nodes.
+
+which use a location-based naming convention to quickly discover other Nodes near them.
+
+promote 
+(Federation) 
+
+and also to be a Registry for naming and Node discovery.
+
+to host Video and other big files
+
+To promote MetaNodes, each Node offers reciprocation in the form of:
+. Storage
+. Original content (new Video, for example)
+. Skills (by signing Work_Contracts)
+

@@ -1,1 +1,85 @@
-lang, Language Enabling Natural Systems, text, txt
+See: Business Model, eOS, kern, lang, law , text, txt
+
+LENS - Law Enabling Natural Systems
+
+Introduction
+The LENS language uses Human-Readable + Legally-Binding + Machine-Readable TOKENS to structure real-world production.
+
+The LENS interpreter reads these files to modify and constrain the DAO UI (such as ChangeMaker, Metaopoly, MetaMaker, MoneyMaker).
+
+------------------------------------------------Example .lens file:
+INFO: #!lens
+INFO: Rewriting the For_Product model in LENS...
+INFO:
+
+GOAL: Local PRODUCTION of essential GOODS and SERVICES
+PRODUCTION: Apply SKILLS to SOURCES to create and maintain PRODUCTION
+SOURCES: land, water rights, mineral rights, and other finite things; organisims, tools and other semi-finite things; art, design, ideas, software and other infinite things
+SKILL: Potential Human effort applied to SOURCES to achieve one step in PRODUCTION
+SKILL_GUILD: A group sharing risk and reward across SKILL_CONTRACTS
+
+COSTS: WAGES + "opportunity loss" + pollution + other externalities
+PRICE: MONEY paid by USERS to OWNERS
+PROFIT: USER_PRICE - OWNER_COSTS
+
+USE: Exclusive access to a SOURCE or PRODUCT
+HOLD: SOURCE_TITLES are held to avoid paying Profit, Rent or Interest
+
+EARTHCHANGE: A Fungible Token (FT), or 'Coin' with a circulating supply limited by the number of square meters of Land being held as SOURCE_TITLES.
+
+SKILL_CONTRACT: A legally-binding agreement to achieve *one step* in the supply chain of a specific PRODUCT_TICKET  , usually on a schedule.
+Each SKILL_CONTRACT is Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Token (SFT) when held by a SKILL_GUILD.
+
+PRODUCT_TICKET: A legally-binding agreement to achieve *all steps* in *all* the supply-chains required to deliver future production at a projected quantity and quality, usually on a schedule.
+Each PRODUCT TICKET is a Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Token (SFT) when the associated SOURCE_TITLES are being held as SHARED_TITLE.
+
+SOURCE_TITLE: A legally-binding agreement of Property Ownership in SOURCES.
+Each SOURCE TITLE is Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Tokens (SFT) when held as SHARED_TITLE.
+SHARED_TITLE: A group sharing risk and reward across SOURCE_TITLES.
+
+
+BOOT: For each Square Meter of each Parcel of real-estate currently for sale, Mint 1 EARTHCHANGE Coin, then sell those Coins to buy that Land and all the startup supplies needed to create yet another Minimum Viable Village.
+
+INFO: Waiting for EARTHCHANGE coin_auction_sequence to complete...
+BOOT: For each Parcel, LOOP until the EARTHCHANGE coin_auction_sequence finishes
+BOOT: If coin_auction_sequence succeeds, buy Sources and annouce 1st day of work!
+INFO: The EARTHCHANGE circulating_supply is strictly limited to the number of square meters of Land being held as SOURCE_TITLES.
+
+START: Each Occupant must sign a Skill_Contract to deliver some part in one of the supply chains required for a Basic Outcome.
+
+RUN: Each occupant is guaranteed* a Basic Outcome of essential production (as defined by you and others within the Group of Groups attempting to establish this Minimum Viable Village).
+RUN: As you complete SKILL_CONTRACTS, you gain SOURCE_TITLE ownership*.
+RUN: SOURCE_TITLES are held to avoid paying PROFIT to others.
+
+FORK: Owners must reflect some profit as the payer's investment.
+FORK: Subgroups must be allowed to split from groups.
+FORK: Subgroups must be allowed to localize control.
+
+Pseudocode
+Layout GRID where each CELL represents 1 square meter of LAND.
+For each CELL on the GRID, apply .lens file:
+    BOOT:
+      If using Debt or Equity, show PROFIT flowing back to Banks and Sharks.
+    SKILL:
+      If receiving WAGES, show VALUE flowing back to OWNERS as RENT or PROFIT.
+    VEST:
+      If vesting for PROFIT, show the rich getting richer.
+    HOLD:
+      If holding for PROFIT, show some abundance may conflict with OWNER goals.
+
+Kernel Template
+Select one of each OPTION to create a new kernel:
+BOOT: Sell OPTION{Debt, Equity, NFT, Coin} to buy SOURCES.
+SKILL: Receives OPTION{WAGES, PRODUCTION, SOURCES}.
+VEST: Pay or risk OPTION{MONEY, SKILL} to gain SOURCE_TITLES in the OPTION{SKILL you provide, PRODUCTION you USE}.
+HOLD: SOURCE_TITLES are held to OPTION{collect PROFIT, collect PRODUCT, avoid paying PROFIT}.
+
+Notes
+The Kernel Developer's Guide to a GNU Economy
+Metaopoly - A game to make games to explore economic systems
+Creature from the Crypto
+https://docs.google.com/document/d/106IwrDKVGmYdYblQXHSeYOTDpEXwS9B_6SdNpdO-_qY/
+
+In EMACS, see: ../.src/lens.el  ;; LENS -- a Language to Enable Natural Systems
+
+Economic Systems, Business Models, Development Models, Incentive Mechanisms, Modes of Production, Organizational Forms

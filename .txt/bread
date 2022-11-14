@@ -1,0 +1,72 @@
+See: acre, bake, farm, field, kern, mill
+
+Reimplemented as CORN.
+
+
+################################################################
+####                 GRAIN
+
+## A language and construction kit for Economic Kernel development.
+The purpose of an "Economic Kernel" is to structure real world PRODUCTION.
+
+## Definitions
+PRODUCTION: Mixing SOURCES with WORK to create GOODS and SERVICES.
+TICKET: A legally-binding agreement representing a finished GOOD or SERVICE at a projected quantity and quality, usually within a strict window-of-time.  TICKETS are like 'semi-fungible' Tokens.  For example, a dozen, organic, free-range, large, heirloom grade AA eggs are mostly interchangable with any other dozen with those same characteristics.
+
+SOURCES: Land, Water, Minerals, Organisms, Tools, etc.
+TITLE: A legally-binding agreement of Property Ownership of SOURCES (or simulated ownership where private property is not allowed by the containing government).
+
+WORK: Part of the human effort required for PRODUCTION.
+CONTRACT: A legally-binding agreement to achieve future WORK
+
+GOOD: A finished tangible Product, such as an Apple.
+SERVICE: A finished human action, such as picking Apples.
+
+MONEY: A Fungible Token system
+WAGES: MONEY flowing from OWNERS to WORKERS.
+PROFIT: MONEY flowing from USERS to OWNERS.
+
+USE: Exclusive but temporary access to a finished GOOD or SERVICE.
+USER: Not every USER is a WORKER, some USER SOURCES.
+WORKER: Every WORKER is a USER of *many* GOODS and SERVICES!
+
+## Start
+BOOT: Buy SOURCES with OPTION{Debt, Equity, Sell NFT, Sell Coin}
+WORK: Collect OPTION{WAGES, GOODS, SERVICES, SOURCES}
+VEST: Transfer SOURCES with OPTION{to those who paid with MONEY, to those who paid with WORK}
+HOLD: OWN SOURCES to collect OPTION{Profit, Product}
+################################################################
+
+## Example Kernels
+# ---------------- FILE: "Shark_Funded_Traditional_Ownership_For_Profit.grain"
+BOOT: Buy SOURCES with 'Equity' by selling "Future PROFIT".  (Security)
+WORKERS: Collect WAGES
+VEST: INVESTORS gain OWNERSHIP to HOLD for future PROFIT
+HOLD: To collect Profit from others.
+
+# ---------------- FILE: "Bank_Funded_Worker_Owned_For_Profit.grain"
+BOOT: Buy SOURCES with 'Debt' by selling "Future PROFIT". (Security)
+WORKERS: Collect WAGES
+VEST: WORKERS gain OWNERSHIP to HOLD for future PROFIT
+HOLD: Collect Profit from others.
+
+# ---------------- FILE: "NFT_Funded_User_Owned_For_Profit.grain"
+BOOT: Buy SOURCES by selling NFTs for GOODS and SERVICES (Utility Token)
+WORKERS: Collect WAGES
+VEST: USERS gain OWNERSHIP to HOLD for future PROFIT
+VEST: Users to become SOURCE OWNERS to sell future PRODUCTION.
+HOLD: To collect Profit from others.
+
+# ---------------- FILE: "Coin_Funded_User_Owned_For_Product.grain"
+BOOT: Buy SOURCES by selling earthChange to INVESTORS.  (a land-limited crypto coin)
+WORK: Collect GOODS and SERVICES and SOURCES
+VEST: WORKERS gain OWNERSHIP to own future PRODUCTION
+HOLD: To avoid paying Profit to others.
+
+################################################################
+
+
+==Books
+The Conquest of Bread
+Breadlandia
+Bread and Grapes are icons of our economic struggle.

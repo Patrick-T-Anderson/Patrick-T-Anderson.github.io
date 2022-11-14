@@ -1,1 +1,1 @@
-land + tools + work = food
+land + work * (tools + 1) = product

@@ -1,0 +1,1527 @@
+See: character set, charmap, 
+
+CONTROL = ISO/IEC 6429:1992
+␀␁␂␃␄␅␆␇␈␉␊␋␌␍␎␏␐␑␒␓␔␕␖␗␘␙␚␛␜␝␞␟␡
+
+Latin-1 punctuation and symbols: ISO/IEC 8859-1
+␣¡¢£¤¥¦§¨©ª«¬⬚®¯°±²³´µ¶·¸¹º»¼½¾¿
+
+Latin
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß
+àáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ
+
+Latin Extended-A
+ĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠ
+ġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁ
+łŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢ
+ţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſ
+
+Latin Extended-B Non-European and historic Latin
+ƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶ
+ƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌ
+
+Pinyin diacritic-vowel combinations
+ǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳ
+ǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝ
+ȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏ
+
+IPA Extensions
+ɐɑɒɓɔɕɖɗɘəɚɛɜɝɞɟɠɡɢɣɤɥɦɧɨɩɪɫɬɭɮɯɰɱ
+ɲɳɴɵɶɷɸɹɺɻɼɽɾɿʀʁʂʃʄʅʆʇʈʉʊʋʌʍʎʏʐʑʒʓ
+ʔʕʖʗʘʙʚʛʜʝʞʟʠʡʢʣʤʥʦʧʨʩʪʫʬʭʮʯ
+
+Latin superscript modifier letters
+ʰʱʲʳʴʵʶʷʸ
+
+Medieval superscript letter diacritics
+ͣͤͥͦͧͨͩͪͫͬͭͮͯ
+
+Greek
+ͰͱͲͳʹ͵Ͷͷͺͻͼͽ;Ϳ΄΅Ά·ΈΉΊΌΎΏΐ
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+αβγδεζηθικλμνξοπρςστυφχψω
+ϊϋόύώ
+
+Coptic Archaic
+Ϗϐϑϒϓϔϕϖ
+ϗΪΫάέήίΰ
+ϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯ
+ϰϱϲϳϴϵ϶ϷϸϹϺϻϼϽϾϿ
+
+Cyrillic extensions
+ЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏBАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ
+абвгдежзийклмнопрстуфхцчшщъыьэюя
+CѐёђѓєѕіїјљњћќѝўџHѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷ
+
+ѸѹHѺѻѼѽѾѿҀҁH҂EҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһ
+ҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎӏӐӑӒӓӔӕӖӗӘәӚӛӜӝӞӟӠӡӢӣӤӥӦӧӨөӪӫӬӭӮӯӰӱӲӳӴӵӶӷӸӹAӺӻӼӽӾӿ
+
+Runes/Runic
+ᚠᚡᚢᚣᚤᚥᚦᚧᚨᚩᚪᚫᚬᚭᚮᚯᚰᚱᚲᚳᚴᚵᚶᚷᚸᚹᚺᚻᚼᚽᚾᚿᛀᛁᛂᛃᛄᛅᛆᛇᛈᛉ
+ᛊᛋᛌᛍᛎᛏᛐᛑᛒᛓᛔᛕᛖᛗᛘᛙᛚᛛᛜᛝᛞᛟᛠᛡᛢᛣᛤᛥᛦᛧᛨᛩᛪ
+᛫᛬᛭ᛮᛯᛰᛱᛲᛳᛴᛵᛶᛷᛸ
+
+ᴀᴁᴂᴃᴄᴅᴆᴇᴈᴉᴊᴋᴌᴍᴎᴏᴐᴑᴒᴓᴔᴕᴖᴗᴘᴙᴚᴛᴜᴝᴞᴟᴠᴡᴢᴣᴤᴥᴦᴧᴨᴩᴪᴫ
+ᴬᴭᴮᴯᴰᴱᴲᴳᴴᴵᴶᴷᴸᴹᴺᴻᴼᴽᴾᴿᵀᵁᵂ
+ᵃᵄᵅᵆᵇᵈᵉᵊᵋᵌᵍᵎᵏᵐᵑᵒᵓᵔᵕᵖᵗᵘᵙᵚᵛ
+ᵜ
+ᵝᵞᵟᵠᵡ
+ᵢᵣᵤᵥ
+ᵦᵧᵨᵩᵪ
+ᵫᵬᵭᵮᵯᵰᵱᵲᵳᵴᵵᵶᵷᵸᵹᵺᵻᵼᵽᵾᵿ
+
+ᶀᶁᶂᶃᶄᶅᶆᶇᶈᶉᶊᶋᶌᶍᶎᶏᶐᶑᶒᶓᶔᶕᶖᶗᶘᶙᶚ
+ᶛᶜᶝᶞᶟᶠᶡᶢᶣᶤᶥᶦᶧᶨᶩᶪᶫᶬᶭᶮᶯᶰᶱᶲᶳᶴᶵᶶᶷᶸᶹᶺᶻᶼᶽᶾᶿ
+
+᷐᷎᷂᷊᷏᷹᷽᷿᷷᷸᷀᷁᷃᷄᷅᷆᷇᷈᷉᷋᷌᷑᷒ᷓᷔᷕᷖᷗᷘᷙᷚᷛᷜᷝᷞᷟᷠᷡᷢᷣᷤᷥᷦᷧᷨᷩᷪᷫᷬᷭᷮᷯᷰᷱᷲᷳᷴ᷵᷻᷾᷶᷼᷍
+
+ḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃ
+ṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕ
+
+ẖẗẘẙẚẛẜẝẞẟ
+ẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹỺỻỼỽỾỿ
+
+x1F00
+ἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕἘἙἚἛἜἝἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷ
+ἸἹἺἻἼἽἾἿὀὁὂὃὄὅὈὉὊὋὌὍὐὑὒὓὔὕὖὗὙὛὝὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯ
+ὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴᾶᾷ
+ᾸᾹᾺΆᾼ᾽ι᾿῀῁ῂῃῄῆῇῈΈῊΉῌ῍῎῏ῐῑῒΐῖῗῘῙῚΊ῝῞῟ῠῡῢΰῤῥῦῧῨῩῪΎῬ῭΅`ῲῳῴῶῷῸΌῺΏῼ´῾
+
+x2000
+␣␣␣␣␣␣␣␣␣␣␣⬚⬚⬚⬚⬚‐‑‒–—―‖‗‘’‚‛“”„‟
+†‡•‣․‥…‧␣␣⬚⬚⬚⬚⬚␣‰‱′″‴‵‶‷‸‹›※‼‽‾‿⁀
+⁁⁂⁃⁄⁅⁆⁇⁈⁉⁊⁋⁌⁍⁎⁏⁐⁑⁒⁓⁔⁕⁖⁗⁘⁙⁚⁛⁜⁝⁞␣⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚
+
+NUMBERS
+
+x2070 superscripts
+⁰ⁱ██⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿ
+
+Reassembled superscripts
+⁰¹²³⁴⁵⁶⁷⁸⁹
+subscripts
+₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ
+
+Money/Currency
+₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿
+
+Diacritics
+⃐ ⃑ ⃒ ⃓ ⃔ ⃕ ⃖ ⃗ ⃘ ⃙ ⃚ ⃛ ⃜ ⃝ ⃞ ⃟ ⃠ ⃡ ⃢ ⃣ ⃤ ⃥ ⃦ ⃧ ⃨ ⃩ ⃪ ⃫ ⃬ ⃭ ⃮ ⃯ ⃰
+
+℀℁ℂ℃℄℅℆ℇ℈℉
+
+ℊℋℌℍℎℏℐℑℒℓ℔ℕ№℗℘ℙℚℛℜℝ℞℟
+℠℡™
+℣ℤ℥Ω℧ℨ℩KÅℬℭ℮ℯℰℱℲℳℴ
+
+Hebrew letterlike math symbols
+ℵℶℷℸℹ℺
+
+x213B
+℻
+
+ℼℽℾℿ⅀⅁⅂⅃⅄ⅅⅆⅇⅈⅉ
+
+Additional letterlike symbols
+⅊⅋⅌⅍ⅎ⅏
+
+Fractions
+⅟⅐⅑⅒
+↉⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞
+↊↋
+
+Roman numerals
+ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿↀↁↂↃↄↅↆↇↈ
+
+Arrows
+←↑→↓↔↕↖↗↘↙↚↛↜↝↞↟↠↡↢↣↤↥↦↧↨↩↪↫↬↭↮
+↯↰↱↲↳↴↵↶↷↸↹↺↻
+↼↽↾↿⇀⇁⇂⇃⇄⇅⇆⇇⇈⇉⇊⇋⇌
+⇍⇎⇏⇐⇑⇒⇓⇔⇕⇖⇗⇘⇙⇚⇛
+⇜⇝⇞⇟⇠⇡⇢⇣⇤⇥
+⇦⇧⇨⇩⇪⇫⇬⇭⇮⇯⇰
+⇱⇲⇳⇴⇵⇶
+⇷⇸⇹⇺⇻⇼⇽⇾⇿
+
+x2200
+Math
+∀∁∂∃∄∅∆∇∈∉∊∋∌∍∎∏∐∑−∓∔∕∖∗∘∙√∛∜∝∞∟∠∡∢∣∤∥∦∧∨∩∪∫∬∭∮∯∰∱∲∳
+∴∵∶∷∸∹∺∻∼∽∾∿≀≁≂≃≄≅≆≇≈≉≊≋≌≍≎≏≐≑≒≓≔≕≖≗≘≙≚≛≜≝≞≟≠≡
+≢≣≤≥≦≧≨≩≪≫≬≭≮≯≰≱≲≳≴≵≶≷≸≹≺≻≼≽≾≿⊀⊁⊂⊃⊄⊅⊆⊇⊈⊉⊊⊋⊌⊍⊎
+⊏⊐⊑⊒⊓⊔⊕⊖⊗⊘⊙⊚⊛⊜⊝⊞⊟⊠⊡⊢⊣⊤⊥⊦⊧⊨⊩⊪⊫⊬⊭⊮⊯⊰⊱⊲⊳⊴⊵⊶⊷⊸⊹⊺
+⊻⊼⊽⊾⊿⋀⋁⋂⋃⋄⋅⋆⋇⋈⋉⋊⋋⋌⋍⋎⋏⋐⋑⋒⋓⋔⋕⋖⋗⋘⋙⋚⋛⋜⋝⋞⋟⋠⋡⋢⋣⋤⋥
+⋦⋧⋨⋩⋪⋫⋬⋭⋮⋯⋰⋱⋲⋳⋴⋵⋶⋷⋸⋹⋺⋻⋼⋽⋾⋿
+
+x2300
+Miscellaneous technical
+⌀⌁⌂⌃⌄⌅⌆⌇⌈⌉⌊⌋⌌⌍⌎⌏⌐⌑⌒⌓⌔⌕⌖⌗⌘⌙
+⌚⌛⌜⌝⌞⌟
+⌠
+⌡
+⌢⌣⌤⌥⌦⌧⌨〈〉⌫⌬
+
+Drafting symbols
+⌭⌮⌯⌰⌱⌲⌳⌴⌵
+
+APL
+⌶⌷⌸⌹⌺⌻⌼⌽⌾⌿⍀⍁⍂⍃⍄⍅⍆⍇⍈⍉⍊⍋⍌⍍⍎⍏⍐⍑⍒⍓⍔⍕⍖⍗⍘⍙⍚⍛⍜⍝⍞⍟⍠⍡⍢⍣⍤⍥⍦⍧⍨⍩⍪
+⍫⍬⍭⍮⍯⍰⍱⍲⍳⍴⍵⍶⍷⍸⍹⍺⍻⍼⍽⍾⍿⎀⎁⎂⎃⎄⎅⎆⎇⎈⎉⎊⎋⎌⎍⎎⎏⎐⎑⎒⎓⎔⎕
+
+Keyboard symbols from ISO 9995-7
+⎖⎗⎘⎙⎚
+
+Bracket pieces
+⎛ LEFT PARENTHESIS UPPER HOOK
+⎜ LEFT PARENTHESIS EXTENSION
+⎝ LEFT PARENTHESIS LOWER HOOK
+⎞ RIGHT PARENTHESIS UPPER HOOK
+⎟ RIGHT PARENTHESIS EXTENSION
+⎠ RIGHT PARENTHESIS LOWER HOOK
+⎡ LEFT SQUARE BRACKET UPPER CORNER
+⎢ LEFT SQUARE BRACKET EXTENSION
+⎣ LEFT SQUARE BRACKET LOWER CORNER
+⎤ RIGHT SQUARE BRACKET UPPER CORNER
+⎥ RIGHT SQUARE BRACKET EXTENSION
+⎦ RIGHT SQUARE BRACKET LOWER CORNER
+⎧ LEFT CURLY BRACKET UPPER HOOK
+⎨ LEFT CURLY BRACKET MIDDLE PIECE
+⎩ LEFT CURLY BRACKET LOWER HOOK
+⎪ CURLY BRACKET EXTENSION
+⎫ RIGHT CURLY BRACKET UPPER HOOK
+⎬ RIGHT CURLY BRACKET MIDDLE PIECE
+⎭ RIGHT CURLY BRACKET LOWER HOOK
+⎮ INTEGRAL EXTENSION
+⎯ HORIZONTAL LINE EXTENSION
+⎰ UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION
+⎱ UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION
+
+⎲ SUMMATION TOP
+⎳ SUMMATION BOTTOM
+
+Horizontal brackets
+⎴⎵⎶⎷⎸⎹⎺⎻⎼⎽⎾⎿⏀⏁⏂⏃⏄⏅⏆⏇⏈⏉⏊⏋⏌⏍⏎⏏⏐
+
+Metrical symbols
+⏑⏒⏓⏔⏕⏖⏗⏘⏙
+
+Electrotechnical symbols
+⏚⏛
+
+Horizontal brackets
+⏜⏝⏞⏟⏠⏡⏢⏣⏤⏥⏦⏧
+⏨
+⏩⏪⏫⏬⏭⏮⏯
+⏰⏱⏲⏳
+⏴⏵⏶⏷⏸⏹⏺
+
+⏻⏼⏽⏾
+
+⏿ OBSERVER EYE
+
+x2500
+Numbers [some of these cut/paste from other places]
+⓪①②③④⑤⑥⑦⑧⑨⑩
+⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳
+⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇
+⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛
+⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵
+ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ
+ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ
+
+➀➁➂➃➄➅➆➇➈➉
+⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾⓿
+❶❷❸❹❺❻❼❽❾❿
+➊➋➌➍➎➏➐➑➒➓
+⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴
+
+Squares
+■□▢▣▤▥▦▧▨▩▪▫⬜
+
+Weather
+☀ BLACK SUN RAYS
+☁ CLOUD
+☂ UMBRELLA
+☃ SNOWMAN
+☄ COMET
+★ BLACK STAR
+☆ WHITE STAR
+☇ LIGHTNING
+☈ THUNDERSTORM
+☉ SUN
+☊ ASCENDING NODE
+☋ DESCENDING NODE
+☌ CONJUNCTION
+☍ OPPOSITION
+
+Miscellaneous
+☎☏ PHONE
+☐☑☒ BALLOT, VOTE, CHECK
+☓ SALTIRE
+☔ UMBRELLA RAIN DROPS
+☕ HOT BEVERAGE
+☖ WHITE SHOGI PIECE
+☗ BLACK SHOGI PIECE
+☘ SHAMROCK
+☙ REVERSED ROTATED FLORAL HEART BULLET
+
+fingers/hands
+☚☛☜☝☞☟
+
+Warning
+☠☡☢☣
+
+Medical and healing
+☤ CADUCEUS
+☥ ANKH
+
+Religious and political
+☦ ORTHODOX CROSS
+☧ CHI RHO
+☨ CROSS OF LORRAINE
+☩ CROSS OF JERUSALEM
+☪ STAR AND CRESCENT
+☫ FARSI
+☬ ADI SHAKTI
+☭ HAMMER AND SICKLE
+☮ PEACE
+☯ YIN YANG
+
+Miscellaneous
+☸ WHEEL OF DHARMA
+
+Emoticons
+☹ WHITE FROWNING FACE
+☺ WHITE SMILING FACE
+☻ BLACK SMILING FACE
+
+☼ WHITE SUN RAYS
+☽ FIRST QUARTER MOON
+☾ LAST QUARTER MOON
+
+☿ MERCURY
+♀ VENUS/FEMALE
+♁ EARTH
+♂ MARS/MALE
+♃ JUPITER
+♄ SATURN
+♅ URANUS
+♆ NEPTUNE
+♇ PLUTO
+
+Zodiac
+♈ ARIES
+♉ TAURUS
+♊ GEMINI
+♋ CANCER
+♌ LEO
+♍ VIRGO
+♎ LIBRA
+♏ SCORPIUS
+♐ SAGITTARIUS
+♑ CAPRICORN
+♒ AQUARIUS
+♓ PISCES
+
+Chess
+♔♕♖♗♘♙
+♚♛♜♝♞♟
+
+Playing cards
+♠♡♢♣
+♤♥♦♧
+
+♨ HOT SPRINGS
+
+Music
+♩♪♫♬♭♮♯
+
+♰ WEST SYRIAC CROSS
+♱ EAST SYRIAC CROSS
+
+RECYCLING
+♲♳♴♵♶♷♸♹
+♺♻♼♽
+♾
+♿
+
+Dice
+⚀⚁⚂⚃⚄⚅
+
+Circles with dots
+⚆⚇⚈⚉
+
+Yin/Yang
+⚊⚋⚌⚍⚎⚏
+
+Dictionary and map
+⚐ WHITE FLAG
+⚑ BLACK FLAG
+⚒ HAMMER AND PICK
+⚓ ANCHOR
+⚔ CROSSED SWORDS
+⚕ STAFF OF AESCULAPIUS
+⚖ SCALES
+⚗ ALEMBIC
+⚘ FLOWER
+⚙ GEAR
+⚚ STAFF OF HERMES
+⚛ ATOM
+
+Miscellaneous
+⚜ FLEUR-DE-LIS
+⚝ OUTLINED WHITE STAR
+
+Symbols for closed captioning from ARIB STD B24
+⚞ THREE LINES CONVERGING RIGHT
+⚟ THREE LINES CONVERGING LEFT
+
+Miscellaneous
+⚠ WARNING SIGN
+⚡ HIGH VOLTAGE SIGN
+
+Gender
+⚢ DOUBLED FEMALE SIGN
+⚣ DOUBLED MALE SIGN
+⚤ INTERLOCKED FEMALE AND MALE SIGN
+⚥ MALE AND FEMALE SIGN
+⚦ MALE STROKE SIGN
+⚧ MALE STROKE AND MALE AND FEMALE SIGN
+⚨ VERTICAL MALE STROKE SIGN
+⚩ HORIZONTAL MALE STROKE SIGN
+
+Circles
+⚪ MEDIUM WHITE CIRCLE
+⚫ MEDIUM BLACK CIRCLE
+⚬ MEDIUM SMALL WHITE CIRCLE
+
+Genealogical
+⚭ MARRIAGE
+⚮ DIVORCE
+⚯ UNMARRIED PARTNERSHIP
+⚰ COFFIN
+⚱ FUNERAL URN
+
+Gender
+⚲ NEUTER
+
+Astrological signs
+⚳ CERES
+⚴ PALLAS
+⚵ JUNO
+⚶ VESTA
+⚷ CHIRON
+⚸ BLACK MOON LILITH
+
+Astrological aspects
+⚹ SEXTILE
+⚺ SEMISEXTILE
+⚻ QUINCUNX
+⚼ SESQUIQUADRATE
+
+Sport
+⚽ SOCCER BALL
+⚾ BASEBALL
+
+Miscellaneous from ARIB STD B24
+⚿ SQUARED KEY
+
+Symbols for draughts and checkers
+⛀ WHITE DRAUGHTS MAN
+⛁ WHITE DRAUGHTS KING
+⛂ BLACK DRAUGHTS MAN
+⛃ BLACK DRAUGHTS KING
+
+Weather from ARIB STD B24
+⛄ SNOWMAN WITHOUT SNOW
+⛅ SUN BEHIND CLOUD
+⛆ RAIN
+⛇ BLACK SNOWMAN
+⛈ THUNDER CLOUD AND RAIN
+
+Game from ARIB STD B24
+⛉ TURNED WHITE SHOGI PIECE
+⛊ TURNED BLACK SHOGI PIECE
+⛋ WHITE DIAMOND IN SQUARE
+
+Traffic signs from ARIB STD B24
+⛌ CROSSING LANES
+⛍ DISABLED CAR
+
+Zodiac
+⛎ OPHIUCHUS
+
+Traffic signs from ARIB STD B24
+⛏ PICK
+⛐ CAR SLIDING
+⛑ HELMET WHITE CROSS
+⛒ CIRCLED CROSSING LANES
+⛓ CHAINS
+⛔ NO ENTRY
+⛕ ALTERNATE ONE-WAY LEFT WAY TRAFFIC
+⛖ BLACK TWO-WAY LEFT WAY TRAFFIC
+⛗ WHITE TWO-WAY LEFT WAY TRAFFIC
+⛘ BLACK LEFT LANE MERGE
+⛙ WHITE LEFT LANE MERGE
+⛚ DRIVE SLOW SIGN
+⛛ HEAVY WHITE DOWN-POINTING TRIANGLE
+⛜ LEFT CLOSED ENTRY
+⛝ SQUARED SALTIRE
+⛞ FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE
+⛟ BLACK TRUCK
+⛠ RESTRICTED LEFT ENTRY-1
+⛡ RESTRICTED LEFT ENTRY-2
+
+⛢⛣
+
+⛤⛥⛦⛧
+
+⛨ BLACK CROSS ON SHIELD
+⛩ SHINTO SHRINE
+⛪ CHURCH
+⛫ CASTLE
+⛬ HISTORIC SITE
+⛭ GEAR WITHOUT HUB
+⛮ GEAR HANDLES
+⛯ MAP FOR LIGHTHOUSE
+⛰ MOUNTAIN
+⛱ UMBRELLA ON GROUND
+⛲ FOUNTAIN
+⛳ FLAG IN HOLE
+⛴ FERRY
+⛵ SAILBOAT
+⛶ SQUARE FOUR CORNERS
+⛷ SKIER
+⛸ ICE SKATE
+⛹ PERSON BALL
+⛺ TENT
+⛻ JAPANESE BANK
+⛼ HEADSTONE GRAVEYARD
+⛽ FUEL PUMP
+⛾ CUP ON BLACK SQUARE
+⛿ WHITE FLAG HORIZONTAL MIDDLE BLACK STRIPE
+✀ BLACK SAFETY SCISSORS
+
+✁ UPPER BLADE SCISSORS
+✂ BLACK SCISSORS
+✃ LOWER BLADE SCISSORS
+✄ WHITE SCISSORS
+✅ WHITE HEAVY CHECK MARK
+✆ TELEPHONE LOCATION SIGN
+✇ TAPE DRIVE
+✈ AIRPLANE
+✉ ENVELOPE
+✊ RAISED FIST
+✋ RAISED HAND
+✌ VICTORY HAND
+✍ WRITING HAND
+✎ LOWER RIGHT PENCIL
+✏ PENCIL
+✐ UPPER RIGHT PENCIL
+✑ WHITE NIB
+✒ BLACK NIB
+
+✓✔
+✕✖✗✘
+✙✚✛✜
+✝✞✟✠
+
+Stars/Asterix
+✡✢✣✤✥✦✧✨
+✩✪✫✬✭✮✯✰
+✱✲✳✴✵✶✷✸✹✺
+✻✼✽✾✿❀❁❂❃❄❅❆❇❈❉❊❋❌
+❍❎❏❐❑❒❓❔❕❖❗❘❙❚
+❛❜❝❞❟❠
+
+Hearts
+❡❢❣❤❥❦❧
+❨❩❪❫❬❭❮❯❰❱❲❳❴❵
+
+Arrows
+➔➕➖➗➘➙➚➛➜➝➞➟➠➡➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾➿
+
+Supplemental Mathematical Operators
+⨀⨁⨂⨃⨄⨅⨆⨇⨈⨉⨊⨋⨌⨍⨎⨏⨐⨑⨒⨓⨔⨕⨖⨗⨘⨙⨚⨛⨜⨝⨞⨟⨠⨡⨢⨣⨤⨥⨦⨧⨨⨩⨪⨫⨬⨭⨮⨯⨰⨱⨲⨳⨴⨵⨶⨷⨸⨹⨺⨻
+⨼⨽⨾⨿⩀⩁⩂⩃⩄⩅⩆⩇⩈⩉⩊⩋⩌⩍⩎⩏⩐L⩑⩒⩓⩔⩕⩖⩗⩘⩙⩚⩛⩜⩝⩞⩟⩠⩡⩢⩣⩤⩥⩦⩧⩨⩩⩪⩫⩬⩭⩮⩯⩰⩱⩲⩳⩴⩵⩶⩷⩸
+⩹⩺⩻⩼⩽⩾⩿⪀⪁⪂⪃⪄⪅⪆⪇⪈⪉⪊⪋⪌⪍⪎⪏⪐⪑⪒⪓⪔⪕⪖⪗⪘⪙⪚⪛⪜⪝⪞⪟⪠⪡⪢⪣⪤⪥⪦⪧⪨⪩⪪⪫⪬⪭⪮
+⪯⪰⪱⪲⪳⪴⪵⪶⪷⪸⪹⪺⪻⪼⪽⪾⪿⫀⫁⫂⫃⫄⫅⫆⫇⫈⫉⫊⫋⫌⫍⫎⫏⫐⫑⫒⫓⫔⫕⫖⫗⫘⫙⫚⫛⫝̸⫝
+⫞⫟⫠⫡⫢⫣⫤⫥⫦⫧⫨⫩⫪⫫⫬⫭⫮⫯⫰⫱⫲⫳⫴⫵⫶⫷⫸⫹⫺⫻⫼⫽⫾⫿
+
+Yijing Hexagram Symbols
+䷀䷁䷂䷃䷄䷅䷆䷇䷈䷉䷊䷋䷌䷍䷎䷏䷐䷑䷒䷓䷔䷕䷖䷗䷘䷙䷚䷛䷜䷝䷞䷟䷠䷡䷢䷣䷤䷥䷦䷧䷨䷩䷪䷫䷬䷭䷮䷯䷰䷱䷲䷳䷴䷵䷶䷷䷸䷹䷺䷻䷼䷽䷾䷿
+
+Yi radicals
+꒐꒑꒒꒓꒔꒕꒖꒗꒘꒙꒚꒛꒜꒝꒞꒟꒠꒡꒢꒣꒤꒥꒦꒧꒨꒩꒪꒫꒬꒭꒮꒯꒰꒱꒲꒳꒴꒵꒶꒷꒸꒹꒺꒻꒼꒽꒾꒿꓀꓁꓂꓃꓄꓅꓆
+
+Lisu
+ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭVꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷTꓸꓹꓺꓻꓼꓽP꓾꓿
+
+Vai Syllables in -ee
+ꔀꔁꔂꔃꔄꔅꔆꔇꔈꔉꔊꔋꔌꔍꔎꔏꔐꔑꔒꔓꔔꔕꔖꔗꔘꔙꔚꔛꔜꔝꔞꔟꔠꔡꔢꔣ
+
+Syllables in -i
+ꔤꔥꔦꔧꔨꔩꔪꔫꔬꔭꔮꔯꔰꔱꔲꔳꔴꔵꔶꔷꔸꔹꔺꔻꔼꔽꔾꔿꕀꕁꕂꕃꕄꕅꕆꕇꕈ
+
+Syllables in -a
+ꕉꕊꕋꕌꕍꕎꕏꕐꕑꕒꕓꕔꕕꕖꕗꕘꕙꕚꕛꕜꕝꕞꕟꕠꕡꕢꕣꕤꕥꕦꕧꕨꕩꕪꕫꕬꕭꕮꕯꕰ
+
+Syllables in -oo
+ꕱꕲꕳꕴꕵꕶꕷꕸꕹꕺꕻꕼꕽꕾꕿꖀꖁꖂꖃꖄꖅꖆꖇꖈꖉꖊꖋꖌꖍꖎꖏꖐꖑꖒꖓꖔ
+
+Syllables in -u
+ꖕꖖꖗꖘꖙꖚꖛꖜꖝꖞꖟꖠꖡꖢꖣꖤꖥꖦꖧꖨꖩꖪꖫꖬꖭꖮꖯꖰꖱꖲꖳꖴꖵꖶꖷꖸꖹ
+
+Syllables in -o
+ꖺꖻꖼꖽꖾꖿꗀꗁꗂꗃꗄꗅꗆꗇꗈꗉꗊꗋꗌꗍꗎꗏꗐꗑꗒꗓꗔꗕꗖꗗꗘꗙꗚꗛꗜꗝꗞꗟꗠ
+
+Syllables in -e
+ꗡꗢꗣꗤꗥꗦꗧꗨꗩꗪꗫꗬꗭꗮꗯꗰꗱꗲꗳꗴꗵꗶꗷꗸꗹꗺꗻꗼꗽꗾꗿꘀꘁꘂꘃꘄꘅꘆꘇꘈꘉꘊꘋꘌ꘍꘎꘏ꘐꘑꘒꘓꘔꘕꘖꘗꘘꘙꘚꘛꘜꘝꘞꘟ꘠꘡꘢꘣꘤꘥꘦꘧꘨꘩ꘪꘫ
+
+Cyrillic Extended-B Letters for Old Cyrillic
+ꙀꙁꙂꙃꙄꙅꙆꙇꙈꙉꙊꙋꙌꙍꙎꙏꙐꙑꙒꙓꙔꙕꙖꙗꙘꙙꙚꙛꙜꙝꙞꙟꙠꙡꙢꙣꙤꙥꙦꙧꙨꙩꙪꙫꙬꙭꙮ
+ACP꙳CP꙾MꙿL
+ꚀꚁꚂꚃꚄꚅꚆꚇꚈꚉꚊꚋꚌꚍꚎꚏꚐꚑꚒꚓꚔꚕꚖꚗLꚘꚙꚚꚛIꚜꚝC
+
+Latin Extended-D Additions for UPA
+꜠꜡ꜢꜣꜤꜥꜦꜧꜨꜩꜪꜫꜬꜭꜮꜯꜰꜱ
+ꜲꜳꜴꜵꜶꜷꜸꜹꜺꜻꜼꜽꜾꜿꝀꝁꝂꝃꝄꝅꝆꝇꝈꝉꝊꝋꝌꝍꝎꝏꝐꝑꝒꝓꝔꝕꝖꝗꝘꝙꝚꝛꝜꝝꝞꝟꝠꝡꝢꝣꝤꝥꝦꝧꝨꝩꝪꝫꝬꝭꝮꝯꝰ
+ꝱꝲꝳꝴꝵꝶꝷꝸ
+ꝹꝺꝻꝼꝽꝾꝿꞀꞁꞂꞃꞄꞅꞆꞇ
+ꞈ꞉꞊ꞋꞌꞍꞎꞏꞐꞑ
+ꞒꞓꞔꞕꞖꞗꞘꞙꞚꞛꞜꞝꞞꞟꞠꞡꞢꞣꞤꞥꞦꞧꞨꞩꞪꞫꞬꞭꞮꞯꞰꞱꞲꞳꞴꞵꞶꞷꞸꞹ
+
+Letters for Ugaritic and Egyptological transliteration
+ꞺꞻꞼꞽꞾꞿꟂꟃꟄꟅꟆꟷꟸꟹꟺꟻꟼꟽꟾꟿ
+
+Phaistos Disc
+𐇐 PEDESTRIAN
+𐇑 PLUMED HEAD
+𐇒 TATTOOED HEAD
+𐇓 CAPTIVE
+𐇔 CHILD
+𐇕 WOMAN
+𐇖 HELMET
+𐇗 GAUNTLET
+𐇘 TIARA
+𐇙 ARROW
+𐇚 BOW
+𐇛 SHIELD
+𐇜 CLUB
+𐇝 MANACLES
+𐇞 MATTOCK
+𐇟 SAW
+𐇠 LID
+𐇡 BOOMERANG
+𐇢 CARPENTRY PLANE
+𐇣 DOLIUM
+𐇤 COMB
+𐇥 SLING
+𐇦 COLUMN
+𐇧 BEEHIVE
+𐇨 SHIP
+𐇩 HORN
+𐇪 HIDE
+𐇫 BULLS LEG
+𐇬 CAT
+𐇭 RAM
+𐇮 EAGLE
+𐇯 DOVE
+𐇰 TUNNY
+𐇱 BEE
+𐇲 PLANE TREE
+𐇳 VINE
+𐇴 PAPYRUS
+𐇵 ROSETTE
+𐇶 LILY
+𐇷 OX BACK
+𐇸 FLUTE
+𐇹 GRATER
+𐇺 STRAINER
+𐇻 SMALL AXE
+𐇼 WAVY BAND
+𐇽 OBLIQUE STROKE
+
+Old Italic
+𐌀𐌁𐌂𐌃𐌄𐌅𐌆𐌇𐌈𐌉𐌊𐌋𐌌𐌍𐌎𐌏𐌐𐌑𐌒𐌓𐌔𐌕𐌖𐌗𐌘𐌙𐌚𐌛𐌜𐌝𐌞𐌟𐌠𐌡𐌢𐌣𐌭𐌮𐌯
+
+Weather, landscape, and sky
+🌀 CYCLONE
+🌁 FOGGY
+🌂 CLOSED UMBRELLA
+🌃 NIGHT STARS
+🌄 SUNRISE OVER MOUNTAINS
+🌅 SUNRISE
+🌆 CITYSCAPE AT DUSK
+🌇 SUNSET OVER BUILDINGS
+🌈 RAINBOW
+🌉 BRIDGE AT NIGHT
+🌊 WATER WAVE
+🌋 VOLCANO
+🌌 MILKY WAY
+🌍 EARTH GLOBE EUROPE-AFRICA
+🌎 EARTH GLOBE AMERICAS
+🌏 EARTH GLOBE ASIA-AUSTRALIA
+🌐 GLOBE MERIDIANS
+MOON
+🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝
+🌞 SUN FACE
+🌟🌠 STAR
+🌡 THERMOMETER
+🌢 DROPLET
+🌣🌤🌥🌦🌧🌨🌩🌪 SUN/CLOUD
+🌫 FOG
+🌬 WIND
+
+Food and plant
+🌭 HOT DOG
+🌮 TACO
+🌯 BURRITO
+🌰 CHESTNUT
+🌱 SEEDLING TREE
+🌲 EVERGREEN TREE
+🌳 
+🌴 PALM TREE
+🌵 CACTUS
+🌶 HOT PEPPER
+🌷 TULIP
+🌸 CHERRY BLOSSOM
+🌹 ROSE
+🌺 HIBISCUS
+🌻 SUNFLOWER
+🌼 BLOSSOM
+🌽 EAR OF MAIZE
+🌾 EAR OF RICE
+
+LEAF
+🌿🍀🍁🍂🍃
+
+🍄 MUSHROOM
+🍅 TOMATO
+🍆 EGGPLANT/AUBERGINE
+🍇 GRAPES
+🍈 MELON
+🍉 WATERMELON
+🍊 TANGERINE orange
+🍋 LEMON
+🍌 BANANA
+🍍 PINEAPPLE
+🍎 RED APPLE
+🍏 GREEN APPLE
+🍐 PEAR
+🍑 PEACH
+🍒 CHERRIES
+🍓 STRAWBERRY
+🍔 HAMBURGER
+🍕 SLICE OF PIZZA
+🍖 MEAT ON BONE
+🍗 POULTRY LEG
+🍘 RICE CRACKER
+🍙 RICE BALL
+🍚 COOKED RICE
+🍛 CURRY AND RICE
+🍜 STEAMING BOWL
+🍝 SPAGHETTI
+🍞 BREAD
+🍟 FRENCH FRIES
+🍠 ROASTED SWEET POTATO
+🍡 DANGO
+🍢 ODEN
+🍣 SUSHI
+🍤 FRIED SHRIMP
+🍥 FISH CAKE SWIRL DESIGN
+🍦 SOFT ICE CREAM
+🍧 SHAVED ICE
+🍨 ICE CREAM
+🍩 DOUGHNUT
+🍪 COOKIE
+🍫 CHOCOLATE BAR
+🍬 CANDY
+🍭 LOLLIPOP
+🍮 CUSTARD
+🍯 HONEY POT
+🍰 SHORTCAKE
+🍱 BENTO BOX
+🍲 POT OF FOOD
+🍳 COOKING
+🍴 FORK AND KNIFE
+🍵 TEACUP WITHOUT HANDLE
+🍶 SAKE BOTTLE AND CUP
+🍷 WINE GLASS
+🍸 COCKTAIL GLASS
+🍹 TROPICAL DRINK
+🍺 BEER MUG
+🍻 CLINKING BEER MUGS
+🍼 BABY BOTTLE
+🍽 FORK AND KNIFE PLATE
+🍾 BOTTLE POPPING CORK
+🍿 POPCORN
+
+CELEBRATION
+🎀 RIBBON
+🎁 WRAPPED PRESENT
+🎂 BIRTHDAY CAKE
+🎃 JACK-O-LANTERN
+🎄 CHRISTMAS TREE
+🎅 FATHER CHRISTMAS
+🎆 FIREWORKS
+🎇 FIREWORK SPARKLER
+🎈 BALLOON
+🎉 PARTY POPPER
+🎊 CONFETTI BALL
+🎋 TANABATA TREE
+🎌 CROSSED FLAGS
+🎍 PINE DECORATION
+🎎 JAPANESE DOLLS
+🎏 CARP STREAMER
+🎐 WIND CHIME
+🎑 MOON VIEWING CEREMONY
+🎒 SCHOOL SATCHEL
+🎓 GRADUATION CAP
+🎔 HEART TIP ON THE LEFT
+🎕 BOUQUET OF FLOWERS
+🎖 MILITARY MEDAL
+🎗 REMINDER RIBBON
+
+Entertainment
+🎘 MUSICAL KEYBOARD JACKS
+🎙 STUDIO MICROPHONE
+🎚 LEVEL SLIDER
+🎛 CONTROL KNOBS
+🎜 BEAMED ASCENDING MUSICAL NOTES
+🎝 BEAMED DESCENDING MUSICAL NOTES
+🎞 FILM FRAMES
+🎟 ADMISSION TICKETS
+🎠 CAROUSEL HORSE
+🎡 FERRIS WHEEL
+🎢 ROLLER COASTER
+🎣 FISHING POLE AND FISH
+🎤 MICROPHONE
+🎥 MOVIE CAMERA
+🎦 CINEMA
+🎧 HEADPHONE
+🎨 ARTIST PALETTE
+🎩 TOP HAT
+🎪 CIRCUS TENT
+🎫 TICKET
+🎬 CLAPPER BOARD
+🎭 PERFORMING ARTS
+
+Game
+🎮 VIDEO GAME
+🎯 DIRECT HIT
+🎰 SLOT MACHINE
+🎱 BILLIARDS
+🎲 GAME DIE
+🎳 BOWLING
+🎴 FLOWER PLAYING CARDS
+
+Music
+🎵🎶🎷🎸🎹🎺🎻🎼
+
+Sport
+🎽 RUNNING SHIRT SASH
+🎾 TENNIS RACQUET AND BALL
+🎿 SKI AND SKI BOOT
+🏀 BASKETBALL AND HOOP
+🏁 CHEQUERED FLAG
+🏂 SNOWBOARDER
+🏃 RUNNER
+🏄 SURFER
+🏅 SPORTS MEDAL
+🏆 TROPHY
+🏇 HORSE RACING
+🏈 AMERICAN FOOTBALL
+🏉 RUGBY FOOTBALL
+🏊 SWIMMER
+🏋 WEIGHT LIFTER
+🏌 GOLFER
+🏍 RACING MOTORCYCLE
+🏎 RACING CAR
+🏏 CRICKET BAT AND BALL
+🏐 VOLLEYBALL
+🏑 FIELD HOCKEY STICK AND BALL
+🏒 ICE HOCKEY STICK AND PUCK
+🏓 TABLE TENNIS PADDLE AND BALL
+
+Building and map
+🏔 SNOW CAPPED MOUNTAIN
+🏕 CAMPING
+🏖 BEACH UMBRELLA
+
+🏗 BUILDING CONSTRUCTION
+🏘 HOUSE BUILDINGS
+🏙 CITYSCAPE
+
+🏚 DERELICT HOUSE BUILDING
+🏛 CLASSICAL BUILDING
+🏜 DESERT
+🏝 DESERT ISLAND
+🏞 NATIONAL PARK
+🏟 STADIUM
+🏠 
+🏡 
+🏢 OFFICE BUILDING
+🏣 JAPANESE POST OFFICE
+🏤 EUROPEAN POST OFFICE
+🏥 HOSPITAL
+🏦 BANK
+🏧 AUTOMATED TELLER MACHINE
+🏨 HOTEL
+🏩 LOVE HOTEL
+🏪 CONVENIENCE STORE
+🏫 SCHOOL
+🏬 DEPARTMENT STORE
+🏭 FACTORY
+🏮 IZAKAYA LANTERN
+🏯 JAPANESE CASTLE
+🏰 EUROPEAN CASTLE
+🏱 WHITE PENNANT
+🏲 BLACK PENNANT
+🏳 WAVING WHITE FLAG
+🏴 WAVING BLACK FLAG
+🏵 ROSETTE
+🏶 BLACK ROSETTE
+🏷 LABEL
+🏸 BADMINTON RACQUET AND SHUTTLECOCK
+🏹 BOW AND ARROW
+🏺 AMPHORA
+
+Emoji FITZPATRICK modifiers
+🏻🏼🏽🏾🏿
+
+Animals
+🐀🐁🐂🐃🐄🐅🐆🐇🐈🐉🐊🐋🐌🐍🐎🐏🐐🐑🐒🐓🐔🐕🐖🐗🐘
+🐙🐚🐛🐜🐝🐞🐟🐠🐡🐢🐣🐤🐥🐦🐧🐨🐩🐪🐫🐬
+
+Animal faces
+🐭🐮🐯🐰🐱🐲🐳🐴🐵🐶🐷🐸🐹🐺🐻🐼🐽🐾🐿
+
+Facial/Face parts: eye ear mouth nose
+👀👁 👂👃👄👅
+
+Hands
+👆👇👈👉👊👋👌👍👎👏👐
+
+Clothing
+👑👒👓👔
+👕👖👗👘👙👚
+purse
+👛👜👝
+shoe
+👞👟👠👡👢👣
+👤👥
+face
+👦👧👨👩
+people, person
+👪👫👬👭
+cop
+👮👯👰👱👲👳👴👵👶👷
+
+Fairy tale
+👸👹👺👻👼👽👾👿💀
+
+Role
+💁💂💃
+Personal care
+💄💅💆💇💈
+
+Medical
+💉💊
+
+Romance
+💋💌💍💎💏💐💑💒
+
+Heart
+💓💔💕💖💗💘💙💚💛💜💝💞💟
+
+Comic style
+💠💡💢💣💤
+💥💦💧💨💩💪
+💫💬💭
+
+Japanese school grade
+💮💯
+
+Money
+💰💱💲💳💴💵💶💷💸💹
+
+Office
+💺💻💼
+💽💾💿📀
+📁📂📃📄📅📆📇📈📉📊📋
+📌📍📎📏📐
+📑📒📓📔📕📖📗📘📙📚📛📜
+
+Communication
+📝📞📟📠📡📢📣📤📥📦📧📨📩📪📫📬📭📮📯📰📱📲📳📴📵📶
+
+Audio and video
+📷📸📹📺📻📼📽📾
+
+📿 PRAYER BEADS
+
+User interface
+🔀🔁🔂🔃🔄🔅🔆🔇🔈🔉🔊
+🔋🔌🔍🔎
+🔏
+🔐
+🔑
+🔒
+
+🔓
+
+🔔🔕🔖🔗🔘
+
+Words with arrows
+🔙🔚🔛🔜🔝
+
+Enclosed alphanumeric
+🔞🔟
+
+User interface input status
+🔠🔡🔢🔣🔤
+
+Tool
+🔥 flame, fire
+🔦
+🔧 wrench
+🔨 hammer
+🔩🔪🔫🔬🔭🔮🔯🔰🔱
+
+🔲🔳🔴🔵🔶🔷🔸🔹🔺🔻🔼🔽
+
+🔾🔿🕀🕁🕂🕃🕄🕅🕆🕇🕈
+🕉🕊🕋🕌🕍🕎🕏
+
+Clock face
+🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧
+
+Communication
+🕨🕩🕪🕫🕬🕭
+🕮🕯🕰🕱🕲🕳
+🕴🕵🕶🕷🕸🕹🕺
+
+Communication
+🕻🕼🕽🕾🕿🖀🖁
+🖂🖃🖄🖅🖆
+🖇🖈🖉🖊🖋🖌🖍
+
+Hand
+🖎🖏🖐🖑🖒🖓🖔🖕🖖🖗
+🖘🖙🖚🖛🖜🖝
+🖞🖟🖠🖡🖢🖣
+
+Heart
+🖤 BLACK HEART
+
+Computer
+🖥🖦🖧🖨🖩🖪🖫🖬🖭
+🖮🖯🖰🖱🖲
+🖳🖴🖵🖶🖷🖸
+
+Office
+🖹🖺🖻🖼🖽🖾
+🖿🗀🗁🗂🗃🗄
+🗅🗆🗇🗈🗉🗊🗋🗌🗍🗎🗏🗐🗑
+🗒🗓🗔
+🗕🗖🗗🗘🗙🗚🗛
+🗜🗝
+🗞🗟🗠
+
+Rating
+🗡🗢🗣
+
+Sound
+🗤🗦🗧
+🗥
+
+Bubble
+🗨🗩🗪🗫🗬🗭🗮🗯🗰🗱🗲
+
+Ballot
+🗳🗴🗵🗶🗷🗸🗹
+
+Map
+🗺 WORLD MAP
+
+Cultural
+🗻 MOUNT FUJI
+🗼 TOKYO TOWER
+🗽 STATUE OF LIBERTY
+🗾 SILHOUETTE OF JAPAN
+🗿 MOYAI
+
+Emoji, Emoticon
+😀 GRINNING FACE
+😁 GRINNING FACE SMILING EYES
+😂 FACE TEARS OF JOY
+😃 SMILING FACE OPEN MOUTH
+😄 SMILING FACE OPEN MOUTH AND SMILING EYES
+😅 SMILING FACE OPEN MOUTH AND COLD SWEAT
+😆 SMILING FACE OPEN MOUTH AND TIGHTLY-CLOSED EYES
+😇 SMILING FACE HALO
+😈 SMILING FACE HORNS
+😉 WINKING FACE
+😊 SMILING FACE SMILING EYES
+😋 FACE SAVOURING DELICIOUS FOOD
+😌 RELIEVED FACE
+😍 SMILING FACE HEART-SHAPED EYES
+😎 SMILING FACE SUNGLASSES
+😏 SMIRKING FACE
+😐 NEUTRAL FACE
+😑 EXPRESSIONLESS FACE
+😒 UNAMUSED FACE
+😓 FACE COLD SWEAT
+😔 PENSIVE FACE
+😕 CONFUSED FACE
+😖 CONFOUNDED FACE
+😗 KISSING FACE
+😘 FACE THROWING A KISS
+😙 KISSING FACE SMILING EYES
+😚 KISSING FACE CLOSED EYES
+😛 FACE STUCK-OUT TONGUE
+😜 FACE STUCK-OUT TONGUE AND WINKING EYE
+😝 FACE STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
+😞 DISAPPOINTED FACE
+😟 WORRIED FACE
+😠 ANGRY FACE
+😡 POUTING FACE
+😢 CRYING FACE
+😣 PERSEVERING FACE
+😤 FACE LOOK OF TRIUMPH
+😥 DISAPPOINTED BUT RELIEVED FACE
+😦 FROWNING FACE OPEN MOUTH
+😧 ANGUISHED FACE
+😨 FEARFUL FACE
+😩 WEARY FACE
+😪 SLEEPY FACE
+😫 TIRED FACE
+😬 GRIMACING FACE
+😭 LOUDLY CRYING FACE
+😮 FACE OPEN MOUTH
+😯 HUSHED FACE
+😰 FACE OPEN MOUTH AND COLD SWEAT
+😱 FACE SCREAMING IN FEAR
+😲 ASTONISHED FACE
+😳 FLUSHED FACE
+😴 SLEEPING FACE
+😵 DIZZY FACE
+😶 FACE WITHOUT MOUTH
+😷 FACE MEDICAL MASK
+
+Cat faces
+😸 GRINNING CAT FACE SMILING EYES
+😹 CAT FACE TEARS OF JOY
+😺 SMILING CAT FACE OPEN MOUTH
+😻 SMILING CAT FACE HEART-SHAPED EYES
+😼 CAT FACE WRY SMILE
+😽 KISSING CAT FACE CLOSED EYES
+😾 POUTING CAT FACE
+😿 CRYING CAT FACE
+🙀 WEARY CAT FACE
+
+Faces
+🙁 SLIGHTLY FROWNING FACE
+🙂 SLIGHTLY SMILING FACE
+🙃 UPSIDE-DOWN FACE
+🙄 FACE ROLLING EYES
+
+Gesture
+🙅 FACE NO GOOD GESTURE
+🙆 FACE OK GESTURE
+🙇 PERSON BOWING DEEPLY
+🙈 SEE-NO-EVIL MONKEY
+🙉 HEAR-NO-EVIL MONKEY
+🙊 SPEAK-NO-EVIL MONKEY
+🙋 HAPPY PERSON RAISING ONE HAND
+🙌 PERSON RAISING BOTH HANDS IN CELEBRATION
+🙍 PERSON FROWNING
+🙎 PERSON POUTING FACE
+🙏 PERSON FOLDED HANDS
+Vehicles
+🚀 ROCKET
+🚁 HELICOPTER
+🚂 STEAM LOCOMOTIVE
+🚃 RAILWAY CAR
+🚄 HIGH-SPEED TRAIN
+🚅 HIGH-SPEED TRAIN BULLET NOSE
+🚆 TRAIN
+🚇 METRO
+🚈 LIGHT RAIL
+🚉 STATION
+🚊 TRAM
+🚋 TRAM CAR
+🚌 BUS
+🚍 ONCOMING BUS
+🚎 TROLLEYBUS
+🚏 BUS STOP
+🚐 MINIBUS
+🚑 AMBULANCE
+🚒 FIRE ENGINE
+🚓 POLICE CAR
+🚔 ONCOMING POLICE CAR
+🚕 TAXI
+🚖 ONCOMING TAXI
+🚗 AUTOMOBILE
+🚘 ONCOMING AUTOMOBILE
+🚙 RECREATIONAL VEHICLE
+🚚 DELIVERY TRUCK
+🚛 ARTICULATED LORRY
+🚜 TRACTOR
+🚝 MONORAIL
+🚞 MOUNTAIN RAILWAY
+🚟 SUSPENSION RAILWAY
+🚠 MOUNTAIN CABLEWAY
+🚡 AERIAL TRAMWAY
+🚢 SHIP
+🚣 ROWBOAT
+🚤 SPEEDBOAT
+
+Traffic signs
+🚥 HORIZONTAL TRAFFIC LIGHT
+🚦 VERTICAL TRAFFIC LIGHT
+🚧 CONSTRUCTION SIGN
+🚨 POLICE CARS REVOLVING LIGHT
+
+Signage and other
+🚩 TRIANGULAR FLAG ON POST
+🚪 DOOR
+🚫 NO ENTRY SIGN
+🚬 SMOKING
+🚭 NO SMOKING
+🚮 PUT LITTER IN ITS PLACE
+🚯 DO NOT LITTER
+🚰 POTABLE WATER
+🚱 NON-POTABLE WATER
+🚲 BICYCLE
+🚳 NO BICYCLES
+🚴 BICYCLIST
+🚵 MOUNTAIN BICYCLIST
+🚶 PEDESTRIAN
+🚷 NO PEDESTRIANS
+🚸 CHILDREN CROSSING
+🚹 MENS
+🚺 WOMENS
+🚻 RESTROOM
+🚼 BABY
+🚽 TOILET
+🚾 WATER CLOSET
+🚿 SHOWER
+🛀 BATH
+🛁 BATHTUB
+🛂 PASSPORT CONTROL
+🛃 CUSTOMS
+🛄 BAGGAGE CLAIM
+🛅 LEFT LUGGAGE
+🛆 TRIANGLE ROUNDED CORNERS
+🛇 PROHIBITED SIGN
+🛈 CIRCLED INFORMATION SOURCE
+🛉 BOYS
+🛊 GIRLS
+
+Accommodation → 1F378
+🛋 COUCH AND LAMP
+🛌 SLEEPING ACCOMMODATION
+🛍 SHOPPING BAGS
+🛎 BELLHOP BELL
+🛏 BED
+
+Signage and other
+🛐 PLACE OF WORSHIP
+🛑 OCTAGONAL SIGN
+🛒 SHOPPING TROLLEY
+
+Map
+🛓 STUPA
+🛔 PAGODA
+🛕 HINDU TEMPLE
+
+Miscellaneous
+🛠 HAMMER AND WRENCH
+🛡 SHIELD
+🛢 OIL DRUM
+🛣 MOTORWAY
+🛤 RAILWAY TRACK
+
+Vehicles
+🛥 MOTOR BOAT
+🛦 UP-POINTING MILITARY AIRPLANE
+🛧 UP-POINTING AIRPLANE
+🛨 UP-POINTING SMALL AIRPLANE
+🛩 SMALL AIRPLANE
+🛪 NORTHEAST-POINTING AIRPLANE
+🛫 AIRPLANE DEPARTURE
+🛬 AIRPLANE ARRIVING
+🛰 SATELLITE
+🛱 ONCOMING FIRE ENGINE
+🛲 DIESEL LOCOMOTIVE
+🛳 PASSENGER SHIP
+🛴 SCOOTER
+🛵 MOTOR SCOOTER
+🛶 CANOE
+🛷 SLED
+🛸 FLYING SAUCER
+🛹 SKATEBOARD
+🛺 AUTO RICKSHAW
+🛻
+🛼
+🛽
+🛾
+🛿
+
+Arrows
+🞀🞁🞂🞃
+
+Circles
+🞄🞅🞆🞇🞈🞉🞊🞋
+
+Squares
+🞌🞍🞎🞏🞐🞑🞒🞓🞔🞕🞖
+
+Diamonds
+🞗🞘🞙🞚🞛🞜
+🞝🞞🞟🞠
+🞡🞢🞣🞤🞥🞦🞧
+🞨🞩🞪🞫🞬🞭🞮
+🞯🞰🞱🞲🞳🞴
+🞵🞶🞷🞸🞹🞺🞻🞼🞽🞾🞿
+3 🟀🟁🟂🟃
+4 🟄🟅🟆🟇🟈
+5 🟉🟊
+6 🟋🟌🟍
+8 🟎🟏🟐🟑
+12 🟒🟓🟔
+
+Go stone markers
+🟕🟖🟗🟘
+
+Colored circles
+🟠🟡🟢🟣🟤
+
+Squares
+🟥🟦🟧🟨🟩🟪🟫
+
+Typicon
+🤀 CIRCLED CROSS FORMEE FOUR DOTS
+🤁 CIRCLED CROSS FORMEE TWO DOTS
+🤂 CIRCLED CROSS FORMEE
+🤃 LEFT HALF CIRCLE FOUR DOTS
+🤄 LEFT HALF CIRCLE THREE DOTS
+🤅 LEFT HALF CIRCLE TWO DOTS
+🤆 LEFT HALF CIRCLE DOT
+🤇 LEFT HALF CIRCLE
+🤈 DOWNWARD FACING HOOK
+🤉 DOWNWARD FACING NOTCHED HOOK
+🤊 DOWNWARD FACING HOOK DOT
+🤋 DOWNWARD FACING NOTCHED HOOK DOT
+
+Hearts
+🤍 WHITE HEART
+🤎 BROWN HEART
+
+Hand
+🤏 PINCHING HAND
+
+Faces
+🤐 ZIPPER-MOUTH FACE
+🤑 MONEY-MOUTH FACE
+🤒 FACE THERMOMETER
+🤓 NERD FACE
+🤔 THINKING FACE
+🤕 FACE HEAD-BANDAGE
+🤖 ROBOT FACE
+🤗 HUGGING FACE
+
+Hand
+🤘 SIGN OF THE HORNS
+🤙 CALL ME HAND
+🤚 RAISED BACK OF HAND
+🤛 LEFT-FACING FIST
+🤜 RIGHT-FACING FIST
+🤝 HANDSHAKE
+🤞 HAND INDEX AND MIDDLE FINGERS CROSSED
+🤟 I LOVE YOU HAND SIGN
+
+Faces
+🤠 FACE COWBOY HAT
+🤡 CLOWN FACE
+🤢 NAUSEATED FACE
+🤣 ROLLING ON THE FLOOR LAUGHING
+🤤 DROOLING FACE
+🤥 LYING FACE
+🤦 FACE PALM
+🤧 SNEEZING FACE
+🤨 FACE ONE EYEBROW RAISED
+🤩 GRINNING FACE STAR EYES
+🤪 GRINNING FACE ONE LARGE AND ONE SMALL EYE
+🤫 FACE FINGER COVERING CLOSED LIPS
+🤬 SERIOUS FACE COVERING MOUTH
+🤭 SMILING FACE SMILING EYES AND HAND COVERING MOUTH
+🤮 FACE OPEN MOUTH VOMITING
+🤯 SHOCKED FACE EXPLODING HEAD
+
+Portrait and role
+🤰 PREGNANT WOMAN
+🤱 BREAST-FEEDING
+🤲 PALMS UP TOGETHER
+🤳 SELFIE
+🤴 PRINCE
+🤵 MAN IN TUXEDO
+🤶 MOTHER CHRISTMAS
+🤷 SHRUG
+
+Sport
+🤸 PERSON DOING CARTWHEEL
+🤹 JUGGLING
+🤺 FENCER
+🤻 MODERN PENTATHLON
+🤼 WRESTLERS
+🤽 WATER POLO
+🤾 HANDBALL
+🤿 DIVING MASK
+
+Miscellaneous
+🥀 WILTED FLOWER
+🥁 DRUM DRUMSTICKS
+🥂 CLINKING GLASSES
+🥃 TUMBLER GLASS
+🥄 SPOON
+🥅 GOAL NET
+🥆 RIFLE
+🥇 FIRST PLACE MEDAL
+🥈 SECOND PLACE MEDAL
+🥉 THIRD PLACE MEDAL
+🥊 BOXING GLOVE
+🥋 MARTIAL ARTS UNIFORM
+🥌 CURLING STONE
+🥍 LACROSSE STICK AND BALL
+🥎 SOFTBALL
+🥏 FLYING DISC
+
+Food
+🥐 CROISSANT
+🥑 AVOCADO
+🥒 CUCUMBER
+🥓 BACON
+🥔 POTATO
+🥕 CARROT
+🥖 BAGUETTE BREAD
+🥗 GREEN SALAD
+🥘 SHALLOW PAN OF FOOD
+🥙 STUFFED FLATBREAD
+🥚 EGG
+🥛 GLASS OF MILK
+🥜 PEANUTS
+🥝 KIWIFRUIT
+🥞 PANCAKES
+🥟 DUMPLING
+🥠 FORTUNE COOKIE
+🥡 TAKEOUT BOX
+🥢 CHOPSTICKS
+🥣 BOWL SPOON
+🥤 CUP STRAW
+🥥 COCONUT
+🥦 BROCCOLI
+🥧 PIE
+🥨 PRETZEL
+🥩 CUT OF MEAT
+🥪 SANDWICH
+🥫 CANNED FOOD
+🥬 LEAFY GREEN
+🥭 MANGO
+🥮 MOON CAKE
+🥯 BAGEL
+
+Faces
+🥰 SMILING FACE SMILING EYES AND THREE HEARTS
+🥱 YAWNING FACE
+🥳 FACE PARTY HORN AND PARTY HAT
+🥴 FACE UNEVEN EYES AND WAVY MOUTH
+🥵 OVERHEATED FACE
+🥶 FREEZING FACE
+🥺 FACE PLEADING EYES
+🥻 SARI
+🥼 LAB COAT
+🥽 GOGGLES
+🥾 HIKING BOOT
+🥿 FLAT SHOE
+🦀 CRAB
+🦁 LION FACE
+🦂 SCORPION
+🦃 TURKEY
+🦄 UNICORN FACE
+🦅 EAGLE
+🦆 DUCK
+🦇 BAT
+🦈 SHARK
+🦉 OWL
+🦊 FOX FACE
+🦋 BUTTERFLY
+🦌 DEER
+🦍 GORILLA
+🦎 LIZARD
+🦏 RHINOCEROS
+🦐 SHRIMP
+🦑 SQUID
+🦒 GIRAFFE FACE
+🦓 ZEBRA FACE
+🦔 HEDGEHOG
+🦕 SAUROPOD
+🦖 T-REX
+🦗 CRICKET
+🦘 KANGAROO
+🦙 LLAMA
+🦚 PEACOCK
+🦛 HIPPOPOTAMUS
+🦜 PARROT
+🦝 RACCOON
+🦞 LOBSTER
+🦟 MOSQUITO
+🦠 MICROBE
+🦡 BADGER
+🦢 SWAN
+🦥 SLOTH
+🦦 OTTER
+🦧 ORANGUTAN
+🦨 SKUNK
+🦩 FLAM EXTINGUISHER
+🧰 TOOLBOX
+🧱 BRICK
+🧲 MAGNET
+🧳 LUGGAGE
+🧴 LOTION BOTTLE
+🧵 SPOOL OF THREAD
+🧶 BALL OF YARN
+🧷 SAFETY PIN
+🧸 TEDDY BEAR
+🧹 BROOM
+🧺 BASKET
+🧻 ROLL OF PAPER
+🧼 BAR OF SOAP
+🧽 SPONGE
+🧾 RECEIPT
+🧿 NAZAR AMULET
+🨀 CHESS KING
+🨁 CHESS QUEEN
+🨂 CHESS ROOK
+🨃 CHESS BISHOP
+🨄 CHESS KNIGHT
+🨅 CHESS PAWN
+🩰 BALLET SHOES
+🩱 ONE-PIECE SWIMSUIT
+🩲 BRIEFS
+🩳 SHORTS
+🩸 DROP OF BLOOD
+🩹 ADHESIVE BANDAGE
+🩺 STETHOSCOPE
+🪀 YO-YO
+🪁 KITE
+🪂 PARACHUTE
+🪐 RINGED PLANET
+🪑 CHAIR
+🪒 RAZOR
+🪓 AXE
+🪔 DIYA LAMP
+🪕 BANJO
+
+UNICODE.org/charts/nameslist

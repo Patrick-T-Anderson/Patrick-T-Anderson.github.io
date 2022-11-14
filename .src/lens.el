@@ -178,7 +178,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ("^//" "<span class=\"cmnt\">\\&" "</span>")
 
          ;; This is date markup for the diary
-		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:"  "<hr/><span class=\"date\">\\&</span>")
+		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:"  "<span class=\"date\">\\&</span>")
 
  		 ("^>"  "<span class=\"quot\">\\&"  "</span>")
 

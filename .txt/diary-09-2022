@@ -1,0 +1,784 @@
+2022-09-29: Language Enabling Natural Systems (LENS)
+
+2022-09-28:
+What is the purpose of production?
+
+Within a home, abundance is goal,
+but in business, profits conflict.
+
+Profit go up as abundance go down.
+
+2022-09-28: Scuttlebutt.io
+
+SERVER: `Pub`, `ssb-server`, `Scuttlebot`, `sbot`, `relay server`
+
+npm install ssb-client
+
+# Run Pub on CLI:
+$ npm install -g scuttlebot
+$ sbot server
+
+Can we merge `Pub` and `Room` running inside the ssb-client
+
+2022-09-28: Pubs are relay servers known as “super peers”. Pubs connect users users and gossip updates to other users connected to the Pub. -- https://medium.com/@miguelmota/getting-started-with-secure-scuttlebut-e6b7d4c5ecfd
+
+2022-09-28: Wikipedia.org/wiki/Repeated_game
+"'In game theory, a repeated game is an extensive form game that consists of a number of repetitions of some base game (called a stage game). The stage game is usually one of the well-studied 2-person games. Repeated games capture the idea that a player will have to take into account the impact of his or her current action on the future actions of other players; this impact is sometimes called his or her reputation. Single stage game or single shot game are names for non-repeated games.'"
+
+2022-09-27: PHILabs.xyz
+"'The ARCH tokens will not be offered in the United States or to U.S. persons or to residents of certain other prohibited jurisdictions. Learn more here. The information provided in this website is for general informational purposes only. It does not constitute, and should not be considered, a formal offer to sell or a solicitation of an offer to buy any security in any jurisdiction, legal advice, investment advice, or tax advice. If you are in need of legal advice, investment advice or tax advice, please consult with a professional adviser. The Archway protocol is under development and is subject to change. As such, the protocol documentation and contents of this website may not reflect the current state of the protocol at any given time. The protocol documentation and website content are not final and are subject to change.'" -- https://docs.archway.io/docs/create/getting-started/install
+
+2022-09-27: `btop` or `htop`
+
+2022-09-27: Considering ZeroMQ.org as basis of P2GoG
+
+"'ZeroMQ core engine in C++, implements ZMTP/3.1'"  github.com/zeromq/libzmq
+
+2022-09-27: Working at 14 Kbps
+
+2022-09-26: SingleClickApps.com : Install "image blocker", find extension, pin to toolbar, open options and click button to disable all image loading in browser
+
+2022-09-26: ArchWay.io >>Rewarding architects of Web3
+>>At its core, Archway’s protocol is designed to automatically reward developers and builders for their contributions to the protocol.
+
+2022-09-26: Studying Python for interview.
+
+2022-09-18:
+JoinFairGround.com >>Citizen Owned Private Cities
+
+From the "Fairground Whitepaper v3.0" at https://drive.google.com/file/d/1_636cLWhI-LZw_KYkIm6hjNDM8dZSsMn/
+"'
+Abstract: Property is the foundation of a free and functioning market.
+Land is the literal foundation of our existence. With this in mind,
+defining the rightful private use of land in the market becomes a
+question of defining our right to exist. If we’ve determined that every
+human has an equal right to exist then our property model for land
+should reflect that. We propose a competitive common ownership
+system autonomously administered using blockchain technology.
+Through an annual ownership bidding process the flow value of land
+utility could be quantified in a market assessed ground rent,
+economically incentivizing efficient land use while also providing a
+community member dividend.
+
+Introduction
+Community organizations owning physical property will often rely on a voting process to
+determine how the property can be used and by whom. The problem with this approach
+is a misalignment of incentives and a lack of personal accountability. There’s no real
+costs or risks involved in casting a vote. An elected board or voting majority can easily
+externalize most, if not all the costs and risks of their decisions on the remainder of the
+community. If the majority votes to cancel rent for example, it's the minority group of
+real estate investors that will bear the cost. Voting with one's own wallet on the other
+hand is perfectly suited to economic choices by placing all decision making power in the
+hands of those with skin in the game and the best track record of efficient capital
+allocation.
+
+1
+
+We propose an open land protocol that applies a perpetual ground rent for the private
+use of community resources through a competitive ownership bidding process. Below
+we’ll outline the market mechanisms that could be used in such a system to
+continuously and efficiently manage and expand the stock of community resources
+autonomously and free from private or political capture.
+
+Acquisition
+Land is acquired using a real estate crowdfunding platform. Anyone can use the
+platform and launch a campaign to raise funds to purchase property. If successfully
+funded, the real estate is purchased and the public land title is transferred to the
+community's legal entity. Property ownership defaults to the campaign creator and their
+investors in the form of an owner NFT (non-fungible token).
+
+Ownership
+Very little about real estate ownership needs to change under a competitive common
+ownership model. The owner would have full private control of the property and pay an
+annual assessment similar to a property tax. Only the method of assessment would
+change. Rather than a government assessment, the market would assess the value by
+taking offers every 12 months. The new assessed value is the highest bid.
+The owner is free to accept or reject the offers. If no action is taken, the highest bid is
+accepted with the annual ground rent being paid as part of the transaction similar to a
+sellers fee. Otherwise the current owner can reject the offers by paying the newly
+assessed annual ground rent which is a fixed percentage of the highest bid. The
+process repeats each year and the annual ground rent may rise or fall based on the
+market while the owner is also free to sell at any time in between.
+
+Improvement
+Owners have all the standard incentives to improve their properties. Of course, it can be
+expected that annual ground rent will put downward pressure on sale prices similar to
+high property tax areas.
+
+2
+
+While there are no exemptions from the ground rent there’s an important caveat. The
+ground rent exists to provide a community dividend. If the owner is a member of the
+community their dividend will be offsetting. This means that ground rent only begins to
+take effect when an owner finds themselves in the upper 50th percentile of property
+users. Or in other words, it kicks in when the total value of the property under their
+personal control exceeds that of the average member. Conversely, anyone controlling
+less real estate value than average would see their ground rent completely covered or
+exceeded by their annual dividend.
+
+Use
+Typically, property zoning and density fall under the jurisdiction of the local government.
+The sovereignty of the property owner runs up against the will of the people in
+government form, or at least that’s the rationale. As discussed earlier, the result is
+unaccountable voting power being substituted for rational economic calculation.
+A much better approach would be a level playing field where both sides have equal skin
+in the game. The property owner could retain sovereignty to the extent that they are
+willing to pay the annually assessed ground rent. Any opposing parties would have an
+equal opportunity to do the same by offering a bid. They will either succeed in taking
+ownership of the property or raise the current occupants' ground rent as compensation
+for the undesired use.
+
+With neither side able to strong arm the other, communities can physically self organize.
+Infrastructure and public space could all be competitively provided by private builders.
+Cities can be designed bottom-up by the market without need for a central planner
+regulating what gets built and where.
+
+3
+
+While the system imposes no top down regulation it’s important to note that members
+are still subject to the overriding laws of the local jurisdiction which may include building
+and zoning regulation. The community is free to organize and push back against any
+restrictions not providing value or buy land in less restrictive areas.
+
+Membership
+Membership can and should be open and free to everyone. The sole requirement would
+be an identity verification process to ensure one dividend per member. Each member is
+entitled to one equal share of all real estate ground rent as a member dividend.
+Initially, the member dividend maximum will need to be artificially pegged to the US
+average home value index. This will simulate an asset-to-member ratio on par with the
+broader US real estate market and allow members to invest in real estate without a
+concern that a membership increase will reduce their dividend offset. Eventually the
+ratio of real estate asset value per member will either match or exceed the artificial peg
+and the dividend will become fully equalized amongst members. Until that point the peg
+provides market parity for real estate acquisition and development. Members would be
+able to market their ground rent offsets to investors up to their individual dividend
+maximum.
+
+Incentive
+By simply applying an annual market assessed ground rent to land use we are able to
+disengage private and state monopoly control and bring land ownership fully into the
+competitive landscape. The consumer preference for a certain parcel of land is then
+quantifiable in the broader market context and can be measured against alternative
+uses.
+
+Competition can drive all resources to their highest and best use while compensating
+the community for their monopolization. Real estate uses with broader member
+participation will be economically favored due to the groups larger aggregate dividend
+offset. For example, it would be much more expensive for a private park owner to keep
+the entire property to themselves than to open it up for everyone.
+
+4
+
+Upgrade
+For purposes of system upgrades, changes, or its full elimination, 100% investor
+consensus would be required. Fortunately, no voting process would be needed.
+Because the ground rent system imposes a cost and fixes the holdout problem, a
+sufficient group of owners would be able to apply enough buyout pressure to achieve
+consensus. In the meantime, they would receive compensatory ground rent from the
+holdouts until they decide to sell or agree to the new terms.
+Conclusion
+Nations rise and fall based on their ability to manage scarce resources. The most
+important metric for any economizing organization should be its resource efficiency, or
+in other words, its bottomline. The simple mechanism of a market driven ground rent
+can establish this common language for real estate efficiency while also providing
+community benefit.
+A community system that establishes our shared right to the inherent value of nature
+without inhibiting our private right to enjoy and improve it could completely change the
+standing of the individual in our economy and correct some of our longest standing
+societal ills in the process.'"
+
+2022-09-18: A Tokenless Storage Strategy
+
+Two big use-cases for storage are Chat and Video.
+
+Chat requires very little storage, but imagine node 'A' chats to 'B', but 'B' is offline, then 'A' goes offline before 'B' is back online...
+
+One solution is to store data on node 'C' "in return for" 'C' being allowed to store data on node 'A' and 'B'.
+
+This reciprocal compensation model allows us to "pay" each other at any quality-of-service level without using any kind of money.
+
+Video needs big storage and fast network, so a pure P2P system may struggle to deliver when all Nodes are small (such as cheaper cell-phones)
+
+To overcome this Nodes should find other Nodes and recursively group into MetaNodes.
+
+and also to be a Registry for naming and Node discovery.
+
+to host Video and other big files
+
+To promote MetaNodes (Node Clustering at any level), each Node offers reciprocation in the form of:
+. Storage
+. Original content (new Video, for example)
+. Skills (by signing Work_Contracts)
+
+
+2022-09-18:
+"'Fairground solves this problem with an investable land trust that combines a novel geonomics based economic framework with a venture capital approach to growth.  Put more simply, Fairground is like a city sized hacker house, providing a community of early stage startups with a free place to live and work together in exchange for equity in their companies.  As the startup city grows its real estate and membership, it displaces our broken economy with one that actually works.'" -- Facebook.com/joinfairground
+
+eOS solves this problem with an investable land trust that combines a novel geonomics based economic framework with a venture capital approach to growth.  Put more simply, Fairground is like a city sized hacker house, providing a community of early stage startups with a free place to live and work together in exchange for equity in their companies.  As the startup city grows its real estate and membership, it displaces our broken economy with one that actually works.
+
+
+2022-09-13: https://p2p.mirotalk.com/join/eOS
+
+2022-09-12: 💞 https://www.youtube.com/watch?v=RMv_JJHx2rY
+
+2022-09-12: The earthChange Operating System (eOS)
+Uses the LENS - scripting language to 
+structure production under the For_Product model.
+
+2022-09-09:
+The **earthChange** Fungible Token (FT) is auctioned to fund the purchase of Land and other crucial Sources.
+This coin is limited in circulation by the number of square meters of land held under the terms of the For Product model, but does not represent property ownership, nor utility, nor governance.
+
+The **Product_Ticket** Non-Fungible Token (NFT) represents a *future* good or service, and is (mostly) not sold for Money, but is instead exchanged for **Work_Contract** signatures.
+
+The **Work_Contract** NFT represents *future* work.
+
+The **Source_Title** NFT represents Land Ownership and other crucial Sources such as Water Rights, Mineral Rights, etc.
+**Source_Titles** cannot be purchased with traditional Money, nor with **earthChange**, but can only be obtained by completing **Work_Contracts**.
+**Source_Titles** are held to *avoid* paying rent or profit to other owners.
+
+
+2022-09-09: Finally watching "The Grapes of Wrath" on Archive.org
+
+As they pull away from the gas station (around 57 minutes):
+    Attendant 1: No human being would live the way they do.
+    Attendant 2: Just don't know any better I guess.
+
+They finally pull into the encampment
+It is terrifying as Ford 'shoos' the hungry kids away.
+
+A Black Hat🎩 shows up offering work.
+Average joe cautions 🎩 may be fishing
+The 🎩 exclaims 'Agitator!' and the cop👮
+
+2022-09-08: 
+ECORISE.finance/ECORISE%20WHITEPAPER.pdf
+
+Here are som ideas for when we are building villages.
+
+>>- $ECO is used to purchase property.
+We can sell the $EARTHCHANGE Fungible Token (coin) to buy the parcels used for village property.
+$EARTHCHANGE does not represent land ownership, has no utility and conveys no governance.
+
+>>- Land Title is turned into NFT and locked.
+In villages, Land Titles will vest to village occupants as they complete Work_Contracts.
+
+
+>>... continuous revenue for ECORISE, and DAO partners.
+We will structure essential production such as food, shelter, basic healthcare, sanitation, transportation, etc.
+
+Occupants select Product_Tickets to 'vote' on village production, and then 'pay' for that production by signing Work_Contracts.
+
+Each village occupant gains unshared, private, excludable ownership for their personal space and never pay Rent as they each are on a work-to-own program.
+
+Occupants also gain co-ownership in the group production used to achieve essential production of predictable goods and services, and so do not pay Profit.
+
+Because of this, the core of the village will generate almost no revenue, but will likely generate financial returns by selling surplus to "tourists".
+
+Some of that Profit may be used to pay ECORISE, and DAO partners.
+
+Some of that Profit must be invested for the User (tourist) who bought the surplus Product.
+    The DAO then buys even more Land and slowly vests those Titles to those Users (tourists).
+        This causes each User to gain the Property required to make the Products they use.
+
+This causes all Users to slowly become Owners, which further stablizes the User_Owned 'core'.
+As the core increases in size, there is even more surplus to sell, so even more Profit to be distributed.
+
+In the theoretical end, once people on Earth live in this way, Profit and Rent will only come from missed predictions and new inventions, and even then it is only temporary since those Users will also gain Land Titles (and water rights and mineral rights and other finite things) required for that production.
+
+2022-09-08: https://sfu.mirotalk.com/join/earthChange
+
+2022-09-08:
+https://github.com/miroslavpejic85/mirotalksfu
+"'
+Free WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
+
+sfu.mirotalk.com
+
+Features
+Is 100% Free - Open Source - Self Hosted and PWA!
+No download, plug-in or login required, entirely browser-based
+Unlimited number of conference rooms, without call time limitation
+Desktop and Mobile compatible
+Translated in 133 languages
+Optimized Room URL Sharing (share it to your participants, wait for them to join)
+Possibility to Password protect the Room for the meeting
+Webcam Streaming up to 4K quality (Front - Rear for mobile)
+Echo cancellation and noise suppression that makes your audio crystal clear
+Screen Sharing to present documents, slides, and more ...
+File Sharing (with drag-and-drop), share any files to your participants in the room
+Take a snapshot from the video frame(screen/cam) to save it as an image on your device.
+Chat with Emoji Picker to show you feeling and the possibility to Save the conversations
+Speech recognition, execute the app features simply with your voice.
+Advance collaborative whiteboard for the teachers
+Select Microphone - Speaker and Video source
+Recording your Screen, Audio, or Video
+Share any YouTube video in real-time to your participants
+Share any mp4, webm, ogg video in real-time to your participants with possibility to download it
+'"
+
+2022-09-08: On the Impossibility of Sharing Hardware
+Ok, back to this...
+
+
+2022-09-07:
+When Users fund, Debt is gone.
+
+But most users cannot pay early, so usually pay profit as they pay late to other owners (👻)
+
+then sell that Coin to buy that Land.
+
+Then attract qualified occupants
+by offering Skill_Contracts 
+If you own a Tree, you own that Fruit.
+If workers get hollow Tokens, Rent absorbs all value.
+Each Occupant must qualify and sign a Skill_Contract.
+Skill_Contracts schedule the work of a Basic_Outcome.
+
+Each owner may charge any Price, within "the market" of that time and location.
+
+2022-09-07: Prediction Markets
+You may buy Product_Tickets representing future production.
+You gain ownership in the Land, Water Rights, Trees, etc.
+You will work for others because they will work for you.
+
+2022-09-07: Working on the LENS Simulator.
+
+2022-09-07: https://github.com/nextcloud/spreed
+
+2022-09-06: https://nextcloud.com/talk/
+
+2022-09-06: "'Spreed services for NextCloud
+MCU / RTC Gateway
+Distributes Streams
+Pub-Sub
+Janus github.com/meetecho/janus-gateway
+Implemented in C
+First setups, including a regional government customer.
+'"
+https://www.youtube.com/watch?v=5S63Q3Xo8dA
+
+2022-09-06: ChatApp considerations:
+https://habibrehman.com/work/ciphora
+
+
+2022-09-06: Mesh.im
+"'Technitium Mesh is a secure, anonymous, peer-to-peer (p2p), open source instant messenger designed to provide end-to-end encryption. Primary aim of developing this instant messenger is to provide privacy which is achieved using cryptography and anonymity using Tor network. It can be used over Internet and private LAN networks (without Internet) for instant messaging and file transfer with support for private chats and group chats.
+
+Mesh is based on Bit Chat and is its successor. Mesh takes core ideas from its predecessor and removes a few. Notably, Mesh does not require centralized user registration and provides anonymous profile support using Tor hidden service. It also removes use of BitTorrent trackers for finding peers which was causing issues with Bit Chat since some ISPs blocking BitTorrent traffic would also block Bit Chat traffic. Instead, Mesh relies only on Distributed Hash Tables (DHT) for all purposes.
+
+Mesh allows creating both pure p2p and anonymous profiles with support for running multiple profiles concurrently. Both p2p and anonymous profiles are interoperable such that a p2p profile user can connect with an anonymous profile user via Tor Network.
+
+With Mesh, there is no meta data generated. User identifier is designed in such a way that it can be changed anytime to hide identity. Since, there is no user registration, we don't know who uses Mesh or how many people use it. In p2p mode, the connections use IPv4 or IPv6 connectivity directly to connect with peers without any server in between. With anonymous mode, all connectivity occurs over Tor network and uses Tor hidden service to accept inbound connections.'"
+
+2022-09-05: https://www.binance.com/en/terms
+"'By registering to use a Binance Account, you represent and warrant that: (i) as an individual, you are at least 18 ... (v) you are not resident, located in or otherwise attempting to access the Binance Platform or the Binance Services from, or otherwise acting on behalf of a person or legal entity that is resident or located in, a Restricted Location. For the purposes hereof, “Restricted Location” shall include the United States, Singapore, Ontario (Canada), and such other locations as designated by Binance Operators from time to time as a “Restricted Location” for the purposes hereof; '"
+
+2022-09-05: bittrex: Submit Token for Listing Consideration
+https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958872
+"'
+**NOTICE: Roughly 30 minutes prior to “The Merge” we will be temporarily pausing deposits and/or withdrawals for Ethereum (ETH) and Ethereum-based token wallets to ensure the safety of customer funds during the ETH transition event (approximately September 13, 2022). See this article for more information.
+Skip to main content
+Logo
+SUPPORT
+BACK TO BITTREX.COM
+Search...
+Bittrex Support Submit a request
+Submit a request
+Aim to include as much information and detail in your request as possible to reduce delays between replies
+Please select from the list below:
+Submit Token for Listing Consideration (BUS Only)
+Your email address
+Subject
+Please provide a short description of your issue.
+
+Description
+
+Please enter the details of your request. A member of our support staff will respond as soon as possible.
+
+Are you the Developer or official representative of the token team?
+-
+If you are not one of the token developers or representatives from the token team we will not be responding to your ticket. Please do not submit this form if you answer NO.
+
+Verified Account
+Please provide a Verified Account of team member registered on Bittrex. This team member must be either a core developer or a major shareholder (10% or more) of a company that backs the development of the token. That member will need to submit identifying documents to get their account Verified through our automated system.
+
+Email Address of Approved Corporate Account associated with the token(optional)
+If you do not have a corporate account, please apply for one using the Corporate Account Request form (https://support.bittrex.com/hc/en-us/requests/new?ticket_form_id=360000026631) and provide the email address of the account here. NOTE: The company registering the account must be the token issuer for the purposes of listing due diligence.
+
+Email Address(es) of Bittrex Account(s)
+Please list all email addresses used for Bittrex accounts. If you have multiple accounts, please list any and all accounts by email address on separate lines.
+
+Coin Name
+Ticker Letters
+The ticker needs to be 3-5 letters and cannot contain any symbols or numbers. Please verify that your preferred symbol is not already in use on Bittrex or any other exchange. There are a number of services that track coin prices that require the symbols to be unique. Even if the symbol is not on our exchange anymore, we won't reuse it. Consider your symbol carefully because we will not change it once it is set.
+
+Description of Token
+Why does it exist and what makes it unique? What new technology or business concept are you bringing to the blockchain? Why should Bittrex list it?
+
+How can people use your token on mainnet right now?
+Tell us how people can use your token right now. Can people earn and spend the token for a good or service? If you don't have current utility, tell us what utility you will have first and when it will be released.
+
+Date of Mainnet Launch
+Enter the past or future date of your token's mainnet launch
+
+Date of Platform Launch
+Enter the past or future date that your platform was/will be available to the public. If this is not applicable, enter the same date as your mainnet public release.
+
+What code is your chain based on?
+Let us know if your chain is forked from another chain or using code from a common source.
+
+Is this an ERC20 token?
+-
+Is this an ERC20 holding token that will be replaced by another token in the future?
+-
+Github URL
+We only accept source code. We will not run a binary that you provide us.
+
+Official Blockchain Explorer(optional)
+Please provide the link to your official blockchain explorer. You can include more than one, if necessary.
+
+Official Website URL
+Please provide the official website where official information and updates can be found.
+
+Whitepaper URL
+The whitepaper should be the most current and up to date version. The link should be the official version that is publicly accessible to all.
+
+Social Media and Communication Channels(optional)
+Please list any social media information such as your telegram channel, twitter account, facebook page, subreddit, etc.
+
+Did you raise money/bitcoin to launch your token?
+-
+i.e. a CFC/ICO/Private Sale/SAFT
+
+Do you or will you have a pre-mine?(optional)
+If yes, please specify how much it is and whether it's escrowed.
+
+What is the maximum supply of your token?(optional)
+What is the current txfee for a transaction?(optional)
+What other exchanges is this token currently listed?(optional)
+Please list all exchanges that offer your token.
+
+Do you have a US legal memo analyzing your token against US securities regulations?
+-
+US memos are not required for listing in the US on Bittrex.com, however, having one helps us in processing your request. US legal memos should be written by a credible law firm or lawyer familiar with US securities regulations. If Yes, please upload below as an attachment.
+
+Does your token have a rating from the Crypto Rating Council?(optional)
+-
+This is not required at the time of request but is beneficial for listing in the US on Bittrex.com. The answer to this question helps us in processing your request. Further information about the Crypto Rating Council can be found here: https://www.cryptoratingcouncil.com/
+
+'"
+
+2022-09-05:
+https://empire-global.medium.com/getting-listed-on-a-cryptocurrency-exchange-page-268f49663cd6
+"'
+Cryptocurrency exchanges are vital for the circulation and trading of cryptocurrencies and without the availability of a particular currency on an exchange, users could not be able to obtain it or liquidate their holdings of the currency when they require. For a cryptocurrency, not being listed on a cryptocurrency exchange is a major hindrance as then it no longer remains a potential purchase option for anyone who was not able to obtain it during the ICO. Users may even not take apart for a token in an ICO if it is not listed on an exchange as they desire the ability to change their cryptocurrency to any other asset, based on market conditions. It is also essential for them to be able to change their cryptocurrency into fiat currencies as not all transactions are possible through cryptocurrencies.
+
+In a nutshell, listing on a cryptocurrency exchange is crucial to the acceptability of a cryptocurrency and its functioning.
+
+How can I get listed on a cryptocurrency exchange?
+
+Considering the importance of listing for any cryptocurrency, it is crucial for cryptocurrencies to know the path for listing on a cryptocurrency exchange. This process involves the following key steps:
+
+The first step is communication with a preferred cryptocurrency exchange about a potential for listing on the exchange. It is essential that a thorough evaluation is made on the background of the exchange and its functioning. The key parameters which are often discussed are:
+
+a) Whether the exchange operates in the countries where you want the circulation of your cryptocurrency?
+b) Does the exchange allow conversion from fiat currency to cryptocurrency or only between cryptocurrencies?
+c) Whether the exchange is centralized or decentralized?
+d) The listing fees charged by the exchange
+e) The technical details of the token and the platform
+
+Considering the complexity of the issues to be considered in the listing process, it is highly recommended that token issuers should approach a professional who has experience in the token listing process. The professional can assist in narrowing down on potential exchanges for listing and simplify the application process for listing.
+
+In the next step, the exchange through the professional communicates a list of documents that would be required for the listing process. Normally, the professional arranges documents such as legal memorandum on behalf of the token issuer. Empire Global has an in-house team of legal experts who have expertise in the legal evaluation of the compatibility of a Token with the existing legal framework.
+
+The third step involves the filling up and filing of the application form along with the required documentation and fee. After the filing process is complete, the professional will generally followup on your behalf to understand the progress of the application process.
+
+If the application is accepted, the final stage involves the technological integration of the token with the exchange and arrangement of the payment process for issuance of new tokens and any transfer of an additional fee for listing.
+
+What are the documentation requirements for listing on an exchange?
+
+The documentation requirements for listing on a cryptocurrency exchange can vary depending on the exchange and the token which is sought to be listed. The exact requirements will normally be communicated by the professional that you have engaged to assist in the listing process.
+
+The following documents are required in the listing process:
+
+a) Information about the Token issuer and the entire team involved
+b) The problem that the token seeks to resolve
+c) The technological background and the platform where it is used
+d) The utility of the Token
+e) Current status of the platform and the token
+f) Legal memorandum from a qualified legal professional about the compatibility of the token with the existing legal framework (it is arranged by Empire Global)
+g) The Whitepaper and the ICO process
+h) Information about any regulatory action
+'"
+
+2022-09-05:
+"New Listing -- Add CryptoAsset" at CoinMarketCap.com 
+"'
+https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493112
+
+Skip to main content
+CoinMarketCap Help Center home page
+ Submit a request Sign in
+CoinMarketCap  Submit a request
+Search
+Submit a request
+For advertising queries, please complete this form - https://coinmarketcap.com/advertising. Please review ALL the options and select the CORRECT form to ensure that your request gets routed to the correct team. Priority will be given to requesters that submit well-structured, actionable, and complete information to the CORRECT form.
+1 - [New Listing] Add cryptoasset
+Your email address
+patrick.t.anderson@gmail.com
+Subject Field (Please adhere to the format)
+earthChange
+Please refer to this format as an example. [Project's full name] - [Symbol] - [Request, e.g. Add Market, Add cryptoasset/exchange, Update cryptoasset/exchange, update supply]
+
+Methodology Review
+
+I declare that I have read, understood, and fully agree to the terms and conditions stipulated at https://coinmarketcap.com/methodology/
+
+Support Terms
+
+I acknowledge that CoinMarketCap reserves the right, in their sole discretion, to determine the suitability of my request for the site. In the event that CoinMarketCap rejects my request, I acknowledge that CoinMarketCap is not obligated to inform me or provide any reasons for such refusal.
+
+Accuracy Declaration
+
+I declare that the information provided on the form is accurate and complete to the best of my knowledge and that failure to fulfill these requirements may render my request inadmissible.
+
+Listings Disclaimer
+
+CoinMarketCap listings are always free. Please beware of spoofed emails, fake social accounts, or individuals requesting listing fees. Anyone asking you to pay a fee or tip for getting your project listed on CoinMarketCap is definitely not sanctioned to do so. We also do not sanction any listing service to assist in the listing application of any cryptoasset project or exchange. Please review this - https://tinyurl.com/2hpml4hk
+
+Relationship with the Project
+Please describe your relationship with the project (e.g. CEO, founder, employee, community member and exchange)
+
+Project Launch Date
+The date the project launched (e.g. token sale, genesis block, formation of company, drafting of business plan) Where possible, provide evidence/links for verification.
+
+Project Name
+Please provide the FULL name of the project (e.g. Bitcoin, Ethereum, Ripple, Holochain, Binance, Bittrex).
+
+Project Ticker/Symbol (Do not put a $ sign if there is none in the ticker)
+(e.g. BTC, ETH, XRP, HOT)
+
+Cryptoasset Tags - Sector/Categories
+You may select more than one tag. Doing so would allow users to filter assets by category membership.
+
+One-liner description
+Provide a snappy and concise tagline for the project. E,g, KAVA - A Cross-Chain Platform for Decentralized Finance. Band Protocol - Secure and scalable decentralized oracle for Web3.0. See more examples here: https://research.binance.com/
+
+Detailed Project Description (Cryptoasset)
+Our data shows that our users spend more time on pages that use descriptions that adhere to this template: https://tinyurl.com/yy2mw9v7. Recommended word count: 450 - 600 words. Provide a detailed description of your project, which may be used on the asset page (https://coinmarketcap.com/currencies/cardano/), Minimize the use of hyperbole, superlatives, and redundant statements (e.g. leading, amazing, best, first of its kind, state of the art, decentralized blockchain). It should not read like a sales pitch. Focus on factual statements about your project. Write in third-person. Be concise - avoid redundant statements. (e.g. decentralized blockchain). For example, Launched in [dd/mm/yyyy] by a team based in [country], [project] is a smart contract platform that enables developers to build decentralized applications. See https://coinmarketcap.com/currencies/cardano/.
+
+Platform (e.g. EOS, NEO, Ethereum, proprietary blockchain).
+Please specify all token platforms that the asset is currently on. For example, CHZ has ERC20 and BEP20 tokens and is therefore on the Ethereum and Binance blockchains.
+
+Chain Fork(optional)
+Specify the chain/asset that the was project forked from (e.g. Bitcoin Cash was forked from Bitcoin and had the same blocks/history prior to the fork). Not to be confused with project forks. For example, Litecoin was forked from the Bitcoin source code, but it does not share the same block history. As such, Litecoin is NOT a chain fork of Bitcoin. Where possible, provide evidence/links for verification.
+
+Hashing/Consensus Algorithm(optional)
+Team/Backers/Investors
+Provide a list of key employees, investors, and advisors. Describe their core competencies and past experience/achievements, and explain their involvement in your project. Where possible, provide evidence/links for verification.
+
+Media Coverage/Awards(optional)
+Provide valid URL(s) to articles/references.
+
+Traction/Adoption/Partnerships/MVPs/Apps
+This can take the form of user growth, partnerships, enterprise/consumer adoption, and roadmap progress. Quantify and qualify your points with concrete and specific examples. Where possible, provide evidence/links for verification.
+
+Country of Origin (where majority of team is located)
+Please indicate the country where the majority of your team is located. If applicable, please provide a list of countries and indicate the location of your headquarters.
+
+Link to Logo
+3 conditions MUST be met: (1) Transparent background; (2) Square (200x200); unequal dimensions will be rejected! (3) PNG format. See https://onlinepngtools.com/create-transparent-png and https://www.photoresizer.com/. If possible, it is recommended that you provide logo URLs ending with .png so that our system can extract the logo directly.
+
+Website 1
+There is data validation for this field. Kindly ensure that your URL conforms to the following format: https://www.website.com. If you still have issues, feel free to insert a placeholder link. You can then add the real URL in the comment/proof section in the last field of this form.
+
+Website 2 (Optional)(optional)
+There is data validation for this field. Kindly ensure that your URL conforms to the following format: https://www.website.com. If you still have issues, feel free to insert a placeholder link. You can then add the real URL in the comment/proof section in the last field of this form.
+
+Annex A - Rich List & Reserve Addresses (Mandatory for Circulating Supply/Ranking)(optional)
+Paste the URL of your completed Annex A Google Sheet here. Please refer to the instructions in Cell A1 of this link and ensure that your submission is in the CORRECT format: https://docs.google.com/spreadsheets/d/1ON2o9fZtdj6aa_uaT7ALtGx1VxFnIDUi8-uS-fWji0o/edit#gid=1181839735.
+
+Emission/release schedule(optional)
+Shows the emission/release schedule of the asset over time. See examples - https://skale.network/tokenomics, https://geeq.io/tokenomics/, https://www.orchid.com/oxt
+
+Platform of Contract Address 1
+0-Not applicable
+Select '-' if the platform is not in the dropdown
+
+Contract Address 1
+Please specify the chain that you are on (e.g. Binance Smart Chain, Ethereum, Heco). Use this format: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 (Ethereum). Type 'NA' if there is no contract yet (for untracked listings).
+
+Number of Decimals (Contract Address 1)(optional)
+This is usually found on the explorer page of the asset. See example - https://gyazo.com/7e2b24ca517cd90fd3a36f83d7c0a88f
+
+Block Explorer 1(optional)
+Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599. This is a mandatory field for projects that are already trading on an exchange.
+
+Block Explorer(s) 2, 3, 4, 5 (e.g. Etherscan, Ethplorer)(optional)
+Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599. If there is more than 1 explorer URL, please separate each entry with a comma. For example, https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56, https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737
+
+Source Code (e.g. Github, Gitter)(optional)
+Insert a valid URL.
+
+Whitepaper / Technical Documentation(optional)
+Insert a valid URL.
+
+Announcement (e.g. Bitcointalk)(optional)
+Insert a valid URL.
+
+Message Board 1 (e.g. Blog/Medium)(optional)
+Insert a valid URL.
+
+Message Board(s) 2, 3, 4, 5 (e.g. Blog/Medium)(optional)
+Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
+
+Twitter
+There is data validation for this field. Kindly ensure that your URL conforms to the following format. https://twitter.com/bitcoin
+
+Reddit (optional)
+Insert a valid URL for a subreddit.
+
+Facebook(optional)
+Insert a valid URL.
+
+Project introduction video(optional)
+Share a link to an introduction video of the project (e.g. YouTube/Vimeo)
+
+Video Channel (e.g. YouTube)(optional)
+Insert a valid URL.
+
+Chat 1 (e.g. Discord, Telegram, Slack, Weibo).
+There is data validation for this field. Ex: https://t.me/coinmarketcap
+
+Chat(s) 2, 3, 4, 5 (e.g. Discord, Telegram, Slack, Weibo).(optional)
+Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
+
+LinkedIn(optional)
+Insert a valid URL.
+
+Mobile App 1 (e.g. Google Play store, iTunes store)(optional)
+Insert a valid URL.
+
+Mobile App(s) 2, 3, 4, 5 (e.g. Google Play store, iTunes store)(optional)
+Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
+
+Circulating Supply (# of coins that are circulating in the market and in the general public's hands.)
+Insert EXACT number of units (e.g. 21000000).
+
+Total Supply (# of coins in existence right now minus any coins that have been verifiably burned.)(optional)
+Insert EXACT number of units (e.g. 21000000).
+
+Max Supply (maximum # of coins that will ever exist in the lifetime of the asset)
+Insert EXACT number of units (e.g. 21000000). If the max supply is infinite, type '0'
+
+ICO/IEO Start Date(optional)
+ICO/IEO End Date(optional)
+ICO/IEO/Launch Price(optional)
+Insert USD Price
+
+API endpoint that displays ONLY TOTAL SUPPLY as a NUMERICAL value (Type 'NA' if not applicable)(optional)
+MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=totalcoins. Total Supply refers to the # of coins in existence right now (minus any coins that have been verifiably burned.
+
+API endpoint that displays ONLY Circulating Supply as a numerical value(optional)
+MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=circulating. Circulating Supply refers to the # of coins that are circulating in the market and in the general public's hands
+
+List of CMC-supported exchanges(optional)
+Enter NA if not applicable. Provide (i) screenshots (e.g. imgur/gyazo) and (ii) URLs that link directly to the market(s)/pair(s). Separate each URL with a comma. See example - https://www.binance.com/en/trade/BTC_USDT
+
+[Optional] Are you willing to provide (dofollow) linkbacks to CMC?
+8 out of 10 applicants are willing to do so. Please see: https://gyazo.com/d76a8f1d7293bf9155b57d617c9b6efc. To understand what 'dofollow' means, please see: https://blog.alexa.com/dofollow-vs-nofollow-links/
+
+[OPTIONAL] Are you willing to integrate the CoinMarketCap Telegram bot (https://t.me/CoinMarketCapPriceBot) into your official Telegram group/s?
+8 out of 10 applicants are willing to do so. Please see: https://docs.google.com/presentation/d/18rJnnx6Fyg8rAcUI1-TBd2_XKLiXi4tOYawF6tk4cyw/edit#slide=id.g1445d2b115a_10_0
+
+ICO Page Application(optional)
+
+If you are keen to be featured on our ICO page, kindly bookmark this page and apply here AFTER you have been listed on CMC - https://docs.google.com/forms/d/e/1FAIpQLSdplHeL6_N63URP0uiAJeA-z8GKfZHzbCOsoGmk6SxqhS1aiQ/viewform
+
+SRD Application
+
+Are you an official representative of the project? If so, please sign up for our self-reporting dashboard to manage certain fields on your coin detail pages AFTER this application is complete. Kindly follow the steps outlined here to complete the onboarding process. https://docs.google.com/presentation/d/1p0-EjHE4ELpLZ8kwzP855L5x3uq941oUpCfIYSraa0g/edit#slide=id.g8830a96fa9_0_1349
+
+Public verification post
+
+Please follow up your initial application with a public verification post. In order for us to display your contract address and explorer data, please make a public post using one of the accounts (e.g. social media) associated with the URLs found on the project's official website. In the post, mention the ticket number that you received from your CMC application. Provide the URL to the public post so that the CMC team can verify the information. This would give the team a greater degree of assurance in ascertaining the legitimacy of the request. This would prevent scammers from planting fake contract addresses. In addition, feel free to provide telegram @username of someone who can vouch for the legitimacy of this application.
+
+Proof/Supporting evidence/documents
+
+Provide proof (e.g. imgur, gyazo) that the request is authentic (e.g. info is reflected on website, announcement thread, twitter page, etc.). Please ensure that the requested updates match what is found on the project’s website/social media accounts. If the request entails changing the project’s website, please explain why the team is unable to get the original URL to redirect to the new website. Type 'NA' if not applicable.
+
+Attachments(optional)
+No file chosenAdd file or drop files here
+CoinMarketCap
+ Powered by Zendesk
+'"
+
+2022-0904: Trying to signup at Polinex.com "'Registration Error: Unfortunately, we are unable to provide services to users in your location.'".  But I'm in Merica!
+
+022-09-04: Finally got Veloren.net to build and run.
+
+2022-09-04: PresenceBrowser.com "'Digital nations enjoy their own dedicated layer over the web'"
+2022-09-04: Silvi.Earth is doing something...
+
+2022-09-04: TrustLines.network looks like a good idea, and is Open Source, but runs on Ethereum, so high fees for now.
+
++2022-09-04: Made account on Bittrex.com to list earthChange
+and Rumble.com to upload vids
+looking again at WebTorrent.io and JoinPeerTube.com
+
+PeerTube.live gives "'NET::ERR_CERT_DATE_INVALID'" because they did not register with a certificate "authority".
+We must host a GNU certificate registry
+
+2022-09-04: earthChange was deployed to NEAR.org MainNet on May 11, 2022
+https://explorer.mainnet.near.org/accounts/earthchange.near holds 509,999,999,999,999 EARTHCHANGE
+https://explorer.mainnet.near.org/accounts/thekindao.sputnik-dao.near holds 1 EARTHCHANGE
+https://app.astrodao.com/dao/thekindao.sputnik-dao.near/treasury/tokens
+
+
+2022-09-04: Studying P2P storage systems, video hosting sites, WebRTC video chat, text chat, audio chat,
+Rumble.com
+JoinPeerTube.com
+
+
+2022-09-04: Tryna list earthChange on da exChange
+https://support.coinmarketcap.com/hc/en-us/articles/360043659351-Listings-Criteria
+
+https://support.coinmarketcap.com/hc/en-us/requests/new
+
+https://bitcoin.stackexchange.com/questions/44627/what-is-needed-to-get-listed-on-a-currency-exchange-website
+"'
+prove your altcoin is useful and has value and liquidity.
+what is different?
+what features which other coins don't have.
+give some assurance that your coin is secure.
+Your code will most likely need to be open-sourced and audited.
+start at lower tier exchanges like Poloniex, then Shapeshift, then Coinbase
+'"
+
+2022-09-04: https://www.youtube.com/watch?v=EttE0Lhbfro&list=PLJhxLuOtrBM45--qHFFgcHjk42X_bKtfM
+
+2022-09-03:
+MoneylessSociety.org
+Self sustaining communities that don't need money.
+mutual-aid agreements
+into a new social system, as a systemic change
+group effort to unindoctrinate the masses so we remember from where we came, and where we should be headed.
+Research Report: "Is curing patients a sustainable business model?"
+"We need to walk out the door and not look back"
+
+Wow: "by the way, nice to meet you guys"
+The AureVana Project
+
+2022-09-03:
+todo: revisit thermald tzdata ubuntu-advantage-tools xdg-utils
+
+2022-09-03: pkg.add btfs
+mkdir mnt
+
+btfs some-file.torrent mnt
+
+2022-09-02:  YouTube.com/watch?v=B1LY2HZ0FcU
+"'DOICoin is sold to fund a "transparent treasury" where you vote on what happens.'"
+
+2022-09-02: email from YouTube: "'We have permanently removed your channel from YouTube. Going forward, you won't be able to access, possess, or create any other YouTube channels.'"
