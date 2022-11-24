@@ -1,1 +1,234 @@
 https://docs.google.com/document/d/1cRYLXIQnNWfXNU88UvxdlKgdLfOyoXSvl4xyp6xytMU
+
+Pasted below Nov 22 2022
+
+
+
+For_Product
+This document is under construction
+Overview
+The For_Product development model changes why we share Sources and how we trade Skills.
+
+We share Sources for the somewhat subversive reason that we want to avoid paying Rent*.
+
+We trade Skills indirectly as we sign Work_Contracts to "pay for" Product_Tickets.  This enables full specialization for predictable goods and services without the need for barter.
+
+As you complete Work_Contracts, you gain Source_Titles (land ownership, water rights, etc.), and then hodl that property to own those predicted goods and services without purchase!
+
+Just as when you own a tree, you own the fruit,
+When you co-own a forest, you co-own the fruit.
+This strategy, borrowed from the GNU GPL, frees Users by ensuring access to Sources.
+Use the Source, ****!
+We can own the INPUTS because we need the OUTPUTS to ensure any predictable good or service and regain control of those supply chains.
+
+
+
+
+
+==== BEGINNING OF TERMS ====
+Definitions
+earthChange: A fungible token (coin) sold by the DAO to buy land, tools and startup supplies needed to begin.
+Product_Ticket: A legally-binding claim over the future production of a specific good or service at a projected quality and quantity and delivery date, often as a recurring event.
+Work_Contract: A legally-binding commitment to fulfill future production, often as a recurring event.
+Source_Title: A legally-binding proof of property ownership in the physical Sources required for production, such as land, water rights, mineral rights, etc.
+DAO: A simple interface to manage these legal instruments.
+Timeline
+The DAO asks for land suitable to build Minimum Viable Villages.
+The DAO begins the coin_auction_sequence at that minimum_bid.
+The DAO mints essential Product_Tickets specific to that location.
+The DAO asks for the Work_Contracts to fulfill all Product_Tickets.
+For each parcel, the DAO begins the earthChange coin_auction_sequence, offering ½ of the supply for that parcel.
+After 24 hours, or until minimum_bid is met, the DAO then offers ½ of the remaining earthChange, and so on until the supply for that parcel is sold.
+minimum_bid of each earthChange is set by (land_price + startup_costs) / M².
+startup_costs include:
+Tools and supplies required for Day1 of occupation.
+Tools and supplies for shared meals.
+Temporary structures while first permanent structures are built.
+Tools and supplies required to fulfill all essential Product_Tickets we do not yet produce.
+Fees and Taxes of the host governments.
+Meanwhile…
+For each listing, the DAO begins the work_auction_sequence, offering all jobs at a Compensation Ratio of 1.
+After 24 hours, or until ½ of the Work_Contracts are signed, the Compensation Ratio increases for all remaining jobs.
+Fun and easy jobs may auction quickly, at a lower Compensation Ratios, while unfun and high-skill jobs may auction slowly, at higher Compensation Ratios.
+If both auctions succeed, the DAO buys the land and declares the first day of work!
+Meanwhile…
+The DAO mints the Source_Titles  used to fulfill all Product_Tickets being fulfilled at that location.
+The DAO vests Source_Titles as Work_Contracts are fulfilled.
+ 
+Terms
+You may propose any real-estate listing to the DAO.
+You may buy any amount of earthChange with money.
+earthChange does not represent property ownership and conveys no rights of governance and is not redeemable for any good or service.
+You may apply for occupancy.
+Each Owner_Occupant must:
+Sign a Work_Contract to fulfill part of an essential Product_Ticket. OR Relinquish some Source_Titles which will be sold to cover recurring costs.
+Gain Source_Titles as they fulfill Work_Contracts.  This means the DAO must vest property ownership of land, water rights, mineral rights, etc. to you, as you complete the work you agreed to do.
+The Source_Title "gain rate" decreases as your total ownership increases.  This means the 'poor' (those who own the least) gain ownership much faster than the 'rich' (those who own the most).
+Invest some profit "for the user who paid it".  For example, if you have extra Honey at the end of the year, you may offer it to others, with no limit on the price you may charge, but some of that profit must buy even more Sources, and those new Source_Titles must vest to the person who paid that profit.  This causes all users to gain ownership in the Sources of the goods and services they need.
+Gain personal property (maybe even Sole Proprietorship) of all of the Land Titles, Water Rights and Mineral Rights required to maintain a private dwelling and produce bare necessities in isolation.
+Gain Group-of-Groups property at the MVV level because of roads and borders.
+Allowed to gently exclude, to help each Person find their best Group, and each Group find their best Group_of_Groups, etc.
+Each Owner_Occupant may:
+Hold Source_Titles (such as a Tree) to hold future goods (such as Fruit).
+Hold Work_Contract signatures of others to hold future services (picking Fruit).
+Propose new Product_Tickets for any good or service you can imagine.
+Sign Work_Contracts to buy Product_Tickets.
+Sell Product_Tickets for money.
+Buy Product_Tickets with money, if being offered.
+Govern production through the ChangeMaker grid.
+Require Workers adhere to arbitrary rules.
+Gain Group property  (maybe a variation of Tenancy in Common).
+Each DAO should offer Worker Guilds to ease onboarding and increase Product_Ticket fulfillment by spreading risk across skilled groups.
+Source_Title allocation (the actual location of the land you receive) is based on the Product_Tickets you chose, not the Work_Contracts you fulfill.
+The owner_occupied- core generates no financial returns as Product_Tickets are redeemed except when surplus is sold for money.
+In 'hybrid' mode, some monetary profit may be used to pay traditional investors.
+Each Product_Ticket represents a single instance of a specific good or service, and therefore requires unique Source_Titles and Work_Contracts for that production.
+Each Product_Ticket is initially-invalid and finally-expiring, with a "Window of Validity" defined by real limitations of production and storage required for that good or service.
+Each owner_occupant must gain the Source_Titles required to produce a Basic Outcome.
+The maximum Source_Titles per owner_occupant is limited by the Source_Titles required by others.
+==== END OF TERMS ====
+
+
+
+ 
+Commentary
+Comparisons
+Value Flow
+In the usual vision of a "Worker Owned" supply-chain, each stage of production is owned by the people who operate those Sources.  The product must be sold at each stage.
+For example, the farmer owns the grain field, sells the grain to the miller who owns the mill, who sells flour to the baker who owns the bakery - who then sells the finished bread back to the farmer and miller.
+ 
+However, in the For Product model, entire, vertically-integrated supply chains are (eventually) co-owned by the consumers who need those final products.  All of the materials used to create those products are then never bought nor sold because each portion is already the property of those who will use it.
+The Farmer, Miller, and Baker each own a % of the farm, mill, and bakery.
+The % they each own is, based on the amount of future 🥖 they will want.
+Each owns that % of grain, flour and 🥖 as it flows through the supply chain.
+Property ownership of that material remains in the hands of the consumer. 
+Each owner accepts the product itself as the natural ROI and thereby avoids paying the profit they would have otherwise paid if they had bought those products from the regular market.
+Since there is no final sale, the price each pays as a consumer is simply the costs each paid as a co-owner, and profit is left undefined.
+By holding property in this way, and by trading future work for future production, we can ensure any predictable good or service.
+Credits and Inspiration
+The GNU GPL Copyright license: User Freedom in the material world.
+Data cache management: Predictive-production pre-allocates goods and services.
+Land Value Taxation (Henry George): Treating profit as the payer's investment causes RENT to approach 0 for those owner_occupants.
+CrowdFunding: Product_Tickets represent future production.
+Time Banking, Mutual Credit Barter: Work_Contracts represent future work.
+Community Currencies: Universal Tokens are a fungible representation of the total market value of all Product_Tickets issued but not yet redeemed.
+Before each 'round' of production begins, each guild should:
+Mint Product_Tickets representing their *estimated* future production.
+Use the coin-of-the-realm to calculate the total_price of those Product_Tickets.
+Issue total_price number of Universal Tokens.
+Distribute Universal Tokens to each Product_Ticket holder.
+The Conflict
+When we own “for product”, such as within a home, we can use land and work to meet our needs at the real costs of that production.
+
+But when we own "for profit", we cannot meet our needs at cost because stockholders demand a RETURN on their investments.
+
+Bob Parr {on the right} (Customer Support for InsuraCare) --  [somber, thoughtful]:
+"We are supposed to help people."
+
+Gilbert Huph (Bob's Boss) -- [angry, pleading]:
+"We are supposed to help OUR people, starting with our Stockholders, Bob!"
+
+
+So it seems customers and stockholders must be forever at odds on the quest for a RETURN.  But hold on, what is a RETURN?  Where does this value come from?
+
+Or maybe we should ask "When does this value disappear?".  In mathematical terms we are asking "What is the zero of this function?".
+
+For example, when you "invest in real-estate" to own a home because you need a place to live, the RETURN (rent) does not exist because you do not send a bill to yourself!
+
+If we generalize this idea to all production we can imagine each customer of every essential good and service as a tiny stockholder (steak🥩holder) in the many businesses (groups) required to produce those things.
+
+Each customer+stockholder does not pay a RETURN, nor are they paid a RETURN because that flow of value has been canceled out, and does not exist.
+
+This means these special investors are satisfied that they avoided paying the Profit they would have otherwise paid if they had purchased that good or service from the regular market.
+
+For example, imagine Alice invests a very small amount (perhaps within a "mutual fund") in a regular, "for profit" dairy corresponding to 1 gallon of Milk per week.  The amount she would receive from that investment would be the amount some customer (possibly even herself) will finally pay for that gallon of Milk beyond the real costs of production.  In other words, as a stockholder, she receives the RETURN (profit) paid by the consumer.  In contrast, imagine Henry invests the same amount in a "for product" dairy because he predicts he will use 1 gallon of Milk per week.  So, while Alice receives that value as a RETURN on her investment, Henry avoids paying that value as his RETURN on investment. 
+
+Of course this only applies to goods and services we can predict we will want in the future, such as basic needs like food and shelter.
+
+Breadlandia
+A toy economy, where 🥖 is the only product.
+
+If using the For Product model, the Farmer, Miller, and Baker would each own a (likely unequal) % of the Sources {farm, mill, bakery}.
+
+The % of 🥖 they each own is the same % of the Sources they each own. 
+
+
+And the % of Sources they each own is based on the amount they 🥖 they predicted they would want.
+
+Since these consumers own the Sources of that product, ownership of the intermediate materials {grain, flour, 🥖} remains in the hands of each of those consumers, as it flows through the supply chain and is never sold (unless selling surplus to others), and so cannot generate a RETURN because the final customer already owns those results. 
+
+This is vertical integration taken to the final step, eliminating the usual late purchase by the consumer.
+
+Ok, so this removes one of the reasons we need money, but what about work?
+
+We trade future products for future work to specialize without barter.
+
+The simple difference of making these trades early in time resolves the usual coincidence of wants problem because we are thereby able to sort-out the chain-of-exchange before production begins.
+
+At a high level we are saying you can "pick future Apples" in exchange for "future Oranges" and "future dental work" and "future housing", etc.
+
+This trade one specialization (picking Apples) for many finished products requires many other specializations, which is the lower-bound on the complexity and scale of each MVV.
+
+Now, obviously the Apple picker does not have ownership in all of those things starting on Day_1, so there is a "vesting period" that begins when the Apple picker begins work, and continues until they own enough of the Sources required to produce all the Oranges they want.
+
+Because the Apple picker is working both to compensate all of the workers it takes to deliver the many goods and services he will need *and* to gain ownership in the Sources, they must do extra work to produce the extra Apples which will then be sold to 'outsiders' for a monetary RETURN (profit), and part of that profit is used to recursively purchase the entire supply-chain required to produce enough Oranges for that Apple picker.
+
+This also means the DAO must hold enough land, water rights, Apple trees, tools, etc. required to make even more Apples than those requested by those within that productive unit.  This is a 'temporary' requirement that is eventually minimized as each supply-chain comes under ownership of those customers, but will usually not be eliminated completely since people change their minds about what they want, and so will keep changing which supply-chains they need ownership in.
+
+We commit Future work (sign Work_Contracts) to pay for the Future Production (Product_Tickets) and gain land ownership and water rights, etc. (Source_Titles) to ensure the future production we need without paying profit, rent or interest.
+
+Implementation
+We could, theoretically, do all of this "on paper" in a series of multi-locked boxes securely chained together to form a physical blockchain.  This thought experiment is valuable in clarifying the simplicity of 
+
+More likely, we could create a GNU web by each agreeing to host the encrypted data of others in RETURN for them hosting ours, but for now we have started an implementation at github.com/TheKinDAO.
+Notes
+"Pre-Allocating" goods and services in this way allows us to achieve full specialization and economy-of-scale without late barter.
+This reorders economic transactions to safely reduce debt, rent, profit, and work.
+When occupiers own, rent is no more.
+
+When you work to own,
+and you own For Product,
+you own your future bread🍞
+before the seeds🌾 are sown.
+
+Similar to how the GNU GPL requires Users gain access to the virtual Sources of production, treating profit as the payer's investment causes Users to gain access to the physical Sources of production (land ownership) which causes control to be distributed to those who need the results of that production and (incidentally) also causes profit to approach zero as those products are no longer purchased late, but have been "pre-allocated" to the Users who intend to consume them.
+
+Future State is another explanation of this idea.
+
+The Ledgers of Production is another conversation about how it works.
+
+Metaopoly is yet another look.
+
+Facebook.com/groups/ForProduct
+
+TheKinDAO.github.io/ChangeMaker is the beginning of a governance interface.
+
+FAQ
+
+Money doesn’t grow on trees, but money isn't what we need.
+
+The Mystery of the RETURN
+
+Overproduction blamed for the great depression of the 1930's
+
+https://medium.com/@Patrick.T.Anderson/for-product-b278bcfe8aec
+
+https://medium.com/@Patrick.T.Anderson/vertically-integrated-supply-chain-acquisition-and-management-7b7045962f73
+
+https://product-futures-foundation.github.io/
+
+Visual
+
+Another pitch deck.
+
+Pitch Deck Walkthrough.
+
+https://gov.near.org/t/proposal-the-kin-dao-i-for-product-model-animated-video/24597/2
+
+Embracing Abundance
+
+The Kernel Developer's Guide to a GNU Economy
+
+LENS
+
+
