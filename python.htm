@@ -76,19 +76,19 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; raw_input = input&nbsp;&nbsp;# Python 3<br/>
 <br/>
 <br/>
-# class Pyre<small>(object)</small>:<br/>
+# class Pyre<small>(obj<a href="ec.htm">ec</a>t)</small>:<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def __init__<small>(self, name=None, ctx=None, *args, **kwargs)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Constructor, creates a new Zyre node. Note that until you start the<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node it is silent and invisible to other nodes on the net<a href="work.htm">work</a>.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The node name is provided to other nodes during discovery. If you<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; specify NULL, Zyre <a href="gen.htm">gen</a>erates a randomized node name from the UUID.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sp<a href="ec.htm">ec</a>ify NULL, Zyre <a href="gen.htm">gen</a>erates a randomized node name from the UUID.<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Args:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; name <small>(str)</small>: The name of the node<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kwargs:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ctx: PyZMQ Context, if not specified a new context will be created<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ctx: PyZMQ Context, if not sp<a href="ec.htm">ec</a>ified a new context will be created<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; super<small>(Pyre, self)</small>.__init__<small>(*args, **kwargs)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ctx = <a class="ext" href="https://kwargs.get('ctx'">kwargs.get('ctx'</a>)</small><br/>
@@ -113,11 +113,11 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #<a class="ext" href="https://self.actor.destroy(">self.actor.destroy(</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def __bool__<small>(self)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Deter<a href="min.htm">min</a>e whether the object is valid by converting to boolean" # Python 3<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Deter<a href="min.htm">min</a>e whether the obj<a href="ec.htm">ec</a>t is valid by converting to boolean" # Python 3<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> True&nbsp;&nbsp;#TODO<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def __nonzero__<small>(self)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Deter<a href="min.htm">min</a>e whether the object is valid by converting to boolean" # Python 2<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Deter<a href="min.htm">min</a>e whether the obj<a href="ec.htm">ec</a>t is valid by converting to boolean" # Python 2<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> True&nbsp;&nbsp;#TODO<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def uuid<small>(self)</small>:<br/>
@@ -132,7 +132,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> our node name, after successful initialization"""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if not self._name:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("NAME"">self.actor.send_unicode("NAME"</a>)</small><br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; self._name = <a class="ext" href="https://self.actor.recv(">self.actor.recv(</a>)</small>.decode<small>('utf-8')</small><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; self._name = <a class="ext" href="https://self.actor.recv(">self.actor.recv(</a>)</small>.d<a href="ec.htm">ec</a>ode<small>('utf-8')</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> self._name<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # Not in Zyre api<br/>
@@ -156,29 +156,29 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; def set_port<small>(self, port_nbr)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Set UDP beacon discovery port; defaults to 5670, this call overrides<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that so you can create independent clusters on the same net<a href="work.htm">work</a>, for<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. development vs. <a href="produc.htm">produc</a>tion. Has no effect after zyre_start<small>()</small>."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. development vs. <a href="produc.htm">produc</a>tion. Has no eff<a href="ec.htm">ec</a>t after zyre_start<small>()</small>."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("SET">self.actor.send_unicode("SET</a> PORT", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(port_nbr">self.actor.send(port_nbr</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def set_interval<small>(self, interval)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Set UDP beacon discovery interval, in <a href="mill.htm">mill</a>iseconds. Default is instant<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beacon exploration followed by pinging every 1,000 msecs."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Set UDP beacon discovery interval, in <a href="mill.htm">mill</a>is<a href="ec.htm">ec</a>onds. Default is instant<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beacon exploration followed by pinging every 1,000 ms<a href="ec.htm">ec</a>s."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("SET">self.actor.send_unicode("SET</a> INTERVAL", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode(interval">self.actor.send_unicode(interval</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def set_interface<small>(self, value)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Set net<a href="work.htm">work</a> interface for UDP beacons. If you do not set this, CZMQ will<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; choose an interface for you. On boxes with several interfaces you should<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; specify which one you want to use, or strange things can happen."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sp<a href="ec.htm">ec</a>ify which one you want to use, or strange things can happen."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://logging.debug("set_interface">logging.debug("set_interface</a> not implemented")</small> #TODO<br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # TODO: check args from zyre<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # TODO: ch<a href="ec.htm">ec</a>k args from zyre<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def set_endpoint<small>(self, format, *args)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """By default, Zyre binds to an ephemeral TCP port and broadcasts the local<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; host name using UDP beaconing. When you call this method, Zyre will use<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gossip discovery instead of UDP beaconing. You MUST set-up the gossip<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; service separately using zyre_gossip_bind<small>()</small> and _connect<small>()</small>. Note that the<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endpoint MUST be valid for both bind and connect operations. You can use<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; service separately using zyre_gossip_bind<small>()</small> and _conn<a href="ec.htm">ec</a>t<small>()</small>. Note that the<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endpoint MUST be valid for both bind and conn<a href="ec.htm">ec</a>t operations. You can use<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="inproc://,">inproc://,</a> <a class="ext" href="ipc://,">ipc://,</a> or <a class="ext" href="tcp://">tcp://</a> <a href="trans.htm">trans</a>ports <small>(for <a class="ext" href="tcp://,">tcp://,</a> use an IP address<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that is meaningful to remote as well as local nodes)</small>. <a href="return.htm">Return</a>s 0 if<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the bind was successful, else -1."""<br/>
@@ -187,11 +187,11 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # TODO: We haven't implemented gossiping yet<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #def gossip_bind<small>(self, format, *args)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #def gossip_connect<small>(self, format, *args)</small>:<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #def gossip_conn<a href="ec.htm">ec</a>t<small>(self, format, *args)</small>:<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def start<small>(self)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Start node, after setting header values. When you start a node it<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; begins discovery and connection. <a href="return.htm">Return</a>s 0 if OK, -1 if it wasn't<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; begins discovery and conn<a href="ec.htm">ec</a>tion. <a href="return.htm">Return</a>s 0 if OK, -1 if it wasn't<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; possible to start the node."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("START"">self.actor.send_unicode("START"</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # the backend will signal back<br/>
@@ -206,16 +206,16 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.resolve(">self.actor.resolve(</a>)</small>.wait<small>()</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.destroy(">self.actor.destroy(</a>)</small><br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # Receive next message from node<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; def recv<small>(self)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Receive next message from net<a href="work.htm">work</a>; the message may be a control<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # R<a href="ec.htm">ec</a>eive next message from node<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; def r<a href="ec.htm">ec</a>v<small>(self)</small>:<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """R<a href="ec.htm">ec</a>eive next message from net<a href="work.htm">work</a>; the message may be a control<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; message <small>(ENTER, EXIT, JOIN, LEAVE)</small> or data <small>(WHISPER, SHOUT)</small>.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> <a class="ext" href="https://self.inbox.recv_multipart(">self.inbox.recv_multipart(</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def join<small>(self, <a href="group.htm">group</a>)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Join a named <a href="group.htm">group</a>; after joining a <a href="group.htm">group</a> you can send messages to<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the <a href="group.htm">group</a> and all Zyre nodes in that <a href="group.htm">group</a> will receive them."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the <a href="group.htm">group</a> and all Zyre nodes in that <a href="group.htm">group</a> will r<a href="ec.htm">ec</a>eive them."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("JOIN"">self.actor.send_unicode("JOIN"</a>, flags=<a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode(group">self.actor.send_unicode(group</a>)</small><br/>
 <br/>
@@ -226,7 +226,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # Send message to single peer; peer ID is first frame in message<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def whisper<small>(self, peer, msg_p)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Send message to single peer, specified as a UUID string<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Send message to single peer, sp<a href="ec.htm">ec</a>ified as a UUID string<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Destroys message after sending"""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("WHISPER"">self.actor.send_unicode("WHISPER"</a>, flags=<a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>, flags=<a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
@@ -245,9 +245,9 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; else:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(msg_p">self.actor.send(msg_p</a>)</small><br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # TODO: checks args from zyre<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # TODO: ch<a href="ec.htm">ec</a>ks args from zyre<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def whispers<small>(self, peer, format, *args)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Send formatted string to a single peer specified as UUID string"""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Send formatted string to a single peer sp<a href="ec.htm">ec</a>ified as UUID string"""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("WHISPER"">self.actor.send_unicode("WHISPER"</a>, flags=<a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>, flags=<a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode(format">self.actor.send_unicode(format</a>)</small><br/>
@@ -277,8 +277,8 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endpoint = <a class="ext" href="https://self.actor.recv_unicode(">self.actor.recv_unicode(</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> endpoint<br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; def recent_events<small>(self)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Iterator that yields recent `PyreEvent`s"""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; def r<a href="ec.htm">ec</a>ent_events<small>(self)</small>:<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """Iterator that yields r<a href="ec.htm">ec</a>ent `PyreEvent`s"""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while <a class="ext" href="https://self.socket(">self.socket(</a>)</small>.get<small>(<a class="ext" href="https://zmq.EVENTS">zmq.EVENTS</a>)</small> &amp; <a class="ext" href="https://zmq.POLLIN">zmq.POLLIN</a>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yield PyreEvent<small>(self)</small><br/>
 <br/>
@@ -288,25 +288,25 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yield PyreEvent<small>(self)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # --------------------------------------------------------------------------<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # <a href="return.htm">Return</a> the name of a connected peer. Caller <a href="own.htm">own</a>s the<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # <a href="return.htm">Return</a> the name of a conn<a href="ec.htm">ec</a>ted peer. Caller <a href="own.htm">own</a>s the<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # string.<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # DEPRECATED: This is dropped in Zyre api. You receive names through events<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # DEPR<a href="ec.htm">EC</a>ATED: This is dropped in Zyre api. You r<a href="ec.htm">ec</a>eive names through events<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def get_peer_name<small>(self, peer)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://logger.warning("get_peer_name(">logger.warning("get_peer_name(</a>)</small> is deprecated, will be removed")</small><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://logger.warning("get_peer_name(">logger.warning("get_peer_name(</a>)</small> is depr<a href="ec.htm">ec</a>ated, will be removed")</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("PEER">self.actor.send_unicode("PEER</a> NAME", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; name = <a class="ext" href="https://self.actor.recv_unicode(">self.actor.recv_unicode(</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> name<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def peer_address<small>(self, peer)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the endpoint of a connected peer."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the endpoint of a conn<a href="ec.htm">ec</a>ted peer."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("PEER">self.actor.send_unicode("PEER</a> ENDPOINT", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; adr = <a class="ext" href="https://self.actor.recv_unicode(">self.actor.recv_unicode(</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> adr<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def peer_header_value<small>(self, peer, name)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the value of a header of a conected peer.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the value of a header of a con<a href="ec.htm">ec</a>ted peer.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">Return</a>s null if peer or key doesn't exist."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("PEER">self.actor.send_unicode("PEER</a> HEADER", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>, <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
@@ -315,7 +315,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> value<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def peer_headers<small>(self, peer)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the value of a header of a conected peer.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> the value of a header of a con<a href="ec.htm">ec</a>ted peer.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">Return</a>s null if peer or key doesn't exist."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("PEER">self.actor.send_unicode("PEER</a> HEADERS", <a class="ext" href="https://zmq.SNDMORE">zmq.SNDMORE</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send(peer.bytes">self.actor.send(peer.bytes</a>)</small><br/>
@@ -329,12 +329,12 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> <a href="group.htm">group</a>s<br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def peer_<a href="group.htm">group</a>s<small>(self)</small>:<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> list of <a href="group.htm">group</a>s kn<a href="own.htm">own</a> through connected peers."""<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> list of <a href="group.htm">group</a>s kn<a href="own.htm">own</a> through conn<a href="ec.htm">ec</a>ted peers."""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://self.actor.send_unicode("PEER">self.actor.send_unicode("PEER</a> <a href="group.htm">GROUP</a>S")</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="group.htm">group</a>s = <a class="ext" href="https://self.actor.recv_pyobj(">self.actor.recv_pyobj(</a>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> <a href="group.htm">group</a>s<br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # <a href="return.htm">Return</a> node socket, for direct polling of socket<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # <a href="return.htm">Return</a> node socket, for dir<a href="ec.htm">ec</a>t polling of socket<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; def socket<small>(self)</small>:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; """<a href="return.htm">Return</a> socket for talking to the Zyre node, for polling"""<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="return.htm">return</a> <a class="ext" href="https://self.inbox">self.inbox</a><br/>
@@ -404,10 +404,10 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 # ## De<a href="scrip.htm">scrip</a>tion<br/>
 <br/>
 # Pyre does local area discovery and clustering. A Pyre node broadcasts<br/>
-# UDP beacons, and connects to peers that it finds. This class wraps a<br/>
+# UDP beacons, and conn<a href="ec.htm">ec</a>ts to peers that it finds. This class wraps a<br/>
 # Pyre node with a message-based API.<br/>
 <br/>
-# All <a href="incom.htm">incom</a>ing events are messages delivered via the recv call of a Pyre<br/>
+# All <a href="incom.htm">incom</a>ing events are messages delivered via the r<a href="ec.htm">ec</a>v call of a Pyre<br/>
 # instance. The first frame defines the type of the message, and following<br/>
 # frames provide further values:<br/>
 <br/>
@@ -416,9 +416,9 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; EXIT fromnode<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has left the net<a href="work.htm">work</a><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; JOIN fromnode <a href="group.htm">group</a>name<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has joined a specific <a href="group.htm">group</a><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has joined a sp<a href="ec.htm">ec</a>ific <a href="group.htm">group</a><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; LEAVE fromnode <a href="group.htm">group</a>name<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has joined a specific <a href="group.htm">group</a><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has joined a sp<a href="ec.htm">ec</a>ific <a href="group.htm">group</a><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; WHISPER fromnode message<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a peer has sent this node a message<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; SHOUT fromnode <a href="group.htm">group</a>name message<br/>
@@ -451,7 +451,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.set_header(name">node.set_header(name</a>, value)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;<small>(TODO: Currently a Pyre node starts immediately)</small> Start node, after setting header values. When you start a node it<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;begins discovery and connection.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;begins discovery and conn<a href="ec.htm">ec</a>tion.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.start(">node.start(</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Stop node, this signals to other peers that this node will go away.<br/>
@@ -460,18 +460,18 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.stop(">node.stop(</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Join a named <a href="group.htm">group</a>; after joining a <a href="group.htm">group</a> you can send messages to<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;the <a href="group.htm">group</a> and all Zyre nodes in that <a href="group.htm">group</a> will receive them.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;the <a href="group.htm">group</a> and all Zyre nodes in that <a href="group.htm">group</a> will r<a href="ec.htm">ec</a>eive them.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.join(group">node.join(group</a>)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Leave a <a href="group.htm">group</a><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.leave(group">node.leave(group</a>)</small><br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Receive next message from net<a href="work.htm">work</a>; the message may be a control<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;R<a href="ec.htm">ec</a>eive next message from net<a href="work.htm">work</a>; the message may be a control<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;message <small>(ENTER, EXIT, JOIN, LEAVE)</small> or data <small>(WHISPER, SHOUT)</small>.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;<a href="return.htm">Return</a>s a list of message frames<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; msgs = <a class="ext" href="https://node.recv(">node.recv(</a>)</small>;<br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; # Send message to single peer, specified as a UUID object <small>(import uuid)</small><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; # Send message to single peer, sp<a href="ec.htm">ec</a>ified as a UUID obj<a href="ec.htm">ec</a>t <small>(import uuid)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; # Destroys message after sending<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.whisper(peer">node.whisper(peer</a>, msg)</small><br/>
 <br/>
@@ -479,8 +479,8 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; # Destroys message after sending<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.shout(group">node.shout(group</a>, msg)</small>;<br/>
 <br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Send string to single peer specified as a UUID string.<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;String is formatted using printf specifiers.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Send string to single peer sp<a href="ec.htm">ec</a>ified as a UUID string.<br/>
+#&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;String is formatted using printf sp<a href="ec.htm">ec</a>ifiers.<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; <a class="ext" href="https://node.whispers(peer">node.whispers(peer</a>, msg_string)</small><br/>
 <br/>
 #&nbsp;&nbsp;&nbsp;&nbsp; #&nbsp;&nbsp;Send message to a named <a href="group.htm">group</a><br/>
@@ -542,7 +542,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if <a class="ext" href="https://msg_type.decode('utf-8'">msg_type.decode('utf-8'</a>)</small> == "SHOUT":<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print<small>("NODE_MSG <a href="group.htm">GROUP</a>: %s" % <a class="ext" href="https://cmds.pop(0">cmds.pop(0</a>)</small>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; elif <a class="ext" href="https://msg_type.decode('utf-8'">msg_type.decode('utf-8'</a>)</small> == "ENTER":<br/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; headers = <a class="ext" href="https://json.loads(cmds.pop(0">json.loads(cmds.pop(0</a>)</small>.decode<small>('utf-8')</small>)</small><br/>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; headers = <a class="ext" href="https://json.loads(cmds.pop(0">json.loads(cmds.pop(0</a>)</small>.d<a href="ec.htm">ec</a>ode<small>('utf-8')</small>)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print<small>("NODE_MSG HEADERS: %s" % headers)</small><br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for key in headers:<br/>
 #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print<small>("key = <small>{0}</small>, value = <small>{1}</small>".format<small>(key, headers<small>[key]</small>)</small>)</small><br/>
@@ -573,7 +573,7 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 #&nbsp;&nbsp;&nbsp;&nbsp; print<small>("FINISHED")</small><br/>
 # ```<br/>
 <br/>
-# Look at the <small>[ZOCP]</small><small>(<a class="ext" href="https://github.com/z25/pyZOCP)">https://github.com/z25/pyZOCP)</a> project for examples of how Pyre can be <br/>
+# Look at the <small>[ZOCP]</small><small>(<a class="ext" href="https://github.com/z25/pyZOCP)">https://github.com/z25/pyZOCP)</a> proj<a href="ec.htm">ec</a>t for examples of how Pyre can be <br/>
 # integrated into different environments and frame<a href="work.htm">work</a>s, i.e.:<br/>
 # - <small>[Urwid]</small><small>(<a class="ext" href="https://github.com/z25/pyZOCP/blob/master/examples/urwZOCP.py)">https://github.com/z25/pyZOCP/blob/master/examples/urwZOCP.py)</a><br/>
 # - <small>[Blender]</small><small>(<a class="ext" href="https://github.com/z25/pyZOCP/blob/master/examples/BpyZOCP.py)">https://github.com/z25/pyZOCP/blob/master/examples/BpyZOCP.py)</a><br/>
@@ -599,18 +599,18 @@ for key, value in <a class="ext" href="https://pets.items(">pets.items(</a>)</sm
 # Python only <a href="need.htm">need</a>s PyZMQ. On some older versions of Python <br/>
 # it also <a href="need.htm">need</a>s the <small>[ipaddress]</small><small>(<a class="ext" href="https://docs.python.org/3.4/library/ipaddress.html?highlight=ipaddress#module-ipaddress)">https://docs.python.org/3.4/library/ipaddress.html?highlight=ipaddress#module-ipaddress)</a> module.<br/>
 <br/>
-# The recommended Python version is 3.3+<br/>
+# The r<a href="ec.htm">ec</a>ommended Python version is 3.3+<br/>
 <br/>
 <br/>
-# ## Project <a href="org.htm">Org</a>anization<br/>
+# ## Proj<a href="ec.htm">ec</a>t <a href="org.htm">Org</a>anization<br/>
 <br/>
 # Pyre is <a href="own.htm">own</a>ed by all its authors and contributors. This is an <a href="open.htm">open</a> <a href="sourc.htm">sourc</a>e<br/>
-# project licensed under the L<a href="gpl.htm">GPL</a>v3. To contribute to Zyre please read the<br/>
+# proj<a href="ec.htm">ec</a>t licensed under the L<a href="gpl.htm">GPL</a>v3. To contribute to Zyre please read the<br/>
 # <small>[C4.1 process]</small><small>(<a class="ext" href="http://rfc.zeromq.org/spec:22)">http://rfc.zeromq.org/spec:22)</a> that we use.<br/>
 <br/>
 # To report an issue, use the <small>[PYRE issue tracker]</small><small>(<a class="ext" href="https://github.com/zeromq/pyre/issues)">https://github.com/zeromq/pyre/issues)</a> at <a class="ext" href="https://github.com.">github.com.</a><br/>
 <br/>
-# For more information on this project's maintenance, see <small>[`<a class="ext" href="https://MAINTENANCE.md`">MAINTENANCE.md`</a>]</small><small>(<a class="ext" href="https://MAINTENANCE.md">MAINTENANCE.md</a>)</small>.<br/>
+# For more information on this proj<a href="ec.htm">ec</a>t's maintenance, see <small>[`<a class="ext" href="https://MAINTENANCE.md`">MAINTENANCE.md`</a>]</small><small>(<a class="ext" href="https://MAINTENANCE.md">MAINTENANCE.md</a>)</small>.<br/>
 </p>
 <p class='footer'>
  Page generated from <a href=".txt/python">python</a> by <a href=".src/lens.el">lens.el</a>.</p>
