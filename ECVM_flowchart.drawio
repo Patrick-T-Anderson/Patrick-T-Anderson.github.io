@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T21:05:37.159Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LWJln8UUBjdoKe16XmOz" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T21:10:17.275Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NcZVY3BoP6F4ui_hyULn" version="21.6.8" type="github">
   <diagram name="Page-1" id="PaV3deoSzFAJCQ9NxTDs">
-    <mxGraphModel dx="1222" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-1" target="DCpEQhKYorIqewdbWWzU-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-1" value="Any User may add any parcel currently for sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-1" value="Any User may add any Real Estate currently for sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-2" target="DCpEQhKYorIqewdbWWzU-13">
@@ -22,7 +22,7 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-4" target="DCpEQhKYorIqewdbWWzU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-4" value="The DAO mints one Coin per Square Meter then begins&amp;nbsp;the Coin Auction" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-4" value="The DAO mints one Coin per Square Meter at that location, and then begins&amp;nbsp;the Coin Auction" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="70" y="192" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-13" target="DCpEQhKYorIqewdbWWzU-48">
@@ -52,13 +52,13 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-33" target="DCpEQhKYorIqewdbWWzU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-33" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for the &lt;i&gt;Price&lt;/i&gt;&amp;nbsp;and &lt;i&gt;Coordinates&lt;/i&gt;&amp;nbsp;of Real Estate" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-33" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for the &lt;i&gt;Price&lt;/i&gt;&amp;nbsp;and &lt;i&gt;Coordinates&lt;/i&gt;&amp;nbsp;of any Real Estate currently for sale" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="255" y="10" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-40" target="DCpEQhKYorIqewdbWWzU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once the&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;to be produced at that location have been decided, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once the set&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;has been decided, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;lists those jobs to be fulfilled and begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-41" target="DCpEQhKYorIqewdbWWzU-48">
@@ -82,7 +82,7 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-58" target="DCpEQhKYorIqewdbWWzU-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-58" value="As each User completes their&amp;nbsp;&lt;b&gt;Work Contract&lt;/b&gt;, they gain &lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;in the parts of the village used to produce the many&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;they selected" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-58" value="As each User completes their&amp;nbsp;&lt;b&gt;Work Contract&lt;/b&gt;, they gain some*&amp;nbsp;&lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;in the parts of the village used to produce the many&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;they selected" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="850" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-61" value="Users hold &lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;to avoid paying profit or rent for predictable goods and services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
