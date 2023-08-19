@@ -1,91 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T21:38:56.336Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rPVwSq4jONtBypYew9lu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T21:44:18.183Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EjpUI3-U0avh2Xu5-jUt" version="21.6.8" type="github">
   <diagram name="Page-1" id="PaV3deoSzFAJCQ9NxTDs">
-    <mxGraphModel dx="1746" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DCpEQhKYorIqewdbWWzU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-1" target="DCpEQhKYorIqewdbWWzU-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-1" target="DCpEQhKYorIqewdbWWzU-4">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-1" target="DCpEQhKYorIqewdbWWzU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-1" value="Any User may add any Real Estate currently for sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="130" height="70" as="geometry" />
+          <mxGeometry x="320" y="190" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-2" target="DCpEQhKYorIqewdbWWzU-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-2" value="Any User may bid to buy any amount of Coins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="312" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-4" target="DCpEQhKYorIqewdbWWzU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-4" value="The DAO mints one Coin per Square Meter at that location, and then begins&amp;nbsp;the Coin Auction" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="192" width="240" height="90" as="geometry" />
+          <mxGeometry x="90" y="302" width="240" height="68" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-13" target="DCpEQhKYorIqewdbWWzU-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-13" value="If the &lt;b&gt;Coin Auction&lt;/b&gt; succeeds, the &lt;b&gt;DAO&lt;/b&gt; buys that parcel and waits for the&amp;nbsp;&lt;b&gt;Work Auction&lt;/b&gt;&amp;nbsp;to succeed" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="240" height="90" as="geometry" />
+          <mxGeometry x="90" y="520" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-20" target="DCpEQhKYorIqewdbWWzU-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-20" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for all &lt;b&gt;Product_Tickets&lt;/b&gt;&amp;nbsp;to be produced at that location" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="192" width="240" height="90" as="geometry" />
+          <mxGeometry x="460" y="252" width="240" height="68" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-23" target="DCpEQhKYorIqewdbWWzU-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-23" value="Any User may suggest any &lt;b&gt;Product Ticket&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="302" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-24" target="DCpEQhKYorIqewdbWWzU-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-24" value="Any User may bid to sign any &lt;b&gt;Work Contract&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-33" target="DCpEQhKYorIqewdbWWzU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-33" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for the &lt;i&gt;Price&lt;/i&gt;&amp;nbsp;and &lt;i&gt;Coordinates&lt;/i&gt;&amp;nbsp;of any Real Estate currently for sale" style="shape=process;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="10" width="240" height="90" as="geometry" />
+          <mxGeometry x="265" y="100" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-40" target="DCpEQhKYorIqewdbWWzU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once the set&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;has been decided, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;lists those jobs to be fulfilled and begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="240" height="90" as="geometry" />
+        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once all&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;have been selected, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;lists those jobs and begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-41" target="DCpEQhKYorIqewdbWWzU-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="615" as="targetPoint" />
+            <mxPoint x="330" y="675" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="385" y="615" />
+              <mxPoint x="385" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-41" value="If the &lt;b&gt;Work Auction&lt;/b&gt;&amp;nbsp;succeeds the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;waits for the &lt;b&gt;Coin Auction&lt;/b&gt;&amp;nbsp;to succeed" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="570" width="240" height="90" as="geometry" />
+          <mxGeometry x="460" y="640" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-48" target="DCpEQhKYorIqewdbWWzU-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-48" value="If both auctions succeed, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;announces the first day of work" style="rounded=1;whiteSpace=wrap;html=1;shape=process;fillColor=#f8cecc;strokeColor=#b85450;backgroundOutline=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="680" width="220" height="100" as="geometry" />
+          <mxGeometry x="275" y="734" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-58" target="DCpEQhKYorIqewdbWWzU-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-58" value="As each User completes their&amp;nbsp;&lt;b&gt;Work Contract&lt;/b&gt;, they gain some*&amp;nbsp;&lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;in the parts of the village used to produce the many&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;they selected" style="shape=process;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="820" width="290" height="130" as="geometry" />
+        <mxCell id="DCpEQhKYorIqewdbWWzU-58" value="As each User completes&amp;nbsp;&lt;b&gt;Work Contracts&lt;/b&gt;, they gain&amp;nbsp;&lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;in the land used to produce the many&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;they selected" style="shape=process;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="824" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-61" value="Users hold &lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;to avoid paying profit or rent for predictable goods and services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="990" width="120" height="100" as="geometry" />
+          <mxGeometry x="265" y="944" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
