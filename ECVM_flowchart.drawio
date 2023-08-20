@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T22:08:56.210Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qtwwjmGoj0zEzzwpznzO" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T04:43:38.710Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uGPRZIDUvmImAfQiUnLL" version="21.6.8" type="github">
   <diagram name="Page-1" id="PaV3deoSzFAJCQ9NxTDs">
-    <mxGraphModel dx="1967" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="1">
+    <mxGraphModel dx="873" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#EBEBEB" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,19 +22,19 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-4" target="DCpEQhKYorIqewdbWWzU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-4" value="The DAO mints one Coin per Square Meter at that location, and then begins&amp;nbsp;the Coin Auction" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-4" value="The&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ECVM&lt;/b&gt;&amp;nbsp;mints one Coin per Square Meter at that location, and then begins&amp;nbsp;the Coin Auction" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="302" width="240" height="68" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-13" target="DCpEQhKYorIqewdbWWzU-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-13" value="If the &lt;b&gt;Coin Auction&lt;/b&gt; succeeds, the &lt;b&gt;DAO&lt;/b&gt; buys that parcel and waits for the&amp;nbsp;&lt;b&gt;Work Auction&lt;/b&gt;&amp;nbsp;to succeed" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-13" value="If the &lt;b&gt;Coin Auction&lt;/b&gt; succeeds, the&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ECVM&lt;/b&gt;&amp;nbsp;buys that parcel and waits for the&amp;nbsp;&lt;b&gt;Work Auction&lt;/b&gt;&amp;nbsp;to succeed" style="shape=process;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-20" target="DCpEQhKYorIqewdbWWzU-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-20" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for all &lt;b&gt;Product_Tickets&lt;/b&gt;&amp;nbsp;to be produced at that location" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-20" value="The&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ECVM&lt;/b&gt;&amp;nbsp;asks for all &lt;b&gt;Product_Tickets&lt;/b&gt;&amp;nbsp;to be produced at that location" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="252" width="240" height="68" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-23" target="DCpEQhKYorIqewdbWWzU-40">
@@ -52,13 +52,13 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-33" target="DCpEQhKYorIqewdbWWzU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-33" value="The &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;asks for the &lt;i&gt;Price&lt;/i&gt;&amp;nbsp;and &lt;i&gt;Coordinates&lt;/i&gt;&amp;nbsp;of any Real Estate currently for sale" style="shape=process;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-33" value="The &lt;b&gt;ECVM&lt;/b&gt;&amp;nbsp;asks for the &lt;i&gt;Price&lt;/i&gt;&amp;nbsp;and &lt;i&gt;Coordinates&lt;/i&gt;&amp;nbsp;of any Real Estate currently for sale" style="shape=process;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="100" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-40" target="DCpEQhKYorIqewdbWWzU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once all&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;have been selected, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;lists those jobs and begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-40" value="Once all&amp;nbsp;&lt;b&gt;Product Tickets&lt;/b&gt;&amp;nbsp;have been selected, the&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ECVM&lt;/b&gt;&amp;nbsp;lists those jobs and begins the &lt;b&gt;Work Auction&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="440" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-41" target="DCpEQhKYorIqewdbWWzU-48">
@@ -75,7 +75,7 @@
         <mxCell id="DCpEQhKYorIqewdbWWzU-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-48" target="DCpEQhKYorIqewdbWWzU-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCpEQhKYorIqewdbWWzU-48" value="If both auctions succeed, the &lt;b&gt;DAO&lt;/b&gt;&amp;nbsp;announces the first day of work" style="rounded=1;whiteSpace=wrap;html=1;shape=process;fillColor=#f8cecc;strokeColor=default;backgroundOutline=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="DCpEQhKYorIqewdbWWzU-48" value="If both auctions succeed, the&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ECVM&lt;/b&gt;&amp;nbsp;announces the first day of work" style="rounded=1;whiteSpace=wrap;html=1;shape=process;fillColor=#f8cecc;strokeColor=default;backgroundOutline=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="734" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="DCpEQhKYorIqewdbWWzU-58" target="DCpEQhKYorIqewdbWWzU-61">
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="DCpEQhKYorIqewdbWWzU-61" value="Users hold &lt;b&gt;Land Ownership&lt;/b&gt;&amp;nbsp;to avoid paying profit or rent for predictable goods and services" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="265" y="944" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DCpEQhKYorIqewdbWWzU-75" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Earth Change Virtual Machine (ECVM)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172" y="22.5" width="430" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
