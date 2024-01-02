@@ -1,51 +1,35 @@
-See: Business Model, eOS, kern, lang, law , text, txt
+See: Business Model, ChangeMaker, ECOS, eOS, kern, lang, law, Metaopoly, MetaMaker, MoneyMaker, text, txt
 
 LENS - Law Enabling Natural Systems
 
 Introduction
 The LENS language uses Human-Readable + Legally-Binding + Machine-Readable TOKENS to structure real-world production.
 
-The LENS interpreter reads these files to modify and constrain the DAO UI (such as ChangeMaker, Metaopoly, MetaMaker, MoneyMaker).
+## Value Types:
+SOURCES: Land, water, and many other INPUTS required for PRODUCTION.
+SKILLS: All of the thought and human INPUTS required for PRODUCTION.
+PRODUCT: A specific, unique, usually decaying, OUTPUT of PRODUCTION.
 
-------------------------------------------------Example .lens file:
-INFO: #!lens
-INFO: Rewriting the For_Product model in LENS...
-INFO:
+## 
+For each Value Type, mint one Token:
 
-GOAL: Local PRODUCTION of essential GOODS and SERVICES
-PRODUCTION: Apply SKILLS to SOURCES to create and maintain PRODUCTION
-SOURCES: land, water rights, mineral rights, and other finite things; organisims, tools and other semi-finite things; art, design, ideas, software and other infinite things
-SKILL: Potential Human effort applied to SOURCES to achieve one step in PRODUCTION
-SKILL_GUILD: A group sharing risk and reward across SKILL_CONTRACTS
+SOURCE_TITLE🗂: A legally-binding agreement declaring 'personal' or 'shared' or 'system' Property Ownership in SOURCES.
 
-COSTS: WAGES + "opportunity loss" + pollution + other externalities
-PRICE: MONEY paid by USERS to OWNERS
-PROFIT: USER_PRICE - OWNER_COSTS
+SKILL_CONTRACT: A legally-binding agreement to achieve *one step* in the supply chain of a specific PRODUCT_TICKET🎫, usually on a schedule.
 
-USE: Exclusive access to a SOURCE or PRODUCT
-HOLD: SOURCE_TITLES are held to avoid paying Profit, Rent or Interest
+PRODUCT_TICKET🎫: A legally-binding agreement to achieve *all steps* in *all* the supply-chains required to deliver future PRODUCTION at a projected quantity and quality, usually on a schedule.
 
-EARTHCHANGE: A Fungible Token (FT), or 'Coin' with a circulating supply limited by the number of square meters of Land being held as SOURCE_TITLES.
-
-SKILL_CONTRACT: A legally-binding agreement to achieve *one step* in the supply chain of a specific PRODUCT_TICKET  , usually on a schedule.
-Each SKILL_CONTRACT is Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Token (SFT) when held by a SKILL_GUILD.
-
-PRODUCT_TICKET: A legally-binding agreement to achieve *all steps* in *all* the supply-chains required to deliver future production at a projected quantity and quality, usually on a schedule.
-Each PRODUCT TICKET is a Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Token (SFT) when the associated SOURCE_TITLES are being held as SHARED_TITLE.
-
-SOURCE_TITLE: A legally-binding agreement of Property Ownership in SOURCES.
-Each SOURCE TITLE is Non-Fungible-Token (NFT), but may be treated as a Semi-Fungible-Tokens (SFT) when held as SHARED_TITLE.
-SHARED_TITLE: A group sharing risk and reward across SOURCE_TITLES.
+Optional: EARTHCHANGE: A Fungible Token (FT), or 'Coin' with a circulating supply limited by the number of M² of Land being held as SOURCE_TITLES🗂.
 
 
-BOOT: For each Square Meter of each Parcel of real-estate currently for sale, Mint 1 EARTHCHANGE Coin, then sell those Coins to buy that Land and all the startup supplies needed to create yet another Minimum Viable Village.
+== Value Loop:
+BOOT: For each M² of each Parcel, Mint 1 EARTHCHANGE Coin, then sell those Coins to buy that Land and all the startup supplies needed to create yet another Minimum Viable Village.
 
-INFO: Waiting for EARTHCHANGE coin_auction_sequence to complete...
-BOOT: For each Parcel, LOOP until the EARTHCHANGE coin_auction_sequence finishes
-BOOT: If coin_auction_sequence succeeds, buy Sources and annouce 1st day of work!
-INFO: The EARTHCHANGE circulating_supply is strictly limited to the number of square meters of Land being held as SOURCE_TITLES.
+BOOT: If coin_auction_sequence succeeds, buy Sources and begin work_auction_sequence.
 
-START: Each Occupant must sign a Skill_Contract to deliver some part in one of the supply chains required for a Basic Outcome.
+START: 
+
+Each Occupant must sign a Skill_Contract to deliver some part in one of the supply chains required for a Basic Outcome.
 
 RUN: Each occupant is guaranteed* a Basic Outcome of essential production (as defined by you and others within the Group of Groups attempting to establish this Minimum Viable Village).
 RUN: As you complete SKILL_CONTRACTS, you gain SOURCE_TITLE ownership*.
@@ -67,6 +51,37 @@ For each CELL on the GRID, apply .lens file:
     HOLD:
       If holding for PROFIT, show some abundance may conflict with OWNER goals.
 
+Notes
+The Kernel Developer's Guide to a GNU Economy
+Metaopoly - A game to make games to explore economic systems
+Creature from the Crypto
+https://docs.google.com/document/d/106IwrDKVGmYdYblQXHSeYOTDpEXwS9B_6SdNpdO-_qY/
+
+
+EXAMPLE SCENARIO
+The DAO issues one FT (earthⒸhange) for each M² of land.
+The DAO asks for `minimum_bid` as list-price / M² + estimated costs.
+
+The DAO auctions those earthⒸhange to buy that parcel.
+
+If the coin auction succeeds, and the parcel is slated for occupation, the DAO asks for the specific Product_Tickets🎫 that Group of Groups chooses to produce.
+
+Product_Tickets🎫 often require many Work_Contracts✍ and many Source_Titles🗂 to secure that production.
+
+Sign a Work_Contract✍ to receive a Basic Outcome of Product_Tickets🎫.
+
+As you complete Work_Contracts✍, Source_Titles🗂 vest to you as your real property ownership, under the terms of the For_Product model as defined below.
+
+There are 3 types of Source_Titles🗂, in order of importance: PERSON, SYSTEM, SHARED.
+1. PERSON: wash, eat, rest, play - meta-structure of a single-cell organism
+2. SYSTEM: roads, pipes, external border - multi-cellular meta-structure
+3. SHARED: specialized factories enable higher complexity
+
+Each occupant MUST gain Source_Titles🗂 of all 3 types.
+
+The specific Source_Titles🗂 you gain are based the Product_Tickets🎫 you selected.
+
+................
 Kernel Template
 Select one of each OPTION to create a new kernel:
 BOOT: Sell OPTION{Debt, Equity, NFT, Coin} to buy SOURCES.
@@ -74,12 +89,8 @@ SKILL: Receives OPTION{WAGES, PRODUCTION, SOURCES}.
 VEST: Pay or risk OPTION{MONEY, SKILL} to gain SOURCE_TITLES in the OPTION{SKILL you provide, PRODUCTION you USE}.
 HOLD: SOURCE_TITLES are held to OPTION{collect PROFIT, collect PRODUCT, avoid paying PROFIT}.
 
-Notes
-The Kernel Developer's Guide to a GNU Economy
-Metaopoly - A game to make games to explore economic systems
-Creature from the Crypto
-https://docs.google.com/document/d/106IwrDKVGmYdYblQXHSeYOTDpEXwS9B_6SdNpdO-_qY/
-
-In EMACS, see: ../.src/lens.el  ;; LENS -- a Language to Enable Natural Systems
 
 Economic Systems, Business Models, Development Models, Incentive Mechanisms, Modes of Production, Organizational Forms
+
+This is a continuation ../.src/lens.el  ;; LENS -- a Language to Enable Natural Systems
+

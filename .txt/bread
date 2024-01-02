@@ -1,12 +1,10 @@
-See: acre, bake, farm, field, kern, mill
+See: acre, bake, farm, field, grind, kern, mill
 
-Reimplemented as CORN.
+                     GRAIN
 
-
-################################################################
-####                 GRAIN
 
 ## A language and construction kit for Economic Kernel development.
+
 The purpose of an "Economic Kernel" is to structure real world PRODUCTION.
 
 ## Definitions

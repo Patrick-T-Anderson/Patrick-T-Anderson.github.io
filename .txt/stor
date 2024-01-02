@@ -1,6 +1,40 @@
 See: chat, cloud, P2P, storage
 
-Green.FileCoin.io
+We must store both data and potato.
+And we must also store the sources.
+
+Sources are the LAND and WORK required for production.
+
+If we can share both Sources and Storage,
+we can ensure production and availability.
+
+
+
+
+Shared Data Storage
+    Allow none, some or all to Read.
+    Allow none, some or all to Write.
+
+
+
+When A "sends a chat" to B,
+    A stores the data locally and waits for B to read.
+
+But if B tries to read while A is offline, the system fails.
+
+We can store on C to increase resilience.
+
+The more nodes we add, the better it gets?
+Up to some point, adding nodes helps.
+
+We can own LAND in Groups_of_Groups
+and trade future WORK for future GOOD
+to produce and store all we need.
+
+
+to share the storage that requires.
+
+reciprocal compensation
 
 BeakerBrowser.com >>An experimental peer-to-peer Web browser.
 

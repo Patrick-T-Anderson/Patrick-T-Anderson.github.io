@@ -1,38 +1,56 @@
-At the end of 1999, as a young father, I suddenly realized we have no control of our food.
+As a child, I wondered how ants organized society so each had plenty,
+while the TV showed fly-covered children clenching empty steel bowls.
 
-I wondered why we, as a society, cannot achieve even our most basic needs.
+The TV asked for money to help but surely the ants didn't have money.
 
-I eventually discovered two, very different ‘Economies’.
+                ...
 
-Home: 'You' Own the Sources of Production (🌳), mostly Alone, to CONSUME those Products(🥑).
-++ Abundance is never a fear because all Costs have already paid.
-++ Owners are not tempted to DESTROY because Price has no meaning.
--- Production is not very well structured, so few goods and services are available.
--- Ownership is not held in Groups, so there very little Scale in Production.
+Later I discovered GNU GPL Copyright license.
 
-Busi: 'We' Own the Sources of Production, in Groups, to SELL those Products.
--- Abundance may reduce Price so much that Costs cannot be recovered.
--- Owners are tempted to DESTROY to increase Price, to recover Costs.
-++ Production is very well structured, so many goods and services are available.
-++ Ownership is held in Groups, so Production can Scale.
+This odd legal instrument requires every product user
+gain access to the immaterial Sources of production.
 
-Could we remix these models to resolve these conflicts?
-Could we structure Production in Groups for all we need?
+But most users will never use the Sources, so why insure access?
 
-Home*Busi: 'We' Own the Sources of Production, in Groups, to CONSUME those Products.
-++ Abundance is never a fear because all Costs have already paid.
-++ Owners are not tempted to DESTROY because Price has no meaning.
-++ Production is very well structured, so many goods and services are available.
-++ Ownership is held in Groups, so Production can Scale.
+I thought about this for years.  What a curious idea.
 
-....
+It would be like gaining Trees🌳 when you buy Fruit🍎.
 
-We can SEPARATE Funding from Owning by selling Coins to the Rich.
-We can MINT 1 Coin per SQUARE_METER, then sell those coins to buy that Land.
+Well, owners cannot just give away their Trees🌳...
 
-We will CONNECT Skills with Production by offering Product_Tickets (expiring COUPONS redeemable for finished goods and services) in exchange for Skill_Contract signatures (expiring COMMITMENTS to achieve future work).
+Hmm, but they could buy Land with some Profit,
+then vest that Land to those who bought Fruit🍎.
 
-We will CONNECT Skills with Sources by vesting Land Ownership to those who complete Skill_Contracts.
-We will CONNECT Governance with Ownership by hodling Land in Groups to control that production.
-We will CHANGE Why we Own Sources as we hodl productive assets to AVOID paying Profit and Rent.
-We will REFLECT some Profit to the Payer so all Users gain Sources, as Saint IGNUcius has pled.
+This profit-sharing strategy, inspired by the GNU GPL,
+brings User Freedom to the material world.
+
+                                ...
+
+    A Supply Chain Game
+
+# Goal
+The local production of all essential Goods and Services.
+
+# Value Types
+INPUTS: Land, Work
+OUTPUTS: Goods, Services
+
+# Legal Instruments
+DEED: Expiring access to a specific portion of Land. [INPUT]
+CONTRACT: Expiring commitment to fulfill a specific kind of future Work. [INPUT]
+TICKET: Expiring coupon redeemable for a specific kind of future Good or Service. [OUTPUT]
+
+# Monetary Instruments
+COIN: Non-expiring fungible token limited in supply by the number of square meters of land held under these terms.
+
+# Social Agreements
+BASIC_OUTCOME: A bundle of TICKETS representing the essential Goods and Services every individual must have, as defined by this Group.
+
+# How to Play
+PAY-TO-PLAY: Buy COINS to fund production.
+
+SIGN-TO-STAY: Sign a CONTRACT for a BASIC_OUTCOME of essential Goods and Services.  This implicitly trades your future Work for the future Work of others.
+
+WORK-TO-OWN: Fulfill a CONTRACT to receive DEEDS of Land ownership "similar to" the Land used to fulfill the BASIC_OUTCOME you already received.
+
+OWN-FOR-GOOD: Hold Land DEEDS to own the future Goods provided by that Land.
